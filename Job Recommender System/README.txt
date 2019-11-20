@@ -1,1 +1,1 @@
-File to large for github. Visit: https://drive.google.com/open?id=1QwDrt4oK6eJhNqkzETDZmLKN2VyVnDul, download and read README.txt.
+File too large for github. Visit: https://drive.google.com/open?id=1QwDrt4oK6eJhNqkzETDZmLKN2VyVnDul, download and read README.txt.
