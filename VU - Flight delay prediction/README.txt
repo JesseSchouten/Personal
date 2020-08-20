@@ -6,4 +6,6 @@ The airports.csv file contains the data that was available for this competition.
 
 Kaggle place: 10/54 (https://www.kaggle.com/c/vu-aml2018/leaderboard)
 
+Methods used: Decision Tree, Random Forest, XGBoost.
+
 Special thanks to my teammates: Daan van der Tiel, Yannick Hogebrug, Dominique Hopman and Berend Mortier.
