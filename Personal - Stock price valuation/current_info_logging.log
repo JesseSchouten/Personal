@@ -1,0 +1,2712 @@
+2020-08-23 23:01:06;root;INFO;Starting main.
+2020-08-23 23:01:06;root;INFO;Load company table: False
+2020-08-23 23:01:06;root;INFO;Load daily stats: True
+2020-08-23 23:01:06;root;INFO;Load stock time series data: False
+2020-08-23 23:01:06;root;INFO;Balance sheets, etc (yearly/ quarterly data): False
+2020-08-23 23:01:06;root;INFO;Analysts data: False
+2020-08-23 23:01:07;root;INFO;Processing ticker AALB.AS
+2020-08-23 23:01:07;root;INFO;Started fill_stats_table
+2020-08-23 23:01:08;root;WARNING;AALB.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:08;root;INFO;Processing ticker ABN.AS
+2020-08-23 23:01:08;root;INFO;Started fill_stats_table
+2020-08-23 23:01:10;root;WARNING;ABN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:10;root;INFO;Processing ticker ADYEN.AS
+2020-08-23 23:01:10;root;INFO;Started fill_stats_table
+2020-08-23 23:01:11;root;WARNING;ADYEN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:11;root;INFO;Processing ticker AGN.AS
+2020-08-23 23:01:11;root;INFO;Started fill_stats_table
+2020-08-23 23:01:12;root;WARNING;AGN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:12;root;INFO;Processing ticker AD.AS
+2020-08-23 23:01:12;root;INFO;Started fill_stats_table
+2020-08-23 23:01:13;root;WARNING;AD.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:13;root;INFO;Processing ticker AKZA.AS
+2020-08-23 23:01:13;root;INFO;Started fill_stats_table
+2020-08-23 23:01:14;root;WARNING;AKZA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:14;root;INFO;Processing ticker MT.AS
+2020-08-23 23:01:14;root;INFO;Started fill_stats_table
+2020-08-23 23:01:15;root;WARNING;MT.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:15;root;INFO;Processing ticker ASML.AS
+2020-08-23 23:01:15;root;INFO;Started fill_stats_table
+2020-08-23 23:01:16;root;WARNING;ASML.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:16;root;INFO;Processing ticker ASRNL.AS
+2020-08-23 23:01:16;root;INFO;Started fill_stats_table
+2020-08-23 23:01:18;root;WARNING;ASRNL.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:18;root;INFO;Processing ticker DSM.AS
+2020-08-23 23:01:18;root;INFO;Started fill_stats_table
+2020-08-23 23:01:19;root;WARNING;DSM.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:19;root;INFO;Processing ticker GLPG.AS
+2020-08-23 23:01:19;root;INFO;Started fill_stats_table
+2020-08-23 23:01:20;root;WARNING;GLPG.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:20;root;INFO;Processing ticker HEIA.AS
+2020-08-23 23:01:20;root;INFO;Started fill_stats_table
+2020-08-23 23:01:21;root;WARNING;HEIA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:21;root;INFO;Processing ticker IMCD.AS
+2020-08-23 23:01:21;root;INFO;Started fill_stats_table
+2020-08-23 23:01:23;root;WARNING;IMCD.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:23;root;INFO;Processing ticker INGA.AS
+2020-08-23 23:01:23;root;INFO;Started fill_stats_table
+2020-08-23 23:01:24;root;WARNING;INGA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:24;root;INFO;Processing ticker KPN.AS
+2020-08-23 23:01:24;root;INFO;Started fill_stats_table
+2020-08-23 23:01:25;root;WARNING;KPN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:25;root;INFO;Processing ticker NN.AS
+2020-08-23 23:01:25;root;INFO;Started fill_stats_table
+2020-08-23 23:01:26;root;WARNING;NN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:26;root;INFO;Processing ticker PHIA.AS
+2020-08-23 23:01:26;root;INFO;Started fill_stats_table
+2020-08-23 23:01:28;root;WARNING;PHIA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:28;root;INFO;Processing ticker PRX.AS
+2020-08-23 23:01:28;root;INFO;Started fill_stats_table
+2020-08-23 23:01:29;root;WARNING;PRX.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:29;root;INFO;Processing ticker RAND.AS
+2020-08-23 23:01:29;root;INFO;Started fill_stats_table
+2020-08-23 23:01:30;root;WARNING;RAND.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:30;root;INFO;Processing ticker REN.AS
+2020-08-23 23:01:30;root;INFO;Started fill_stats_table
+2020-08-23 23:01:32;root;WARNING;REN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:32;root;INFO;Processing ticker RDSA.AS
+2020-08-23 23:01:32;root;INFO;Started fill_stats_table
+2020-08-23 23:01:33;root;WARNING;RDSA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:33;root;INFO;Processing ticker URW.AS
+2020-08-23 23:01:33;root;INFO;Started fill_stats_table
+2020-08-23 23:01:34;root;WARNING;URW.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:34;root;INFO;Processing ticker UNA.AS
+2020-08-23 23:01:34;root;INFO;Started fill_stats_table
+2020-08-23 23:01:35;root;WARNING;UNA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:35;root;INFO;Processing ticker WKL.AS
+2020-08-23 23:01:35;root;INFO;Started fill_stats_table
+2020-08-23 23:01:36;root;WARNING;WKL.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:36;root;INFO;Processing ticker VPK.AS
+2020-08-23 23:01:36;root;INFO;Started fill_stats_table
+2020-08-23 23:01:37;root;WARNING;VPK.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:37;root;INFO;Processing ticker AF.AS
+2020-08-23 23:01:37;root;INFO;Started fill_stats_table
+2020-08-23 23:01:39;root;INFO;Processing ticker ATC.AS
+2020-08-23 23:01:39;root;INFO;Started fill_stats_table
+2020-08-23 23:01:40;root;WARNING;ATC.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:40;root;INFO;Processing ticker AMG.AS
+2020-08-23 23:01:40;root;INFO;Started fill_stats_table
+2020-08-23 23:01:41;root;WARNING;AMG.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:41;root;INFO;Processing ticker APAM.AS
+2020-08-23 23:01:41;root;INFO;Started fill_stats_table
+2020-08-23 23:01:42;root;WARNING;APAM.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:42;root;INFO;Processing ticker ARCAD.AS
+2020-08-23 23:01:42;root;INFO;Started fill_stats_table
+2020-08-23 23:01:43;root;WARNING;ARCAD.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:43;root;INFO;Processing ticker ASM.AS
+2020-08-23 23:01:43;root;INFO;Started fill_stats_table
+2020-08-23 23:01:44;root;WARNING;ASM.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:44;root;INFO;Processing ticker BAMNB.AS
+2020-08-23 23:01:44;root;INFO;Started fill_stats_table
+2020-08-23 23:01:46;root;WARNING;BAMNB.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:46;root;INFO;Processing ticker BFIT.AS
+2020-08-23 23:01:46;root;INFO;Started fill_stats_table
+2020-08-23 23:01:47;root;WARNING;BFIT.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:47;root;INFO;Processing ticker BESI.AS
+2020-08-23 23:01:47;root;INFO;Started fill_stats_table
+2020-08-23 23:01:48;root;WARNING;BESI.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:48;root;INFO;Processing ticker BOKA.AS
+2020-08-23 23:01:48;root;INFO;Started fill_stats_table
+2020-08-23 23:01:49;root;WARNING;BOKA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:49;root;INFO;Processing ticker CRBN.AS
+2020-08-23 23:01:49;root;INFO;Started fill_stats_table
+2020-08-23 23:01:51;root;WARNING;CRBN.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:51;root;INFO;Processing ticker ECMPA.AS
+2020-08-23 23:01:51;root;INFO;Started fill_stats_table
+2020-08-23 23:01:52;root;WARNING;ECMPA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:52;root;INFO;Processing ticker FLOW.AS
+2020-08-23 23:01:52;root;INFO;Started fill_stats_table
+2020-08-23 23:01:54;root;WARNING;FLOW.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:54;root;INFO;Processing ticker FUR.AS
+2020-08-23 23:01:54;root;INFO;Started fill_stats_table
+2020-08-23 23:01:55;root;WARNING;FUR.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:55;root;INFO;Processing ticker GVNV.AS
+2020-08-23 23:01:55;root;INFO;Started fill_stats_table
+2020-08-23 23:01:56;root;WARNING;GVNV.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:56;root;INFO;Processing ticker INTER.AS
+2020-08-23 23:01:56;root;INFO;Started fill_stats_table
+2020-08-23 23:01:57;root;WARNING;INTER.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:57;root;INFO;Processing ticker OCI.AS
+2020-08-23 23:01:57;root;INFO;Started fill_stats_table
+2020-08-23 23:01:58;root;WARNING;OCI.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:58;root;INFO;Processing ticker PNL.AS
+2020-08-23 23:01:58;root;INFO;Started fill_stats_table
+2020-08-23 23:01:59;root;WARNING;PNL.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:01:59;root;INFO;Processing ticker SBMO.AS
+2020-08-23 23:01:59;root;INFO;Started fill_stats_table
+2020-08-23 23:02:00;root;WARNING;SBMO.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:00;root;INFO;Processing ticker LIGHT.AS
+2020-08-23 23:02:00;root;INFO;Started fill_stats_table
+2020-08-23 23:02:01;root;WARNING;LIGHT.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:01;root;INFO;Processing ticker TWEKA.AS
+2020-08-23 23:02:01;root;INFO;Started fill_stats_table
+2020-08-23 23:02:03;root;WARNING;TWEKA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:03;root;INFO;Processing ticker TOM2.AS
+2020-08-23 23:02:03;root;INFO;Started fill_stats_table
+2020-08-23 23:02:04;root;WARNING;TOM2.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:04;root;INFO;Processing ticker WDP.AS
+2020-08-23 23:02:04;root;INFO;Started fill_stats_table
+2020-08-23 23:02:04;root;WARNING;WDP.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:04;root;INFO;Processing ticker WHA.AS
+2020-08-23 23:02:04;root;INFO;Started fill_stats_table
+2020-08-23 23:02:06;root;WARNING;WHA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:06;root;INFO;Processing ticker ABI.BR
+2020-08-23 23:02:06;root;INFO;Started fill_stats_table
+2020-08-23 23:02:07;root;WARNING;ABI.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:07;root;INFO;Processing ticker INGA.BR
+2020-08-23 23:02:07;root;INFO;Started fill_stats_table
+2020-08-23 23:02:09;root;INFO;Processing ticker ENGI.BR
+2020-08-23 23:02:09;root;INFO;Started fill_stats_table
+2020-08-23 23:02:09;root;WARNING;ENGI.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:09;root;INFO;Processing ticker KBC.BR
+2020-08-23 23:02:09;root;INFO;Started fill_stats_table
+2020-08-23 23:02:10;root;WARNING;KBC.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:10;root;INFO;Processing ticker UCB.BR
+2020-08-23 23:02:10;root;INFO;Started fill_stats_table
+2020-08-23 23:02:12;root;WARNING;UCB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:12;root;INFO;Processing ticker GBLB.BR
+2020-08-23 23:02:12;root;INFO;Started fill_stats_table
+2020-08-23 23:02:13;root;WARNING;GBLB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:13;root;INFO;Processing ticker SOLB.BR
+2020-08-23 23:02:13;root;INFO;Started fill_stats_table
+2020-08-23 23:02:14;root;WARNING;SOLB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:14;root;INFO;Processing ticker UMI.BR
+2020-08-23 23:02:14;root;INFO;Started fill_stats_table
+2020-08-23 23:02:16;root;WARNING;UMI.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:16;root;INFO;Processing ticker AGS.BR
+2020-08-23 23:02:16;root;INFO;Started fill_stats_table
+2020-08-23 23:02:17;root;WARNING;AGS.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:17;root;INFO;Processing ticker GLPG.BR
+2020-08-23 23:02:17;root;INFO;Started fill_stats_table
+2020-08-23 23:02:18;root;INFO;Processing ticker COLR.BR
+2020-08-23 23:02:18;root;INFO;Started fill_stats_table
+2020-08-23 23:02:19;root;WARNING;COLR.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:19;root;INFO;Processing ticker PROX.BR
+2020-08-23 23:02:19;root;INFO;Started fill_stats_table
+2020-08-23 23:02:20;root;WARNING;PROX.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:20;root;INFO;Processing ticker SOF.BR
+2020-08-23 23:02:20;root;INFO;Started fill_stats_table
+2020-08-23 23:02:21;root;WARNING;SOF.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:21;root;INFO;Processing ticker TNET.BR
+2020-08-23 23:02:21;root;INFO;Started fill_stats_table
+2020-08-23 23:02:23;root;WARNING;TNET.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:23;root;INFO;Processing ticker ACKB.BR
+2020-08-23 23:02:23;root;INFO;Started fill_stats_table
+2020-08-23 23:02:24;root;WARNING;ACKB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:24;root;INFO;Processing ticker APAM.BR
+2020-08-23 23:02:24;root;INFO;Started fill_stats_table
+2020-08-23 23:02:25;root;WARNING;APAM.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:25;root;INFO;Processing ticker BPOST.BR
+2020-08-23 23:02:25;root;INFO;Started fill_stats_table
+2020-08-23 23:02:26;root;WARNING;BPOST.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:26;root;INFO;Processing ticker COFB.BR
+2020-08-23 23:02:26;root;INFO;Started fill_stats_table
+2020-08-23 23:02:27;root;WARNING;COFB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:27;root;INFO;Processing ticker ONTEX.BR
+2020-08-23 23:02:27;root;INFO;Started fill_stats_table
+2020-08-23 23:02:29;root;WARNING;ONTEX.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:29;root;INFO;Processing ticker BEKB.BR
+2020-08-23 23:02:29;root;INFO;Started fill_stats_table
+2020-08-23 23:02:30;root;WARNING;BEKB.BR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:30;root;INFO;Processing ticker ADS.DE
+2020-08-23 23:02:30;root;INFO;Started fill_stats_table
+2020-08-23 23:02:31;root;WARNING;ADS.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:31;root;INFO;Processing ticker ALV.DE
+2020-08-23 23:02:31;root;INFO;Started fill_stats_table
+2020-08-23 23:02:32;root;WARNING;ALV.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:32;root;INFO;Processing ticker BAS.DE
+2020-08-23 23:02:32;root;INFO;Started fill_stats_table
+2020-08-23 23:02:33;root;WARNING;BAS.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:33;root;INFO;Processing ticker BAYN.DE
+2020-08-23 23:02:33;root;INFO;Started fill_stats_table
+2020-08-23 23:02:34;root;WARNING;BAYN.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:34;root;INFO;Processing ticker BEI.DE
+2020-08-23 23:02:34;root;INFO;Started fill_stats_table
+2020-08-23 23:02:35;root;WARNING;BEI.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:35;root;INFO;Processing ticker BMW.DE
+2020-08-23 23:02:35;root;INFO;Started fill_stats_table
+2020-08-23 23:02:37;root;WARNING;BMW.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:37;root;INFO;Processing ticker 1COV.DE
+2020-08-23 23:02:37;root;INFO;Started fill_stats_table
+2020-08-23 23:02:38;root;WARNING;1COV.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:38;root;INFO;Processing ticker DAI.DE
+2020-08-23 23:02:38;root;INFO;Started fill_stats_table
+2020-08-23 23:02:39;root;WARNING;DAI.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:39;root;INFO;Processing ticker DBK.DE
+2020-08-23 23:02:39;root;INFO;Started fill_stats_table
+2020-08-23 23:02:40;root;WARNING;DBK.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:40;root;INFO;Processing ticker DB1.DE
+2020-08-23 23:02:40;root;INFO;Started fill_stats_table
+2020-08-23 23:02:41;root;WARNING;DB1.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:41;root;INFO;Processing ticker LHA.DE
+2020-08-23 23:02:41;root;INFO;Started fill_stats_table
+2020-08-23 23:02:42;root;WARNING;LHA.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:42;root;INFO;Processing ticker DPW.DE
+2020-08-23 23:02:42;root;INFO;Started fill_stats_table
+2020-08-23 23:02:43;root;WARNING;DPW.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:43;root;INFO;Processing ticker DTE.DE
+2020-08-23 23:02:43;root;INFO;Started fill_stats_table
+2020-08-23 23:02:44;root;WARNING;DTE.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:44;root;INFO;Processing ticker EOAN.DE
+2020-08-23 23:02:44;root;INFO;Started fill_stats_table
+2020-08-23 23:02:46;root;WARNING;EOAN.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:46;root;INFO;Processing ticker FRE.DE
+2020-08-23 23:02:46;root;INFO;Started fill_stats_table
+2020-08-23 23:02:47;root;WARNING;FRE.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:47;root;INFO;Processing ticker FME.DE
+2020-08-23 23:02:47;root;INFO;Started fill_stats_table
+2020-08-23 23:02:48;root;WARNING;FME.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:48;root;INFO;Processing ticker HEI.DE
+2020-08-23 23:02:48;root;INFO;Started fill_stats_table
+2020-08-23 23:02:49;root;WARNING;HEI.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:49;root;INFO;Processing ticker HEN3.DE
+2020-08-23 23:02:49;root;INFO;Started fill_stats_table
+2020-08-23 23:02:50;root;WARNING;HEN3.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:50;root;INFO;Processing ticker IFX.DE
+2020-08-23 23:02:50;root;INFO;Started fill_stats_table
+2020-08-23 23:02:51;root;WARNING;IFX.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:51;root;INFO;Processing ticker LIN.DE
+2020-08-23 23:02:51;root;INFO;Started fill_stats_table
+2020-08-23 23:02:52;root;WARNING;LIN.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:52;root;INFO;Processing ticker MRK.DE
+2020-08-23 23:02:52;root;INFO;Started fill_stats_table
+2020-08-23 23:02:54;root;WARNING;MRK.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:54;root;INFO;Processing ticker MTX.DE
+2020-08-23 23:02:54;root;INFO;Started fill_stats_table
+2020-08-23 23:02:54;root;WARNING;MTX.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:54;root;INFO;Processing ticker MUV2.DE
+2020-08-23 23:02:54;root;INFO;Started fill_stats_table
+2020-08-23 23:02:55;root;WARNING;MUV2.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:55;root;INFO;Processing ticker RWE.DE
+2020-08-23 23:02:55;root;INFO;Started fill_stats_table
+2020-08-23 23:02:57;root;WARNING;RWE.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:57;root;INFO;Processing ticker SAP.DE
+2020-08-23 23:02:57;root;INFO;Started fill_stats_table
+2020-08-23 23:02:58;root;WARNING;SAP.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:58;root;INFO;Processing ticker SIE.DE
+2020-08-23 23:02:58;root;INFO;Started fill_stats_table
+2020-08-23 23:02:59;root;WARNING;SIE.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:02:59;root;INFO;Processing ticker VOW3.DE
+2020-08-23 23:02:59;root;INFO;Started fill_stats_table
+2020-08-23 23:03:00;root;WARNING;VOW3.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:00;root;INFO;Processing ticker VNA.DE
+2020-08-23 23:03:00;root;INFO;Started fill_stats_table
+2020-08-23 23:03:01;root;WARNING;VNA.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:01;root;INFO;Processing ticker WDI.DE
+2020-08-23 23:03:01;root;INFO;Started fill_stats_table
+2020-08-23 23:03:02;root;WARNING;WDI.DE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:02;root;INFO;Processing ticker AAPL
+2020-08-23 23:03:02;root;INFO;Started fill_stats_table
+2020-08-23 23:03:03;root;WARNING;AAPL failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:03;root;INFO;Processing ticker AXP
+2020-08-23 23:03:03;root;INFO;Started fill_stats_table
+2020-08-23 23:03:05;root;WARNING;AXP failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:05;root;INFO;Processing ticker BA
+2020-08-23 23:03:05;root;INFO;Started fill_stats_table
+2020-08-23 23:03:06;root;WARNING;BA failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:06;root;INFO;Processing ticker CAT
+2020-08-23 23:03:06;root;INFO;Started fill_stats_table
+2020-08-23 23:03:07;root;WARNING;CAT failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:07;root;INFO;Processing ticker CSCO
+2020-08-23 23:03:07;root;INFO;Started fill_stats_table
+2020-08-23 23:03:09;root;WARNING;CSCO failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:09;root;INFO;Processing ticker CVX
+2020-08-23 23:03:09;root;INFO;Started fill_stats_table
+2020-08-23 23:03:10;root;WARNING;CVX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:10;root;INFO;Processing ticker DIS
+2020-08-23 23:03:10;root;INFO;Started fill_stats_table
+2020-08-23 23:03:11;root;WARNING;DIS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:11;root;INFO;Processing ticker DOW
+2020-08-23 23:03:11;root;INFO;Started fill_stats_table
+2020-08-23 23:03:13;root;WARNING;DOW failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:13;root;INFO;Processing ticker GS
+2020-08-23 23:03:13;root;INFO;Started fill_stats_table
+2020-08-23 23:03:14;root;WARNING;GS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:14;root;INFO;Processing ticker HD
+2020-08-23 23:03:14;root;INFO;Started fill_stats_table
+2020-08-23 23:03:15;root;WARNING;HD failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:15;root;INFO;Processing ticker IBM
+2020-08-23 23:03:15;root;INFO;Started fill_stats_table
+2020-08-23 23:03:16;root;WARNING;IBM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:16;root;INFO;Processing ticker INTC
+2020-08-23 23:03:16;root;INFO;Started fill_stats_table
+2020-08-23 23:03:18;root;WARNING;INTC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:18;root;INFO;Processing ticker JNJ
+2020-08-23 23:03:18;root;INFO;Started fill_stats_table
+2020-08-23 23:03:19;root;WARNING;JNJ failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:19;root;INFO;Processing ticker JPM
+2020-08-23 23:03:19;root;INFO;Started fill_stats_table
+2020-08-23 23:03:20;root;WARNING;JPM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:20;root;INFO;Processing ticker KO
+2020-08-23 23:03:20;root;INFO;Started fill_stats_table
+2020-08-23 23:03:21;root;WARNING;KO failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:21;root;INFO;Processing ticker MCD
+2020-08-23 23:03:21;root;INFO;Started fill_stats_table
+2020-08-23 23:03:22;root;WARNING;MCD failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:22;root;INFO;Processing ticker MMM
+2020-08-23 23:03:22;root;INFO;Started fill_stats_table
+2020-08-23 23:03:23;root;WARNING;MMM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:23;root;INFO;Processing ticker MRK
+2020-08-23 23:03:23;root;INFO;Started fill_stats_table
+2020-08-23 23:03:24;root;WARNING;MRK failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:24;root;INFO;Processing ticker MSFT
+2020-08-23 23:03:24;root;INFO;Started fill_stats_table
+2020-08-23 23:03:25;root;WARNING;MSFT failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:25;root;INFO;Processing ticker NKE
+2020-08-23 23:03:25;root;INFO;Started fill_stats_table
+2020-08-23 23:03:27;root;WARNING;NKE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:27;root;INFO;Processing ticker PFE
+2020-08-23 23:03:27;root;INFO;Started fill_stats_table
+2020-08-23 23:03:28;root;WARNING;PFE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:28;root;INFO;Processing ticker PG
+2020-08-23 23:03:28;root;INFO;Started fill_stats_table
+2020-08-23 23:03:29;root;WARNING;PG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:29;root;INFO;Processing ticker TRV
+2020-08-23 23:03:29;root;INFO;Started fill_stats_table
+2020-08-23 23:03:30;root;WARNING;TRV failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:30;root;INFO;Processing ticker UNH
+2020-08-23 23:03:30;root;INFO;Started fill_stats_table
+2020-08-23 23:03:31;root;WARNING;UNH failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:31;root;INFO;Processing ticker UTX
+2020-08-23 23:03:31;root;INFO;Started fill_stats_table
+2020-08-23 23:03:32;root;WARNING;UTX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:32;root;INFO;Processing ticker V
+2020-08-23 23:03:32;root;INFO;Started fill_stats_table
+2020-08-23 23:03:33;root;WARNING;V failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:33;root;INFO;Processing ticker VZ
+2020-08-23 23:03:33;root;INFO;Started fill_stats_table
+2020-08-23 23:03:34;root;WARNING;VZ failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:34;root;INFO;Processing ticker WBA
+2020-08-23 23:03:34;root;INFO;Started fill_stats_table
+2020-08-23 23:03:35;root;WARNING;WBA failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:35;root;INFO;Processing ticker WMT
+2020-08-23 23:03:35;root;INFO;Started fill_stats_table
+2020-08-23 23:03:37;root;WARNING;WMT failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:37;root;INFO;Processing ticker XOM
+2020-08-23 23:03:37;root;INFO;Started fill_stats_table
+2020-08-23 23:03:38;root;WARNING;XOM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:38;root;INFO;Processing ticker III.L
+2020-08-23 23:03:38;root;INFO;Started fill_stats_table
+2020-08-23 23:03:39;root;WARNING;III.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:39;root;INFO;Processing ticker ADM.L
+2020-08-23 23:03:39;root;INFO;Started fill_stats_table
+2020-08-23 23:03:40;root;WARNING;ADM.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:40;root;INFO;Processing ticker AAL.L
+2020-08-23 23:03:40;root;INFO;Started fill_stats_table
+2020-08-23 23:03:41;root;WARNING;AAL.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:41;root;INFO;Processing ticker ANTO.L
+2020-08-23 23:03:41;root;INFO;Started fill_stats_table
+2020-08-23 23:03:42;root;WARNING;ANTO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:42;root;INFO;Processing ticker AHT.L
+2020-08-23 23:03:42;root;INFO;Started fill_stats_table
+2020-08-23 23:03:43;root;WARNING;AHT.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:43;root;INFO;Processing ticker ABF.L
+2020-08-23 23:03:43;root;INFO;Started fill_stats_table
+2020-08-23 23:03:44;root;WARNING;ABF.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:44;root;INFO;Processing ticker AZN.L
+2020-08-23 23:03:44;root;INFO;Started fill_stats_table
+2020-08-23 23:03:46;root;WARNING;AZN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:46;root;INFO;Processing ticker AUTO.L
+2020-08-23 23:03:46;root;INFO;Started fill_stats_table
+2020-08-23 23:03:47;root;WARNING;AUTO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:47;root;INFO;Processing ticker AVV.L
+2020-08-23 23:03:47;root;INFO;Started fill_stats_table
+2020-08-23 23:03:48;root;WARNING;AVV.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:48;root;INFO;Processing ticker AV.L
+2020-08-23 23:03:48;root;INFO;Started fill_stats_table
+2020-08-23 23:03:49;root;WARNING;AV.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:49;root;INFO;Processing ticker BA.L
+2020-08-23 23:03:49;root;INFO;Started fill_stats_table
+2020-08-23 23:03:50;root;WARNING;BA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:50;root;INFO;Processing ticker BARC.L
+2020-08-23 23:03:50;root;INFO;Started fill_stats_table
+2020-08-23 23:03:52;root;WARNING;BARC.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:52;root;INFO;Processing ticker BDEV.L
+2020-08-23 23:03:52;root;INFO;Started fill_stats_table
+2020-08-23 23:03:53;root;WARNING;BDEV.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:53;root;INFO;Processing ticker BKG.L
+2020-08-23 23:03:53;root;INFO;Started fill_stats_table
+2020-08-23 23:03:54;root;WARNING;BKG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:54;root;INFO;Processing ticker BHP.L
+2020-08-23 23:03:54;root;INFO;Started fill_stats_table
+2020-08-23 23:03:55;root;WARNING;BHP.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:55;root;INFO;Processing ticker BP.L
+2020-08-23 23:03:55;root;INFO;Started fill_stats_table
+2020-08-23 23:03:56;root;WARNING;BP.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:56;root;INFO;Processing ticker BATS.L
+2020-08-23 23:03:56;root;INFO;Started fill_stats_table
+2020-08-23 23:03:57;root;WARNING;BATS.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:57;root;INFO;Processing ticker BLND.L
+2020-08-23 23:03:57;root;INFO;Started fill_stats_table
+2020-08-23 23:03:59;root;WARNING;BLND.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:03:59;root;INFO;Processing ticker BT-A.L
+2020-08-23 23:03:59;root;INFO;Started fill_stats_table
+2020-08-23 23:04:00;root;WARNING;BT-A.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:00;root;INFO;Processing ticker BNZL.L
+2020-08-23 23:04:00;root;INFO;Started fill_stats_table
+2020-08-23 23:04:01;root;WARNING;BNZL.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:01;root;INFO;Processing ticker BRBY.L
+2020-08-23 23:04:01;root;INFO;Started fill_stats_table
+2020-08-23 23:04:02;root;WARNING;BRBY.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:02;root;INFO;Processing ticker CCL.L
+2020-08-23 23:04:02;root;INFO;Started fill_stats_table
+2020-08-23 23:04:03;root;WARNING;CCL.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:03;root;INFO;Processing ticker CNA.L
+2020-08-23 23:04:03;root;INFO;Started fill_stats_table
+2020-08-23 23:04:04;root;WARNING;CNA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:04;root;INFO;Processing ticker CCH.L
+2020-08-23 23:04:04;root;INFO;Started fill_stats_table
+2020-08-23 23:04:05;root;WARNING;CCH.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:05;root;INFO;Processing ticker CPG.L
+2020-08-23 23:04:05;root;INFO;Started fill_stats_table
+2020-08-23 23:04:06;root;WARNING;CPG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:06;root;INFO;Processing ticker CRH.L
+2020-08-23 23:04:06;root;INFO;Started fill_stats_table
+2020-08-23 23:04:07;root;WARNING;CRH.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:07;root;INFO;Processing ticker CRDA.L
+2020-08-23 23:04:07;root;INFO;Started fill_stats_table
+2020-08-23 23:04:09;root;WARNING;CRDA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:09;root;INFO;Processing ticker DCC.L
+2020-08-23 23:04:09;root;INFO;Started fill_stats_table
+2020-08-23 23:04:09;root;WARNING;DCC.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:09;root;INFO;Processing ticker DGE.L
+2020-08-23 23:04:09;root;INFO;Started fill_stats_table
+2020-08-23 23:04:11;root;WARNING;DGE.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:11;root;INFO;Processing ticker EZJ.L
+2020-08-23 23:04:11;root;INFO;Started fill_stats_table
+2020-08-23 23:04:12;root;WARNING;EZJ.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:12;root;INFO;Processing ticker EVR.L
+2020-08-23 23:04:12;root;INFO;Started fill_stats_table
+2020-08-23 23:04:13;root;WARNING;EVR.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:13;root;INFO;Processing ticker EXPN.L
+2020-08-23 23:04:13;root;INFO;Started fill_stats_table
+2020-08-23 23:04:14;root;WARNING;EXPN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:14;root;INFO;Processing ticker FERG.L
+2020-08-23 23:04:14;root;INFO;Started fill_stats_table
+2020-08-23 23:04:15;root;WARNING;FERG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:15;root;INFO;Processing ticker FLTR.L
+2020-08-23 23:04:15;root;INFO;Started fill_stats_table
+2020-08-23 23:04:17;root;WARNING;FLTR.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:17;root;INFO;Processing ticker GSK.L
+2020-08-23 23:04:17;root;INFO;Started fill_stats_table
+2020-08-23 23:04:18;root;WARNING;GSK.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:18;root;INFO;Processing ticker GLEN.L
+2020-08-23 23:04:18;root;INFO;Started fill_stats_table
+2020-08-23 23:04:19;root;WARNING;GLEN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:19;root;INFO;Processing ticker HLMA.L
+2020-08-23 23:04:19;root;INFO;Started fill_stats_table
+2020-08-23 23:04:20;root;WARNING;HLMA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:20;root;INFO;Processing ticker HL.L
+2020-08-23 23:04:20;root;INFO;Started fill_stats_table
+2020-08-23 23:04:22;root;WARNING;HL.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:22;root;INFO;Processing ticker HSBA.L
+2020-08-23 23:04:22;root;INFO;Started fill_stats_table
+2020-08-23 23:04:23;root;WARNING;HSBA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:23;root;INFO;Processing ticker HIK.L
+2020-08-23 23:04:23;root;INFO;Started fill_stats_table
+2020-08-23 23:04:24;root;WARNING;HIK.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:24;root;INFO;Processing ticker IMB.L
+2020-08-23 23:04:24;root;INFO;Started fill_stats_table
+2020-08-23 23:04:25;root;WARNING;IMB.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:25;root;INFO;Processing ticker INF.L
+2020-08-23 23:04:25;root;INFO;Started fill_stats_table
+2020-08-23 23:04:26;root;WARNING;INF.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:26;root;INFO;Processing ticker IHG.L
+2020-08-23 23:04:26;root;INFO;Started fill_stats_table
+2020-08-23 23:04:27;root;WARNING;IHG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:27;root;INFO;Processing ticker IAG.L
+2020-08-23 23:04:27;root;INFO;Started fill_stats_table
+2020-08-23 23:04:28;root;WARNING;IAG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:28;root;INFO;Processing ticker ITRK.L
+2020-08-23 23:04:28;root;INFO;Started fill_stats_table
+2020-08-23 23:04:30;root;WARNING;ITRK.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:30;root;INFO;Processing ticker ITV.L
+2020-08-23 23:04:30;root;INFO;Started fill_stats_table
+2020-08-23 23:04:31;root;WARNING;ITV.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:31;root;INFO;Processing ticker JD.L
+2020-08-23 23:04:31;root;INFO;Started fill_stats_table
+2020-08-23 23:04:32;root;WARNING;JD.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:32;root;INFO;Processing ticker JMAT.L
+2020-08-23 23:04:32;root;INFO;Started fill_stats_table
+2020-08-23 23:04:33;root;WARNING;JMAT.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:33;root;INFO;Processing ticker JE.L
+2020-08-23 23:04:33;root;INFO;Started fill_stats_table
+2020-08-23 23:04:35;root;WARNING;JE.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:35;root;INFO;Processing ticker KGF.L
+2020-08-23 23:04:35;root;INFO;Started fill_stats_table
+2020-08-23 23:04:36;root;WARNING;KGF.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:36;root;INFO;Processing ticker LAND.L
+2020-08-23 23:04:36;root;INFO;Started fill_stats_table
+2020-08-23 23:04:37;root;WARNING;LAND.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:37;root;INFO;Processing ticker LGEN.L
+2020-08-23 23:04:37;root;INFO;Started fill_stats_table
+2020-08-23 23:04:38;root;WARNING;LGEN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:38;root;INFO;Processing ticker LLOY.L
+2020-08-23 23:04:38;root;INFO;Started fill_stats_table
+2020-08-23 23:04:39;root;WARNING;LLOY.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:39;root;INFO;Processing ticker LSE.L
+2020-08-23 23:04:39;root;INFO;Started fill_stats_table
+2020-08-23 23:04:41;root;WARNING;LSE.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:41;root;INFO;Processing ticker MNG.L
+2020-08-23 23:04:41;root;INFO;Started fill_stats_table
+2020-08-23 23:04:42;root;WARNING;MNG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:42;root;INFO;Processing ticker MGGT.L
+2020-08-23 23:04:42;root;INFO;Started fill_stats_table
+2020-08-23 23:04:43;root;WARNING;MGGT.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:43;root;INFO;Processing ticker MRO.L
+2020-08-23 23:04:43;root;INFO;Started fill_stats_table
+2020-08-23 23:04:44;root;WARNING;MRO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:44;root;INFO;Processing ticker MNDI.L
+2020-08-23 23:04:44;root;INFO;Started fill_stats_table
+2020-08-23 23:04:45;root;WARNING;MNDI.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:45;root;INFO;Processing ticker MRW.L
+2020-08-23 23:04:45;root;INFO;Started fill_stats_table
+2020-08-23 23:04:46;root;WARNING;MRW.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:46;root;INFO;Processing ticker NG.L
+2020-08-23 23:04:46;root;INFO;Started fill_stats_table
+2020-08-23 23:04:47;root;WARNING;NG.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:47;root;INFO;Processing ticker NXT.L
+2020-08-23 23:04:47;root;INFO;Started fill_stats_table
+2020-08-23 23:04:49;root;WARNING;NXT.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:49;root;INFO;Processing ticker NMC.L
+2020-08-23 23:04:49;root;INFO;Started fill_stats_table
+2020-08-23 23:04:50;root;WARNING;NMC.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:50;root;INFO;Processing ticker OCDO.L
+2020-08-23 23:04:50;root;INFO;Started fill_stats_table
+2020-08-23 23:04:51;root;WARNING;OCDO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:51;root;INFO;Processing ticker PSON.L
+2020-08-23 23:04:51;root;INFO;Started fill_stats_table
+2020-08-23 23:04:52;root;WARNING;PSON.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:52;root;INFO;Processing ticker PSN.L
+2020-08-23 23:04:52;root;INFO;Started fill_stats_table
+2020-08-23 23:04:53;root;WARNING;PSN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:53;root;INFO;Processing ticker PHNX.L
+2020-08-23 23:04:53;root;INFO;Started fill_stats_table
+2020-08-23 23:04:54;root;WARNING;PHNX.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:54;root;INFO;Processing ticker POLY.L
+2020-08-23 23:04:54;root;INFO;Started fill_stats_table
+2020-08-23 23:04:55;root;WARNING;POLY.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:55;root;INFO;Processing ticker PRU.L
+2020-08-23 23:04:55;root;INFO;Started fill_stats_table
+2020-08-23 23:04:56;root;WARNING;PRU.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:56;root;INFO;Processing ticker RB.L
+2020-08-23 23:04:56;root;INFO;Started fill_stats_table
+2020-08-23 23:04:57;root;WARNING;RB.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:57;root;INFO;Processing ticker REL.L
+2020-08-23 23:04:57;root;INFO;Started fill_stats_table
+2020-08-23 23:04:59;root;WARNING;REL.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:04:59;root;INFO;Processing ticker RTO.L
+2020-08-23 23:04:59;root;INFO;Started fill_stats_table
+2020-08-23 23:05:00;root;WARNING;RTO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:00;root;INFO;Processing ticker RIO.L
+2020-08-23 23:05:00;root;INFO;Started fill_stats_table
+2020-08-23 23:05:01;root;WARNING;RIO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:01;root;INFO;Processing ticker RMV.L
+2020-08-23 23:05:01;root;INFO;Started fill_stats_table
+2020-08-23 23:05:02;root;WARNING;RMV.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:02;root;INFO;Processing ticker RR.L
+2020-08-23 23:05:02;root;INFO;Started fill_stats_table
+2020-08-23 23:05:03;root;WARNING;RR.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:03;root;INFO;Processing ticker RBS.L
+2020-08-23 23:05:03;root;INFO;Started fill_stats_table
+2020-08-23 23:05:04;root;WARNING;RBS.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:04;root;INFO;Processing ticker RDSA.L
+2020-08-23 23:05:04;root;INFO;Started fill_stats_table
+2020-08-23 23:05:05;root;WARNING;RDSA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:05;root;INFO;Processing ticker RSA.L
+2020-08-23 23:05:05;root;INFO;Started fill_stats_table
+2020-08-23 23:05:06;root;WARNING;RSA.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:06;root;INFO;Processing ticker SGE.L
+2020-08-23 23:05:06;root;INFO;Started fill_stats_table
+2020-08-23 23:05:07;root;WARNING;SGE.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:07;root;INFO;Processing ticker SBRY.L
+2020-08-23 23:05:07;root;INFO;Started fill_stats_table
+2020-08-23 23:05:08;root;WARNING;SBRY.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:08;root;INFO;Processing ticker SDR.L
+2020-08-23 23:05:08;root;INFO;Started fill_stats_table
+2020-08-23 23:05:10;root;WARNING;SDR.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:10;root;INFO;Processing ticker SMT.L
+2020-08-23 23:05:10;root;INFO;Started fill_stats_table
+2020-08-23 23:05:11;root;WARNING;SMT.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:11;root;INFO;Processing ticker SGRO.L
+2020-08-23 23:05:11;root;INFO;Started fill_stats_table
+2020-08-23 23:05:12;root;WARNING;SGRO.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:12;root;INFO;Processing ticker SVT.L
+2020-08-23 23:05:12;root;INFO;Started fill_stats_table
+2020-08-23 23:05:13;root;INFO;Processing ticker SN.L
+2020-08-23 23:05:13;root;INFO;Started fill_stats_table
+2020-08-23 23:05:14;root;INFO;Processing ticker SMDS.L
+2020-08-23 23:05:14;root;INFO;Started fill_stats_table
+2020-08-23 23:05:15;root;INFO;Processing ticker SMIN.L
+2020-08-23 23:05:15;root;INFO;Started fill_stats_table
+2020-08-23 23:05:15;root;INFO;Processing ticker SKG.L
+2020-08-23 23:05:15;root;INFO;Started fill_stats_table
+2020-08-23 23:05:16;root;INFO;Processing ticker SPX.L
+2020-08-23 23:05:16;root;INFO;Started fill_stats_table
+2020-08-23 23:05:17;root;INFO;Processing ticker SSE.L
+2020-08-23 23:05:17;root;INFO;Started fill_stats_table
+2020-08-23 23:05:18;root;INFO;Processing ticker STAN.L
+2020-08-23 23:05:18;root;INFO;Started fill_stats_table
+2020-08-23 23:05:19;root;WARNING;STAN.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:19;root;INFO;Processing ticker SLA.L
+2020-08-23 23:05:19;root;INFO;Started fill_stats_table
+2020-08-23 23:05:20;root;INFO;Processing ticker STJ.L
+2020-08-23 23:05:20;root;INFO;Started fill_stats_table
+2020-08-23 23:05:21;root;INFO;Processing ticker TW.L
+2020-08-23 23:05:21;root;INFO;Started fill_stats_table
+2020-08-23 23:05:22;root;INFO;Processing ticker TSCO.L
+2020-08-23 23:05:22;root;INFO;Started fill_stats_table
+2020-08-23 23:05:22;root;INFO;Processing ticker TUI.L
+2020-08-23 23:05:22;root;INFO;Started fill_stats_table
+2020-08-23 23:05:23;root;INFO;Processing ticker ULVR.L
+2020-08-23 23:05:23;root;INFO;Started fill_stats_table
+2020-08-23 23:05:24;root;WARNING;ULVR.L failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:24;root;INFO;Processing ticker UU.L
+2020-08-23 23:05:24;root;INFO;Started fill_stats_table
+2020-08-23 23:05:25;root;INFO;Processing ticker VOD.L
+2020-08-23 23:05:25;root;INFO;Started fill_stats_table
+2020-08-23 23:05:26;root;INFO;Processing ticker WTB.L
+2020-08-23 23:05:26;root;INFO;Started fill_stats_table
+2020-08-23 23:05:27;root;INFO;Processing ticker WPP.L
+2020-08-23 23:05:27;root;INFO;Started fill_stats_table
+2020-08-23 23:05:28;root;INFO;Processing ticker AAPL
+2020-08-23 23:05:28;root;INFO;Started fill_stats_table
+2020-08-23 23:05:28;root;INFO;Processing ticker MSFT
+2020-08-23 23:05:28;root;INFO;Started fill_stats_table
+2020-08-23 23:05:29;root;INFO;Processing ticker AMZN
+2020-08-23 23:05:29;root;INFO;Started fill_stats_table
+2020-08-23 23:05:30;root;INFO;Processing ticker FB
+2020-08-23 23:05:30;root;INFO;Started fill_stats_table
+2020-08-23 23:05:31;root;INFO;Processing ticker GOOG
+2020-08-23 23:05:31;root;INFO;Started fill_stats_table
+2020-08-23 23:05:32;root;INFO;Processing ticker GOOGL
+2020-08-23 23:05:32;root;INFO;Started fill_stats_table
+2020-08-23 23:05:32;root;WARNING;GOOGL failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:32;root;INFO;Processing ticker INTC
+2020-08-23 23:05:32;root;INFO;Started fill_stats_table
+2020-08-23 23:05:33;root;INFO;Processing ticker CSCO
+2020-08-23 23:05:33;root;INFO;Started fill_stats_table
+2020-08-23 23:05:34;root;WARNING;CSCO failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:34;root;INFO;Processing ticker CMCSA
+2020-08-23 23:05:34;root;INFO;Started fill_stats_table
+2020-08-23 23:05:35;root;INFO;Processing ticker PEP
+2020-08-23 23:05:35;root;INFO;Started fill_stats_table
+2020-08-23 23:05:36;root;INFO;Processing ticker ADBE
+2020-08-23 23:05:36;root;INFO;Started fill_stats_table
+2020-08-23 23:05:37;root;INFO;Processing ticker NFLX
+2020-08-23 23:05:37;root;INFO;Started fill_stats_table
+2020-08-23 23:05:38;root;WARNING;NFLX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:38;root;INFO;Processing ticker NVDA
+2020-08-23 23:05:38;root;INFO;Started fill_stats_table
+2020-08-23 23:05:39;root;INFO;Processing ticker COST
+2020-08-23 23:05:39;root;INFO;Started fill_stats_table
+2020-08-23 23:05:39;root;INFO;Processing ticker PYPL
+2020-08-23 23:05:39;root;INFO;Started fill_stats_table
+2020-08-23 23:05:40;root;INFO;Processing ticker AMGN
+2020-08-23 23:05:40;root;INFO;Started fill_stats_table
+2020-08-23 23:05:41;root;INFO;Processing ticker AVGO
+2020-08-23 23:05:41;root;INFO;Started fill_stats_table
+2020-08-23 23:05:42;root;INFO;Processing ticker TXN
+2020-08-23 23:05:42;root;INFO;Started fill_stats_table
+2020-08-23 23:05:43;root;INFO;Processing ticker CHTR
+2020-08-23 23:05:43;root;INFO;Started fill_stats_table
+2020-08-23 23:05:44;root;INFO;Processing ticker SBUX
+2020-08-23 23:05:44;root;INFO;Started fill_stats_table
+2020-08-23 23:05:45;root;INFO;Processing ticker TSLA
+2020-08-23 23:05:45;root;INFO;Started fill_stats_table
+2020-08-23 23:05:46;root;INFO;Processing ticker QCOM
+2020-08-23 23:05:46;root;INFO;Started fill_stats_table
+2020-08-23 23:05:47;root;WARNING;QCOM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:47;root;INFO;Processing ticker FISV
+2020-08-23 23:05:47;root;INFO;Started fill_stats_table
+2020-08-23 23:05:47;root;INFO;Processing ticker GILD
+2020-08-23 23:05:47;root;INFO;Started fill_stats_table
+2020-08-23 23:05:48;root;INFO;Processing ticker BKNG
+2020-08-23 23:05:48;root;INFO;Started fill_stats_table
+2020-08-23 23:05:49;root;INFO;Processing ticker MDLZ
+2020-08-23 23:05:49;root;INFO;Started fill_stats_table
+2020-08-23 23:05:50;root;INFO;Processing ticker ADP
+2020-08-23 23:05:50;root;INFO;Started fill_stats_table
+2020-08-23 23:05:51;root;INFO;Processing ticker INTU
+2020-08-23 23:05:51;root;INFO;Started fill_stats_table
+2020-08-23 23:05:52;root;INFO;Processing ticker TMUS
+2020-08-23 23:05:52;root;INFO;Started fill_stats_table
+2020-08-23 23:05:53;root;INFO;Processing ticker ISRG
+2020-08-23 23:05:53;root;INFO;Started fill_stats_table
+2020-08-23 23:05:54;root;WARNING;ISRG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:05:54;root;INFO;Processing ticker MU
+2020-08-23 23:05:54;root;INFO;Started fill_stats_table
+2020-08-23 23:05:54;root;ERROR;(1054, "Unknown column 'nan' in 'field list'")
+2020-08-23 23:05:54;root;INFO;Processing ticker VRTX
+2020-08-23 23:05:54;root;INFO;Started fill_stats_table
+2020-08-23 23:05:55;root;INFO;Processing ticker CSX
+2020-08-23 23:05:55;root;INFO;Started fill_stats_table
+2020-08-23 23:05:56;root;INFO;Processing ticker AMD
+2020-08-23 23:05:56;root;INFO;Started fill_stats_table
+2020-08-23 23:05:57;root;INFO;Processing ticker AMAT
+2020-08-23 23:05:57;root;INFO;Started fill_stats_table
+2020-08-23 23:05:58;root;INFO;Processing ticker BIIB
+2020-08-23 23:05:58;root;INFO;Started fill_stats_table
+2020-08-23 23:05:59;root;INFO;Processing ticker WBA
+2020-08-23 23:05:59;root;INFO;Started fill_stats_table
+2020-08-23 23:06:00;root;INFO;Processing ticker EXC
+2020-08-23 23:06:00;root;INFO;Started fill_stats_table
+2020-08-23 23:06:01;root;INFO;Processing ticker ILMN
+2020-08-23 23:06:01;root;INFO;Started fill_stats_table
+2020-08-23 23:06:02;root;INFO;Processing ticker MAR
+2020-08-23 23:06:02;root;INFO;Started fill_stats_table
+2020-08-23 23:06:03;root;INFO;Processing ticker ATVI
+2020-08-23 23:06:03;root;INFO;Started fill_stats_table
+2020-08-23 23:06:03;root;INFO;Processing ticker ADSK
+2020-08-23 23:06:03;root;INFO;Started fill_stats_table
+2020-08-23 23:06:05;root;INFO;Processing ticker LRCX
+2020-08-23 23:06:05;root;INFO;Started fill_stats_table
+2020-08-23 23:06:06;root;INFO;Processing ticker ADI
+2020-08-23 23:06:06;root;INFO;Started fill_stats_table
+2020-08-23 23:06:07;root;INFO;Processing ticker ROST
+2020-08-23 23:06:07;root;INFO;Started fill_stats_table
+2020-08-23 23:06:08;root;INFO;Processing ticker REGN
+2020-08-23 23:06:08;root;INFO;Started fill_stats_table
+2020-08-23 23:06:09;root;INFO;Processing ticker NXPI
+2020-08-23 23:06:09;root;INFO;Started fill_stats_table
+2020-08-23 23:06:10;root;WARNING;NXPI failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:10;root;INFO;Processing ticker KHC
+2020-08-23 23:06:10;root;INFO;Started fill_stats_table
+2020-08-23 23:06:11;root;INFO;Processing ticker XEL
+2020-08-23 23:06:11;root;INFO;Started fill_stats_table
+2020-08-23 23:06:11;root;INFO;Processing ticker JD
+2020-08-23 23:06:11;root;INFO;Started fill_stats_table
+2020-08-23 23:06:12;root;INFO;Processing ticker MNST
+2020-08-23 23:06:12;root;INFO;Started fill_stats_table
+2020-08-23 23:06:13;root;INFO;Processing ticker BIDU
+2020-08-23 23:06:13;root;INFO;Started fill_stats_table
+2020-08-23 23:06:14;root;INFO;Processing ticker CTSH
+2020-08-23 23:06:14;root;INFO;Started fill_stats_table
+2020-08-23 23:06:15;root;INFO;Processing ticker MELI
+2020-08-23 23:06:15;root;INFO;Started fill_stats_table
+2020-08-23 23:06:16;root;INFO;Processing ticker EA
+2020-08-23 23:06:16;root;INFO;Started fill_stats_table
+2020-08-23 23:06:17;root;INFO;Processing ticker ORLY
+2020-08-23 23:06:17;root;INFO;Started fill_stats_table
+2020-08-23 23:06:17;root;WARNING;ORLY failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:17;root;INFO;Processing ticker PAYX
+2020-08-23 23:06:17;root;INFO;Started fill_stats_table
+2020-08-23 23:06:18;root;INFO;Processing ticker SIRI
+2020-08-23 23:06:18;root;INFO;Started fill_stats_table
+2020-08-23 23:06:19;root;INFO;Processing ticker WDAY
+2020-08-23 23:06:19;root;INFO;Started fill_stats_table
+2020-08-23 23:06:20;root;INFO;Processing ticker EBAY
+2020-08-23 23:06:20;root;INFO;Started fill_stats_table
+2020-08-23 23:06:21;root;INFO;Processing ticker LULU
+2020-08-23 23:06:21;root;INFO;Started fill_stats_table
+2020-08-23 23:06:22;root;WARNING;LULU failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:22;root;INFO;Processing ticker CTAS
+2020-08-23 23:06:22;root;INFO;Started fill_stats_table
+2020-08-23 23:06:23;root;INFO;Processing ticker KLAC
+2020-08-23 23:06:23;root;INFO;Started fill_stats_table
+2020-08-23 23:06:24;root;INFO;Processing ticker WLTW
+2020-08-23 23:06:24;root;INFO;Started fill_stats_table
+2020-08-23 23:06:24;root;WARNING;WLTW failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:24;root;INFO;Processing ticker VRSK
+2020-08-23 23:06:24;root;INFO;Started fill_stats_table
+2020-08-23 23:06:25;root;INFO;Processing ticker PCAR
+2020-08-23 23:06:25;root;INFO;Started fill_stats_table
+2020-08-23 23:06:26;root;INFO;Processing ticker MCHP
+2020-08-23 23:06:26;root;INFO;Started fill_stats_table
+2020-08-23 23:06:27;root;INFO;Processing ticker XLNX
+2020-08-23 23:06:27;root;INFO;Started fill_stats_table
+2020-08-23 23:06:28;root;INFO;Processing ticker VRSN
+2020-08-23 23:06:28;root;INFO;Started fill_stats_table
+2020-08-23 23:06:29;root;INFO;Processing ticker CSGP
+2020-08-23 23:06:29;root;INFO;Started fill_stats_table
+2020-08-23 23:06:30;root;INFO;Processing ticker NTES
+2020-08-23 23:06:30;root;INFO;Started fill_stats_table
+2020-08-23 23:06:31;root;INFO;Processing ticker IDXX
+2020-08-23 23:06:31;root;INFO;Started fill_stats_table
+2020-08-23 23:06:32;root;INFO;Processing ticker ALXN
+2020-08-23 23:06:32;root;INFO;Started fill_stats_table
+2020-08-23 23:06:33;root;INFO;Processing ticker SPLK
+2020-08-23 23:06:33;root;INFO;Started fill_stats_table
+2020-08-23 23:06:34;root;INFO;Processing ticker CPRT
+2020-08-23 23:06:34;root;INFO;Started fill_stats_table
+2020-08-23 23:06:35;root;INFO;Processing ticker ANSS
+2020-08-23 23:06:35;root;INFO;Started fill_stats_table
+2020-08-23 23:06:35;root;INFO;Processing ticker CERN
+2020-08-23 23:06:35;root;INFO;Started fill_stats_table
+2020-08-23 23:06:36;root;INFO;Processing ticker SNPS
+2020-08-23 23:06:36;root;INFO;Started fill_stats_table
+2020-08-23 23:06:37;root;INFO;Processing ticker ASML
+2020-08-23 23:06:37;root;INFO;Started fill_stats_table
+2020-08-23 23:06:38;root;INFO;Processing ticker ALGN
+2020-08-23 23:06:38;root;INFO;Started fill_stats_table
+2020-08-23 23:06:39;root;INFO;Processing ticker CDNS
+2020-08-23 23:06:39;root;INFO;Started fill_stats_table
+2020-08-23 23:06:41;root;INFO;Processing ticker DLTR
+2020-08-23 23:06:41;root;INFO;Started fill_stats_table
+2020-08-23 23:06:42;root;INFO;Processing ticker FAST
+2020-08-23 23:06:42;root;INFO;Started fill_stats_table
+2020-08-23 23:06:42;root;INFO;Processing ticker SWKS
+2020-08-23 23:06:42;root;INFO;Started fill_stats_table
+2020-08-23 23:06:43;root;INFO;Processing ticker WDC
+2020-08-23 23:06:43;root;INFO;Started fill_stats_table
+2020-08-23 23:06:44;root;INFO;Processing ticker CDW
+2020-08-23 23:06:44;root;INFO;Started fill_stats_table
+2020-08-23 23:06:45;root;WARNING;CDW failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:45;root;INFO;Processing ticker UAL
+2020-08-23 23:06:45;root;INFO;Started fill_stats_table
+2020-08-23 23:06:46;root;INFO;Processing ticker SGEN
+2020-08-23 23:06:46;root;INFO;Started fill_stats_table
+2020-08-23 23:06:47;root;INFO;Processing ticker CHKP
+2020-08-23 23:06:47;root;INFO;Started fill_stats_table
+2020-08-23 23:06:48;root;WARNING;CHKP failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:06:48;root;INFO;Processing ticker TCOM
+2020-08-23 23:06:48;root;INFO;Started fill_stats_table
+2020-08-23 23:06:48;root;INFO;Processing ticker MXIM
+2020-08-23 23:06:48;root;INFO;Started fill_stats_table
+2020-08-23 23:06:49;root;INFO;Processing ticker INCY
+2020-08-23 23:06:49;root;INFO;Started fill_stats_table
+2020-08-23 23:06:50;root;INFO;Processing ticker CTXS
+2020-08-23 23:06:50;root;INFO;Started fill_stats_table
+2020-08-23 23:06:51;root;INFO;Processing ticker ULTA
+2020-08-23 23:06:51;root;INFO;Started fill_stats_table
+2020-08-23 23:06:52;root;INFO;Processing ticker BMRN
+2020-08-23 23:06:52;root;INFO;Started fill_stats_table
+2020-08-23 23:06:53;root;INFO;Processing ticker EXPE
+2020-08-23 23:06:53;root;INFO;Started fill_stats_table
+2020-08-23 23:06:54;root;INFO;Processing ticker TTWO
+2020-08-23 23:06:54;root;INFO;Started fill_stats_table
+2020-08-23 23:06:55;root;INFO;Processing ticker FOXA
+2020-08-23 23:06:55;root;INFO;Started fill_stats_table
+2020-08-23 23:06:56;root;INFO;Processing ticker NTAP
+2020-08-23 23:06:56;root;INFO;Started fill_stats_table
+2020-08-23 23:06:56;root;INFO;Processing ticker AAL
+2020-08-23 23:06:56;root;INFO;Started fill_stats_table
+2020-08-23 23:06:57;root;INFO;Processing ticker FOX
+2020-08-23 23:06:57;root;INFO;Started fill_stats_table
+2020-08-23 23:06:58;root;INFO;Processing ticker LBTYK
+2020-08-23 23:06:58;root;INFO;Started fill_stats_table
+2020-08-23 23:06:59;root;INFO;Processing ticker LBTYA
+2020-08-23 23:06:59;root;INFO;Started fill_stats_table
+2020-08-23 23:07:00;root;INFO;Processing ticker 6857.T
+2020-08-23 23:07:00;root;INFO;Started fill_stats_table
+2020-08-23 23:07:01;root;INFO;Processing ticker 8267.T
+2020-08-23 23:07:01;root;INFO;Started fill_stats_table
+2020-08-23 23:07:02;root;WARNING;8267.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:02;root;INFO;Processing ticker 5201.T
+2020-08-23 23:07:02;root;INFO;Started fill_stats_table
+2020-08-23 23:07:03;root;INFO;Processing ticker 2802.T
+2020-08-23 23:07:03;root;INFO;Started fill_stats_table
+2020-08-23 23:07:04;root;INFO;Processing ticker 6770.T
+2020-08-23 23:07:04;root;INFO;Started fill_stats_table
+2020-08-23 23:07:05;root;INFO;Processing ticker 6113.T
+2020-08-23 23:07:05;root;INFO;Started fill_stats_table
+2020-08-23 23:07:06;root;WARNING;6113.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:06;root;INFO;Processing ticker 9202.T
+2020-08-23 23:07:06;root;INFO;Started fill_stats_table
+2020-08-23 23:07:07;root;INFO;Processing ticker 8304.T
+2020-08-23 23:07:07;root;INFO;Started fill_stats_table
+2020-08-23 23:07:08;root;INFO;Processing ticker 2502.T
+2020-08-23 23:07:08;root;INFO;Started fill_stats_table
+2020-08-23 23:07:08;root;WARNING;2502.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:08;root;INFO;Processing ticker 3407.T
+2020-08-23 23:07:08;root;INFO;Started fill_stats_table
+2020-08-23 23:07:09;root;INFO;Processing ticker 4503.T
+2020-08-23 23:07:09;root;INFO;Started fill_stats_table
+2020-08-23 23:07:10;root;WARNING;4503.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:10;root;INFO;Processing ticker 7832.T
+2020-08-23 23:07:10;root;INFO;Started fill_stats_table
+2020-08-23 23:07:11;root;INFO;Processing ticker 5108.T
+2020-08-23 23:07:11;root;INFO;Started fill_stats_table
+2020-08-23 23:07:12;root;INFO;Processing ticker 7751.T
+2020-08-23 23:07:12;root;INFO;Started fill_stats_table
+2020-08-23 23:07:13;root;INFO;Processing ticker MSJP.T
+2020-08-23 23:07:13;root;INFO;Started fill_stats_table
+2020-08-23 23:07:14;root;WARNING;MSJP.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:14;root;INFO;Processing ticker 6952.T
+2020-08-23 23:07:14;root;INFO;Started fill_stats_table
+2020-08-23 23:07:15;root;INFO;Processing ticker 9022.T
+2020-08-23 23:07:15;root;INFO;Started fill_stats_table
+2020-08-23 23:07:16;root;INFO;Processing ticker 8331.T
+2020-08-23 23:07:16;root;INFO;Started fill_stats_table
+2020-08-23 23:07:17;root;INFO;Processing ticker 9502.T
+2020-08-23 23:07:17;root;INFO;Started fill_stats_table
+2020-08-23 23:07:18;root;INFO;Processing ticker 4519.T
+2020-08-23 23:07:18;root;INFO;Started fill_stats_table
+2020-08-23 23:07:19;root;INFO;Processing ticker 7762.T
+2020-08-23 23:07:19;root;INFO;Started fill_stats_table
+2020-08-23 23:07:20;root;INFO;Processing ticker 1721.T
+2020-08-23 23:07:20;root;INFO;Started fill_stats_table
+2020-08-23 23:07:21;root;WARNING;1721.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:21;root;INFO;Processing ticker 7186.T
+2020-08-23 23:07:21;root;INFO;Started fill_stats_table
+2020-08-23 23:07:21;root;INFO;Processing ticker 8253.T
+2020-08-23 23:07:21;root;INFO;Started fill_stats_table
+2020-08-23 23:07:22;root;INFO;Processing ticker 4751.T
+2020-08-23 23:07:22;root;INFO;Started fill_stats_table
+2020-08-23 23:07:23;root;INFO;Processing ticker 7912.T
+2020-08-23 23:07:23;root;INFO;Started fill_stats_table
+2020-08-23 23:07:24;root;INFO;Processing ticker 8750.T
+2020-08-23 23:07:24;root;INFO;Started fill_stats_table
+2020-08-23 23:07:25;root;INFO;Processing ticker 4568.T
+2020-08-23 23:07:25;root;INFO;Started fill_stats_table
+2020-08-23 23:07:26;root;INFO;Processing ticker 6367.T
+2020-08-23 23:07:26;root;INFO;Started fill_stats_table
+2020-08-23 23:07:27;root;WARNING;6367.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:27;root;INFO;Processing ticker 4506.T
+2020-08-23 23:07:27;root;INFO;Started fill_stats_table
+2020-08-23 23:07:28;root;INFO;Processing ticker 1925.T
+2020-08-23 23:07:28;root;INFO;Started fill_stats_table
+2020-08-23 23:07:29;root;INFO;Processing ticker 8601.T
+2020-08-23 23:07:29;root;INFO;Started fill_stats_table
+2020-08-23 23:07:30;root;INFO;Processing ticker 2432.T
+2020-08-23 23:07:30;root;INFO;Started fill_stats_table
+2020-08-23 23:07:31;root;INFO;Processing ticker 4061.T
+2020-08-23 23:07:31;root;INFO;Started fill_stats_table
+2020-08-23 23:07:32;root;INFO;Processing ticker 6902.T
+2020-08-23 23:07:32;root;INFO;Started fill_stats_table
+2020-08-23 23:07:33;root;INFO;Processing ticker 4324.T
+2020-08-23 23:07:33;root;INFO;Started fill_stats_table
+2020-08-23 23:07:33;root;INFO;Processing ticker 4631.T
+2020-08-23 23:07:33;root;INFO;Started fill_stats_table
+2020-08-23 23:07:34;root;INFO;Processing ticker 5714.T
+2020-08-23 23:07:34;root;INFO;Started fill_stats_table
+2020-08-23 23:07:35;root;INFO;Processing ticker 9020.T
+2020-08-23 23:07:35;root;INFO;Started fill_stats_table
+2020-08-23 23:07:36;root;INFO;Processing ticker 6361.T
+2020-08-23 23:07:36;root;INFO;Started fill_stats_table
+2020-08-23 23:07:37;root;WARNING;6361.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:37;root;INFO;Processing ticker 4523.T
+2020-08-23 23:07:37;root;INFO;Started fill_stats_table
+2020-08-23 23:07:38;root;INFO;Processing ticker 8028.T
+2020-08-23 23:07:38;root;INFO;Started fill_stats_table
+2020-08-23 23:07:39;root;INFO;Processing ticker 6954.T
+2020-08-23 23:07:39;root;INFO;Started fill_stats_table
+2020-08-23 23:07:40;root;INFO;Processing ticker 9983.T
+2020-08-23 23:07:40;root;INFO;Started fill_stats_table
+2020-08-23 23:07:41;root;INFO;Processing ticker 6504.T
+2020-08-23 23:07:41;root;INFO;Started fill_stats_table
+2020-08-23 23:07:42;root;INFO;Processing ticker 4901.T
+2020-08-23 23:07:42;root;INFO;Started fill_stats_table
+2020-08-23 23:07:43;root;INFO;Processing ticker 5803.T
+2020-08-23 23:07:43;root;INFO;Started fill_stats_table
+2020-08-23 23:07:44;root;INFO;Processing ticker 6702.T
+2020-08-23 23:07:44;root;INFO;Started fill_stats_table
+2020-08-23 23:07:44;root;INFO;Processing ticker 8354.T
+2020-08-23 23:07:44;root;INFO;Started fill_stats_table
+2020-08-23 23:07:45;root;INFO;Processing ticker 5801.T
+2020-08-23 23:07:45;root;INFO;Started fill_stats_table
+2020-08-23 23:07:46;root;INFO;Processing ticker 6674.T
+2020-08-23 23:07:46;root;INFO;Started fill_stats_table
+2020-08-23 23:07:47;root;INFO;Processing ticker 1808.T
+2020-08-23 23:07:47;root;INFO;Started fill_stats_table
+2020-08-23 23:07:48;root;INFO;Processing ticker 7205.T
+2020-08-23 23:07:48;root;INFO;Started fill_stats_table
+2020-08-23 23:07:49;root;WARNING;7205.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:49;root;INFO;Processing ticker 6305.T
+2020-08-23 23:07:49;root;INFO;Started fill_stats_table
+2020-08-23 23:07:50;root;INFO;Processing ticker 6501.T
+2020-08-23 23:07:50;root;INFO;Started fill_stats_table
+2020-08-23 23:07:51;root;INFO;Processing ticker 7004.T
+2020-08-23 23:07:51;root;INFO;Started fill_stats_table
+2020-08-23 23:07:52;root;WARNING;7004.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:07:52;root;INFO;Processing ticker 7267.T
+2020-08-23 23:07:52;root;INFO;Started fill_stats_table
+2020-08-23 23:07:52;root;INFO;Processing ticker 5019.T
+2020-08-23 23:07:52;root;INFO;Started fill_stats_table
+2020-08-23 23:07:53;root;INFO;Processing ticker 7013.T
+2020-08-23 23:07:53;root;INFO;Started fill_stats_table
+2020-08-23 23:07:54;root;INFO;Processing ticker 1605.T
+2020-08-23 23:07:54;root;INFO;Started fill_stats_table
+2020-08-23 23:07:55;root;INFO;Processing ticker 3099.T
+2020-08-23 23:07:55;root;INFO;Started fill_stats_table
+2020-08-23 23:07:56;root;INFO;Processing ticker 7202.T
+2020-08-23 23:07:56;root;INFO;Started fill_stats_table
+2020-08-23 23:07:57;root;INFO;Processing ticker 8001.T
+2020-08-23 23:07:57;root;INFO;Started fill_stats_table
+2020-08-23 23:07:58;root;INFO;Processing ticker 3086.T
+2020-08-23 23:07:58;root;INFO;Started fill_stats_table
+2020-08-23 23:07:59;root;INFO;Processing ticker 6178.T
+2020-08-23 23:07:59;root;INFO;Started fill_stats_table
+2020-08-23 23:08:00;root;INFO;Processing ticker 5631.T
+2020-08-23 23:08:00;root;INFO;Started fill_stats_table
+2020-08-23 23:08:01;root;INFO;Processing ticker 2914.T
+2020-08-23 23:08:01;root;INFO;Started fill_stats_table
+2020-08-23 23:08:02;root;INFO;Processing ticker 5411.T
+2020-08-23 23:08:02;root;INFO;Started fill_stats_table
+2020-08-23 23:08:02;root;INFO;Processing ticker 1963.T
+2020-08-23 23:08:02;root;INFO;Started fill_stats_table
+2020-08-23 23:08:03;root;INFO;Processing ticker JPY.T
+2020-08-23 23:08:03;root;INFO;Started fill_stats_table
+2020-08-23 23:08:05;root;WARNING;JPY.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:05;root;INFO;Processing ticker 6473.T
+2020-08-23 23:08:05;root;INFO;Started fill_stats_table
+2020-08-23 23:08:06;root;INFO;Processing ticker 5020.T
+2020-08-23 23:08:06;root;INFO;Started fill_stats_table
+2020-08-23 23:08:07;root;INFO;Processing ticker 1812.T
+2020-08-23 23:08:07;root;INFO;Started fill_stats_table
+2020-08-23 23:08:08;root;INFO;Processing ticker 9503.T
+2020-08-23 23:08:08;root;INFO;Started fill_stats_table
+2020-08-23 23:08:08;root;WARNING;9503.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:08;root;INFO;Processing ticker 4452.T
+2020-08-23 23:08:08;root;INFO;Started fill_stats_table
+2020-08-23 23:08:09;root;INFO;Processing ticker 7012.T
+2020-08-23 23:08:09;root;INFO;Started fill_stats_table
+2020-08-23 23:08:10;root;INFO;Processing ticker 9107.T
+2020-08-23 23:08:10;root;INFO;Started fill_stats_table
+2020-08-23 23:08:11;root;INFO;Processing ticker 9433.T
+2020-08-23 23:08:11;root;INFO;Started fill_stats_table
+2020-08-23 23:08:12;root;INFO;Processing ticker 9008.T
+2020-08-23 23:08:12;root;INFO;Started fill_stats_table
+2020-08-23 23:08:13;root;WARNING;9008.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:13;root;INFO;Processing ticker 9009.T
+2020-08-23 23:08:13;root;INFO;Started fill_stats_table
+2020-08-23 23:08:14;root;INFO;Processing ticker 2801.T
+2020-08-23 23:08:14;root;INFO;Started fill_stats_table
+2020-08-23 23:08:15;root;WARNING;2801.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:15;root;INFO;Processing ticker 2503.T
+2020-08-23 23:08:15;root;INFO;Started fill_stats_table
+2020-08-23 23:08:15;root;INFO;Processing ticker 5406.T
+2020-08-23 23:08:15;root;INFO;Started fill_stats_table
+2020-08-23 23:08:16;root;WARNING;5406.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:16;root;INFO;Processing ticker 6301.T
+2020-08-23 23:08:16;root;INFO;Started fill_stats_table
+2020-08-23 23:08:17;root;WARNING;6301.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:17;root;INFO;Processing ticker 9766.T
+2020-08-23 23:08:17;root;INFO;Started fill_stats_table
+2020-08-23 23:08:18;root;WARNING;9766.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:18;root;INFO;Processing ticker 4902.T
+2020-08-23 23:08:18;root;INFO;Started fill_stats_table
+2020-08-23 23:08:19;root;WARNING;4902.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:19;root;INFO;Processing ticker 6326.T
+2020-08-23 23:08:19;root;INFO;Started fill_stats_table
+2020-08-23 23:08:19;root;INFO;Processing ticker 3405.T
+2020-08-23 23:08:19;root;INFO;Started fill_stats_table
+2020-08-23 23:08:21;root;INFO;Processing ticker 6971.T
+2020-08-23 23:08:21;root;INFO;Started fill_stats_table
+2020-08-23 23:08:21;root;INFO;Processing ticker 4151.T
+2020-08-23 23:08:21;root;INFO;Started fill_stats_table
+2020-08-23 23:08:22;root;INFO;Processing ticker 2413.T
+2020-08-23 23:08:22;root;INFO;Started fill_stats_table
+2020-08-23 23:08:24;root;INFO;Processing ticker 8002.T
+2020-08-23 23:08:24;root;INFO;Started fill_stats_table
+2020-08-23 23:08:24;root;INFO;Processing ticker 1333.T
+2020-08-23 23:08:24;root;INFO;Started fill_stats_table
+2020-08-23 23:08:25;root;INFO;Processing ticker 8252.T
+2020-08-23 23:08:25;root;INFO;Started fill_stats_table
+2020-08-23 23:08:26;root;INFO;Processing ticker 8628.T
+2020-08-23 23:08:26;root;INFO;Started fill_stats_table
+2020-08-23 23:08:27;root;INFO;Processing ticker 7261.T
+2020-08-23 23:08:27;root;INFO;Started fill_stats_table
+2020-08-23 23:08:28;root;INFO;Processing ticker 2269.T
+2020-08-23 23:08:28;root;INFO;Started fill_stats_table
+2020-08-23 23:08:29;root;INFO;Processing ticker 6479.T
+2020-08-23 23:08:29;root;INFO;Started fill_stats_table
+2020-08-23 23:08:30;root;INFO;Processing ticker 4188.T
+2020-08-23 23:08:30;root;INFO;Started fill_stats_table
+2020-08-23 23:08:31;root;INFO;Processing ticker 8058.T
+2020-08-23 23:08:31;root;INFO;Started fill_stats_table
+2020-08-23 23:08:32;root;WARNING;8058.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:32;root;INFO;Processing ticker 6503.T
+2020-08-23 23:08:32;root;INFO;Started fill_stats_table
+2020-08-23 23:08:33;root;WARNING;6503.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:33;root;INFO;Processing ticker 8802.T
+2020-08-23 23:08:33;root;INFO;Started fill_stats_table
+2020-08-23 23:08:33;root;WARNING;8802.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:33;root;INFO;Processing ticker 7011.T
+2020-08-23 23:08:33;root;INFO;Started fill_stats_table
+2020-08-23 23:08:34;root;INFO;Processing ticker 9301.T
+2020-08-23 23:08:34;root;INFO;Started fill_stats_table
+2020-08-23 23:08:35;root;INFO;Processing ticker 5711.T
+2020-08-23 23:08:35;root;INFO;Started fill_stats_table
+2020-08-23 23:08:36;root;INFO;Processing ticker 7211.T
+2020-08-23 23:08:36;root;INFO;Started fill_stats_table
+2020-08-23 23:08:37;root;INFO;Processing ticker 8306.T
+2020-08-23 23:08:37;root;INFO;Started fill_stats_table
+2020-08-23 23:08:38;root;INFO;Processing ticker 4183.T
+2020-08-23 23:08:38;root;INFO;Started fill_stats_table
+2020-08-23 23:08:39;root;INFO;Processing ticker 7003.T
+2020-08-23 23:08:39;root;INFO;Started fill_stats_table
+2020-08-23 23:08:39;root;INFO;Processing ticker 8801.T
+2020-08-23 23:08:39;root;INFO;Started fill_stats_table
+2020-08-23 23:08:40;root;WARNING;8801.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:40;root;INFO;Processing ticker 8031.T
+2020-08-23 23:08:40;root;INFO;Started fill_stats_table
+2020-08-23 23:08:41;root;INFO;Processing ticker 5706.T
+2020-08-23 23:08:41;root;INFO;Started fill_stats_table
+2020-08-23 23:08:42;root;INFO;Processing ticker 9104.T
+2020-08-23 23:08:42;root;INFO;Started fill_stats_table
+2020-08-23 23:08:43;root;INFO;Processing ticker 8411.T
+2020-08-23 23:08:43;root;INFO;Started fill_stats_table
+2020-08-23 23:08:44;root;WARNING;8411.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:44;root;INFO;Processing ticker 8725.T
+2020-08-23 23:08:44;root;INFO;Started fill_stats_table
+2020-08-23 23:08:44;root;INFO;Processing ticker 6701.T
+2020-08-23 23:08:44;root;INFO;Started fill_stats_table
+2020-08-23 23:08:45;root;INFO;Processing ticker 5333.T
+2020-08-23 23:08:45;root;INFO;Started fill_stats_table
+2020-08-23 23:08:46;root;WARNING;5333.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:46;root;INFO;Processing ticker 2282.T
+2020-08-23 23:08:46;root;INFO;Started fill_stats_table
+2020-08-23 23:08:47;root;INFO;Processing ticker 2871.T
+2020-08-23 23:08:47;root;INFO;Started fill_stats_table
+2020-08-23 23:08:48;root;INFO;Processing ticker 7731.T
+2020-08-23 23:08:48;root;INFO;Started fill_stats_table
+2020-08-23 23:08:49;root;INFO;Processing ticker 5214.T
+2020-08-23 23:08:49;root;INFO;Started fill_stats_table
+2020-08-23 23:08:50;root;INFO;Processing ticker 9062.T
+2020-08-23 23:08:50;root;INFO;Started fill_stats_table
+2020-08-23 23:08:50;root;INFO;Processing ticker 4272.T
+2020-08-23 23:08:50;root;INFO;Started fill_stats_table
+2020-08-23 23:08:51;root;WARNING;4272.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:08:51;root;INFO;Processing ticker 5703.T
+2020-08-23 23:08:51;root;INFO;Started fill_stats_table
+2020-08-23 23:08:52;root;INFO;Processing ticker 3863.T
+2020-08-23 23:08:52;root;INFO;Started fill_stats_table
+2020-08-23 23:08:53;root;INFO;Processing ticker 5202.T
+2020-08-23 23:08:53;root;INFO;Started fill_stats_table
+2020-08-23 23:08:54;root;INFO;Processing ticker 5401.T
+2020-08-23 23:08:54;root;INFO;Started fill_stats_table
+2020-08-23 23:08:55;root;INFO;Processing ticker 1332.T
+2020-08-23 23:08:55;root;INFO;Started fill_stats_table
+2020-08-23 23:08:56;root;INFO;Processing ticker 9432.T
+2020-08-23 23:08:56;root;INFO;Started fill_stats_table
+2020-08-23 23:08:56;root;INFO;Processing ticker 9101.T
+2020-08-23 23:08:56;root;INFO;Started fill_stats_table
+2020-08-23 23:08:57;root;INFO;Processing ticker 4021.T
+2020-08-23 23:08:57;root;INFO;Started fill_stats_table
+2020-08-23 23:08:58;root;INFO;Processing ticker 7201.T
+2020-08-23 23:08:58;root;INFO;Started fill_stats_table
+2020-08-23 23:08:59;root;INFO;Processing ticker 2002.T
+2020-08-23 23:08:59;root;INFO;Started fill_stats_table
+2020-08-23 23:09:00;root;INFO;Processing ticker 3105.T
+2020-08-23 23:09:00;root;INFO;Started fill_stats_table
+2020-08-23 23:09:01;root;INFO;Processing ticker 6988.T
+2020-08-23 23:09:01;root;INFO;Started fill_stats_table
+2020-08-23 23:09:02;root;INFO;Processing ticker 8604.T
+2020-08-23 23:09:02;root;INFO;Started fill_stats_table
+2020-08-23 23:09:03;root;INFO;Processing ticker 6471.T
+2020-08-23 23:09:03;root;INFO;Started fill_stats_table
+2020-08-23 23:09:04;root;WARNING;6471.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:04;root;INFO;Processing ticker 6472.T
+2020-08-23 23:09:04;root;INFO;Started fill_stats_table
+2020-08-23 23:09:05;root;INFO;Processing ticker 9613.T
+2020-08-23 23:09:05;root;INFO;Started fill_stats_table
+2020-08-23 23:09:06;root;INFO;Processing ticker 9437.T
+2020-08-23 23:09:06;root;INFO;Started fill_stats_table
+2020-08-23 23:09:07;root;INFO;Processing ticker 1802.T
+2020-08-23 23:09:07;root;INFO;Started fill_stats_table
+2020-08-23 23:09:08;root;INFO;Processing ticker 9007.T
+2020-08-23 23:09:08;root;INFO;Started fill_stats_table
+2020-08-23 23:09:09;root;INFO;Processing ticker 3861.T
+2020-08-23 23:09:09;root;INFO;Started fill_stats_table
+2020-08-23 23:09:10;root;INFO;Processing ticker 6703.T
+2020-08-23 23:09:10;root;INFO;Started fill_stats_table
+2020-08-23 23:09:10;root;INFO;Processing ticker 6103.T
+2020-08-23 23:09:10;root;INFO;Started fill_stats_table
+2020-08-23 23:09:11;root;INFO;Processing ticker 7733.T
+2020-08-23 23:09:11;root;INFO;Started fill_stats_table
+2020-08-23 23:09:12;root;INFO;Processing ticker 6645.T
+2020-08-23 23:09:12;root;INFO;Started fill_stats_table
+2020-08-23 23:09:13;root;INFO;Processing ticker 9532.T
+2020-08-23 23:09:13;root;INFO;Started fill_stats_table
+2020-08-23 23:09:14;root;INFO;Processing ticker 4578.T
+2020-08-23 23:09:14;root;INFO;Started fill_stats_table
+2020-08-23 23:09:15;root;INFO;Processing ticker 5541.T
+2020-08-23 23:09:15;root;INFO;Started fill_stats_table
+2020-08-23 23:09:16;root;INFO;Processing ticker 6752.T
+2020-08-23 23:09:16;root;INFO;Started fill_stats_table
+2020-08-23 23:09:17;root;INFO;Processing ticker 4755.T
+2020-08-23 23:09:17;root;INFO;Started fill_stats_table
+2020-08-23 23:09:18;root;INFO;Processing ticker 6098.T
+2020-08-23 23:09:18;root;INFO;Started fill_stats_table
+2020-08-23 23:09:19;root;INFO;Processing ticker 8308.T
+2020-08-23 23:09:19;root;INFO;Started fill_stats_table
+2020-08-23 23:09:20;root;INFO;Processing ticker 7752.T
+2020-08-23 23:09:20;root;INFO;Started fill_stats_table
+2020-08-23 23:09:20;root;WARNING;7752.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:20;root;INFO;Processing ticker 2501.T
+2020-08-23 23:09:20;root;INFO;Started fill_stats_table
+2020-08-23 23:09:21;root;INFO;Processing ticker 7735.T
+2020-08-23 23:09:21;root;INFO;Started fill_stats_table
+2020-08-23 23:09:22;root;WARNING;7735.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:22;root;INFO;Processing ticker 9735.T
+2020-08-23 23:09:22;root;INFO;Started fill_stats_table
+2020-08-23 23:09:23;root;INFO;Processing ticker 6724.T
+2020-08-23 23:09:23;root;INFO;Started fill_stats_table
+2020-08-23 23:09:24;root;INFO;Processing ticker 1928.T
+2020-08-23 23:09:24;root;INFO;Started fill_stats_table
+2020-08-23 23:09:25;root;INFO;Processing ticker 3382.T
+2020-08-23 23:09:25;root;INFO;Started fill_stats_table
+2020-08-23 23:09:26;root;INFO;Processing ticker 1803.T
+2020-08-23 23:09:26;root;INFO;Started fill_stats_table
+2020-08-23 23:09:27;root;WARNING;1803.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:27;root;INFO;Processing ticker 4063.T
+2020-08-23 23:09:27;root;INFO;Started fill_stats_table
+2020-08-23 23:09:27;root;INFO;Processing ticker 8303.T
+2020-08-23 23:09:27;root;INFO;Started fill_stats_table
+2020-08-23 23:09:28;root;INFO;Processing ticker 4507.T
+2020-08-23 23:09:28;root;INFO;Started fill_stats_table
+2020-08-23 23:09:29;root;INFO;Processing ticker 4911.T
+2020-08-23 23:09:29;root;INFO;Started fill_stats_table
+2020-08-23 23:09:30;root;INFO;Processing ticker 8355.T
+2020-08-23 23:09:30;root;INFO;Started fill_stats_table
+2020-08-23 23:09:31;root;INFO;Processing ticker 4004.T
+2020-08-23 23:09:31;root;INFO;Started fill_stats_table
+2020-08-23 23:09:32;root;INFO;Processing ticker 9412.T
+2020-08-23 23:09:32;root;INFO;Started fill_stats_table
+2020-08-23 23:09:33;root;INFO;Processing ticker 9984.T
+2020-08-23 23:09:33;root;INFO;Started fill_stats_table
+2020-08-23 23:09:34;root;INFO;Processing ticker 2768.T
+2020-08-23 23:09:34;root;INFO;Started fill_stats_table
+2020-08-23 23:09:35;root;INFO;Processing ticker 8630.T
+2020-08-23 23:09:35;root;INFO;Started fill_stats_table
+2020-08-23 23:09:36;root;INFO;Processing ticker 6758.T
+2020-08-23 23:09:36;root;INFO;Started fill_stats_table
+2020-08-23 23:09:36;root;WARNING;6758.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:36;root;INFO;Processing ticker 8729.T
+2020-08-23 23:09:36;root;INFO;Started fill_stats_table
+2020-08-23 23:09:37;root;INFO;Processing ticker 7270.T
+2020-08-23 23:09:37;root;INFO;Started fill_stats_table
+2020-08-23 23:09:38;root;INFO;Processing ticker 3436.T
+2020-08-23 23:09:38;root;INFO;Started fill_stats_table
+2020-08-23 23:09:39;root;INFO;Processing ticker 4005.T
+2020-08-23 23:09:39;root;INFO;Started fill_stats_table
+2020-08-23 23:09:40;root;INFO;Processing ticker 8053.T
+2020-08-23 23:09:40;root;INFO;Started fill_stats_table
+2020-08-23 23:09:41;root;INFO;Processing ticker 5802.T
+2020-08-23 23:09:41;root;INFO;Started fill_stats_table
+2020-08-23 23:09:42;root;INFO;Processing ticker 6302.T
+2020-08-23 23:09:42;root;INFO;Started fill_stats_table
+2020-08-23 23:09:43;root;INFO;Processing ticker 5713.T
+2020-08-23 23:09:43;root;INFO;Started fill_stats_table
+2020-08-23 23:09:44;root;INFO;Processing ticker 8316.T
+2020-08-23 23:09:44;root;INFO;Started fill_stats_table
+2020-08-23 23:09:45;root;INFO;Processing ticker 8309.T
+2020-08-23 23:09:45;root;INFO;Started fill_stats_table
+2020-08-23 23:09:46;root;INFO;Processing ticker 5232.T
+2020-08-23 23:09:46;root;INFO;Started fill_stats_table
+2020-08-23 23:09:46;root;WARNING;5232.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:46;root;INFO;Processing ticker 8830.T
+2020-08-23 23:09:46;root;INFO;Started fill_stats_table
+2020-08-23 23:09:47;root;WARNING;8830.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:47;root;INFO;Processing ticker 7269.T
+2020-08-23 23:09:47;root;INFO;Started fill_stats_table
+2020-08-23 23:09:48;root;INFO;Processing ticker 8795.T
+2020-08-23 23:09:48;root;INFO;Started fill_stats_table
+2020-08-23 23:09:49;root;INFO;Processing ticker 5233.T
+2020-08-23 23:09:49;root;INFO;Started fill_stats_table
+2020-08-23 23:09:50;root;INFO;Processing ticker 1801.T
+2020-08-23 23:09:50;root;INFO;Started fill_stats_table
+2020-08-23 23:09:51;root;WARNING;1801.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:51;root;INFO;Processing ticker 6976.T
+2020-08-23 23:09:51;root;INFO;Started fill_stats_table
+2020-08-23 23:09:52;root;INFO;Processing ticker 2531.T
+2020-08-23 23:09:52;root;INFO;Started fill_stats_table
+2020-08-23 23:09:52;root;INFO;Processing ticker 8233.T
+2020-08-23 23:09:52;root;INFO;Started fill_stats_table
+2020-08-23 23:09:53;root;INFO;Processing ticker 4502.T
+2020-08-23 23:09:53;root;INFO;Started fill_stats_table
+2020-08-23 23:09:54;root;INFO;Processing ticker 6762.T
+2020-08-23 23:09:54;root;INFO;Started fill_stats_table
+2020-08-23 23:09:55;root;INFO;Processing ticker 3401.T
+2020-08-23 23:09:55;root;INFO;Started fill_stats_table
+2020-08-23 23:09:56;root;INFO;Processing ticker 4543.T
+2020-08-23 23:09:56;root;INFO;Started fill_stats_table
+2020-08-23 23:09:57;root;INFO;Processing ticker 9001.T
+2020-08-23 23:09:57;root;INFO;Started fill_stats_table
+2020-08-23 23:09:58;root;INFO;Processing ticker 9602.T
+2020-08-23 23:09:58;root;INFO;Started fill_stats_table
+2020-08-23 23:09:59;root;WARNING;9602.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:09:59;root;INFO;Processing ticker 5707.T
+2020-08-23 23:09:59;root;INFO;Started fill_stats_table
+2020-08-23 23:10:00;root;INFO;Processing ticker 5301.T
+2020-08-23 23:10:00;root;INFO;Started fill_stats_table
+2020-08-23 23:10:01;root;INFO;Processing ticker 8766.T
+2020-08-23 23:10:01;root;INFO;Started fill_stats_table
+2020-08-23 23:10:02;root;INFO;Processing ticker 4043.T
+2020-08-23 23:10:02;root;INFO;Started fill_stats_table
+2020-08-23 23:10:02;root;INFO;Processing ticker 9501.T
+2020-08-23 23:10:02;root;INFO;Started fill_stats_table
+2020-08-23 23:10:03;root;INFO;Processing ticker 8035.T
+2020-08-23 23:10:03;root;INFO;Started fill_stats_table
+2020-08-23 23:10:04;root;INFO;Processing ticker 9531.T
+2020-08-23 23:10:04;root;INFO;Started fill_stats_table
+2020-08-23 23:10:05;root;INFO;Processing ticker 8804.T
+2020-08-23 23:10:05;root;INFO;Started fill_stats_table
+2020-08-23 23:10:06;root;INFO;Processing ticker 9005.T
+2020-08-23 23:10:06;root;INFO;Started fill_stats_table
+2020-08-23 23:10:07;root;INFO;Processing ticker 3289.T
+2020-08-23 23:10:07;root;INFO;Started fill_stats_table
+2020-08-23 23:10:08;root;INFO;Processing ticker 7911.T
+2020-08-23 23:10:08;root;INFO;Started fill_stats_table
+2020-08-23 23:10:09;root;INFO;Processing ticker 3402.T
+2020-08-23 23:10:09;root;INFO;Started fill_stats_table
+2020-08-23 23:10:10;root;WARNING;3402.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:10;root;INFO;Processing ticker 4042.T
+2020-08-23 23:10:10;root;INFO;Started fill_stats_table
+2020-08-23 23:10:11;root;INFO;Processing ticker 5332.T
+2020-08-23 23:10:11;root;INFO;Started fill_stats_table
+2020-08-23 23:10:12;root;INFO;Processing ticker 5901.T
+2020-08-23 23:10:12;root;INFO;Started fill_stats_table
+2020-08-23 23:10:13;root;WARNING;5901.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:13;root;INFO;Processing ticker 3101.T
+2020-08-23 23:10:13;root;INFO;Started fill_stats_table
+2020-08-23 23:10:13;root;WARNING;3101.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:13;root;INFO;Processing ticker 7203.T
+2020-08-23 23:10:13;root;INFO;Started fill_stats_table
+2020-08-23 23:10:14;root;INFO;Processing ticker 8015.T
+2020-08-23 23:10:14;root;INFO;Started fill_stats_table
+2020-08-23 23:10:15;root;INFO;Processing ticker 4704.T
+2020-08-23 23:10:15;root;INFO;Started fill_stats_table
+2020-08-23 23:10:16;root;WARNING;4704.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:16;root;INFO;Processing ticker 4208.T
+2020-08-23 23:10:16;root;INFO;Started fill_stats_table
+2020-08-23 23:10:17;root;WARNING;4208.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:17;root;INFO;Processing ticker 3103.T
+2020-08-23 23:10:17;root;INFO;Started fill_stats_table
+2020-08-23 23:10:18;root;INFO;Processing ticker 9021.T
+2020-08-23 23:10:18;root;INFO;Started fill_stats_table
+2020-08-23 23:10:18;root;INFO;Processing ticker 7951.T
+2020-08-23 23:10:18;root;INFO;Started fill_stats_table
+2020-08-23 23:10:19;root;INFO;Processing ticker 7272.T
+2020-08-23 23:10:19;root;INFO;Started fill_stats_table
+2020-08-23 23:10:20;root;INFO;Processing ticker 9064.T
+2020-08-23 23:10:20;root;INFO;Started fill_stats_table
+2020-08-23 23:10:21;root;WARNING;9064.T failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:21;root;INFO;Processing ticker 6506.T
+2020-08-23 23:10:21;root;INFO;Started fill_stats_table
+2020-08-23 23:10:22;root;INFO;Processing ticker 6841.T
+2020-08-23 23:10:22;root;INFO;Started fill_stats_table
+2020-08-23 23:10:23;root;INFO;Processing ticker 5101.T
+2020-08-23 23:10:23;root;INFO;Started fill_stats_table
+2020-08-23 23:10:24;root;INFO;Processing ticker 4689.T
+2020-08-23 23:10:24;root;INFO;Started fill_stats_table
+2020-08-23 23:10:24;root;INFO;Processing ticker A
+2020-08-23 23:10:24;root;INFO;Started fill_stats_table
+2020-08-23 23:10:25;root;INFO;Processing ticker AAL
+2020-08-23 23:10:25;root;INFO;Started fill_stats_table
+2020-08-23 23:10:26;root;INFO;Processing ticker AAP
+2020-08-23 23:10:26;root;INFO;Started fill_stats_table
+2020-08-23 23:10:27;root;INFO;Processing ticker AAPL
+2020-08-23 23:10:27;root;INFO;Started fill_stats_table
+2020-08-23 23:10:28;root;INFO;Processing ticker ABBV
+2020-08-23 23:10:28;root;INFO;Started fill_stats_table
+2020-08-23 23:10:29;root;INFO;Processing ticker ABC
+2020-08-23 23:10:29;root;INFO;Started fill_stats_table
+2020-08-23 23:10:30;root;INFO;Processing ticker ABMD
+2020-08-23 23:10:30;root;INFO;Started fill_stats_table
+2020-08-23 23:10:31;root;INFO;Processing ticker ABT
+2020-08-23 23:10:31;root;INFO;Started fill_stats_table
+2020-08-23 23:10:32;root;INFO;Processing ticker ACN
+2020-08-23 23:10:32;root;INFO;Started fill_stats_table
+2020-08-23 23:10:32;root;INFO;Processing ticker ADBE
+2020-08-23 23:10:32;root;INFO;Started fill_stats_table
+2020-08-23 23:10:33;root;INFO;Processing ticker ADI
+2020-08-23 23:10:33;root;INFO;Started fill_stats_table
+2020-08-23 23:10:34;root;INFO;Processing ticker ADM
+2020-08-23 23:10:34;root;INFO;Started fill_stats_table
+2020-08-23 23:10:35;root;INFO;Processing ticker ADP
+2020-08-23 23:10:35;root;INFO;Started fill_stats_table
+2020-08-23 23:10:36;root;INFO;Processing ticker ADS
+2020-08-23 23:10:36;root;INFO;Started fill_stats_table
+2020-08-23 23:10:37;root;INFO;Processing ticker ADSK
+2020-08-23 23:10:37;root;INFO;Started fill_stats_table
+2020-08-23 23:10:38;root;INFO;Processing ticker AEE
+2020-08-23 23:10:38;root;INFO;Started fill_stats_table
+2020-08-23 23:10:39;root;WARNING;AEE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:39;root;INFO;Processing ticker AEP
+2020-08-23 23:10:39;root;INFO;Started fill_stats_table
+2020-08-23 23:10:40;root;INFO;Processing ticker AES
+2020-08-23 23:10:40;root;INFO;Started fill_stats_table
+2020-08-23 23:10:40;root;INFO;Processing ticker AFL
+2020-08-23 23:10:40;root;INFO;Started fill_stats_table
+2020-08-23 23:10:41;root;INFO;Processing ticker AGN
+2020-08-23 23:10:41;root;INFO;Started fill_stats_table
+2020-08-23 23:10:42;root;INFO;Processing ticker AIG
+2020-08-23 23:10:42;root;INFO;Started fill_stats_table
+2020-08-23 23:10:43;root;INFO;Processing ticker AIV
+2020-08-23 23:10:43;root;INFO;Started fill_stats_table
+2020-08-23 23:10:44;root;INFO;Processing ticker AIZ
+2020-08-23 23:10:44;root;INFO;Started fill_stats_table
+2020-08-23 23:10:45;root;INFO;Processing ticker AJG
+2020-08-23 23:10:45;root;INFO;Started fill_stats_table
+2020-08-23 23:10:46;root;INFO;Processing ticker AKAM
+2020-08-23 23:10:46;root;INFO;Started fill_stats_table
+2020-08-23 23:10:46;root;INFO;Processing ticker ALB
+2020-08-23 23:10:46;root;INFO;Started fill_stats_table
+2020-08-23 23:10:47;root;INFO;Processing ticker ALGN
+2020-08-23 23:10:47;root;INFO;Started fill_stats_table
+2020-08-23 23:10:48;root;INFO;Processing ticker ALK
+2020-08-23 23:10:48;root;INFO;Started fill_stats_table
+2020-08-23 23:10:49;root;INFO;Processing ticker ALL
+2020-08-23 23:10:49;root;INFO;Started fill_stats_table
+2020-08-23 23:10:50;root;INFO;Processing ticker ALLE
+2020-08-23 23:10:50;root;INFO;Started fill_stats_table
+2020-08-23 23:10:51;root;INFO;Processing ticker ALXN
+2020-08-23 23:10:51;root;INFO;Started fill_stats_table
+2020-08-23 23:10:52;root;INFO;Processing ticker AMAT
+2020-08-23 23:10:52;root;INFO;Started fill_stats_table
+2020-08-23 23:10:53;root;INFO;Processing ticker AMCR
+2020-08-23 23:10:53;root;INFO;Started fill_stats_table
+2020-08-23 23:10:53;root;WARNING;AMCR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:53;root;INFO;Processing ticker AMD
+2020-08-23 23:10:53;root;INFO;Started fill_stats_table
+2020-08-23 23:10:54;root;INFO;Processing ticker AME
+2020-08-23 23:10:54;root;INFO;Started fill_stats_table
+2020-08-23 23:10:55;root;INFO;Processing ticker AMGN
+2020-08-23 23:10:55;root;INFO;Started fill_stats_table
+2020-08-23 23:10:56;root;INFO;Processing ticker AMP
+2020-08-23 23:10:56;root;INFO;Started fill_stats_table
+2020-08-23 23:10:57;root;WARNING;AMP failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:10:57;root;INFO;Processing ticker AMT
+2020-08-23 23:10:57;root;INFO;Started fill_stats_table
+2020-08-23 23:10:58;root;INFO;Processing ticker AMZN
+2020-08-23 23:10:58;root;INFO;Started fill_stats_table
+2020-08-23 23:10:59;root;INFO;Processing ticker ANET
+2020-08-23 23:10:59;root;INFO;Started fill_stats_table
+2020-08-23 23:10:59;root;INFO;Processing ticker ANSS
+2020-08-23 23:10:59;root;INFO;Started fill_stats_table
+2020-08-23 23:11:00;root;INFO;Processing ticker ANTM
+2020-08-23 23:11:00;root;INFO;Started fill_stats_table
+2020-08-23 23:11:01;root;INFO;Processing ticker AON
+2020-08-23 23:11:01;root;INFO;Started fill_stats_table
+2020-08-23 23:11:02;root;INFO;Processing ticker AOS
+2020-08-23 23:11:02;root;INFO;Started fill_stats_table
+2020-08-23 23:11:03;root;INFO;Processing ticker APA
+2020-08-23 23:11:03;root;INFO;Started fill_stats_table
+2020-08-23 23:11:04;root;INFO;Processing ticker APD
+2020-08-23 23:11:04;root;INFO;Started fill_stats_table
+2020-08-23 23:11:05;root;INFO;Processing ticker APH
+2020-08-23 23:11:05;root;INFO;Started fill_stats_table
+2020-08-23 23:11:06;root;INFO;Processing ticker APTV
+2020-08-23 23:11:06;root;INFO;Started fill_stats_table
+2020-08-23 23:11:07;root;INFO;Processing ticker ARE
+2020-08-23 23:11:07;root;INFO;Started fill_stats_table
+2020-08-23 23:11:07;root;INFO;Processing ticker ARNC
+2020-08-23 23:11:07;root;INFO;Started fill_stats_table
+2020-08-23 23:11:08;root;INFO;Processing ticker ATO
+2020-08-23 23:11:08;root;INFO;Started fill_stats_table
+2020-08-23 23:11:09;root;INFO;Processing ticker ATVI
+2020-08-23 23:11:09;root;INFO;Started fill_stats_table
+2020-08-23 23:11:10;root;INFO;Processing ticker AVB
+2020-08-23 23:11:10;root;INFO;Started fill_stats_table
+2020-08-23 23:11:11;root;INFO;Processing ticker AVGO
+2020-08-23 23:11:11;root;INFO;Started fill_stats_table
+2020-08-23 23:11:12;root;INFO;Processing ticker AVY
+2020-08-23 23:11:12;root;INFO;Started fill_stats_table
+2020-08-23 23:11:13;root;INFO;Processing ticker AWK
+2020-08-23 23:11:13;root;INFO;Started fill_stats_table
+2020-08-23 23:11:14;root;INFO;Processing ticker AXP
+2020-08-23 23:11:14;root;INFO;Started fill_stats_table
+2020-08-23 23:11:14;root;INFO;Processing ticker AZO
+2020-08-23 23:11:14;root;INFO;Started fill_stats_table
+2020-08-23 23:11:15;root;INFO;Processing ticker BA
+2020-08-23 23:11:15;root;INFO;Started fill_stats_table
+2020-08-23 23:11:16;root;INFO;Processing ticker BAC
+2020-08-23 23:11:16;root;INFO;Started fill_stats_table
+2020-08-23 23:11:17;root;INFO;Processing ticker BAX
+2020-08-23 23:11:17;root;INFO;Started fill_stats_table
+2020-08-23 23:11:18;root;INFO;Processing ticker BBY
+2020-08-23 23:11:18;root;INFO;Started fill_stats_table
+2020-08-23 23:11:19;root;INFO;Processing ticker BDX
+2020-08-23 23:11:19;root;INFO;Started fill_stats_table
+2020-08-23 23:11:20;root;WARNING;BDX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:20;root;INFO;Processing ticker BEN
+2020-08-23 23:11:20;root;INFO;Started fill_stats_table
+2020-08-23 23:11:21;root;INFO;Processing ticker BF.B
+2020-08-23 23:11:21;root;INFO;Started fill_stats_table
+2020-08-23 23:11:22;root;INFO;Processing ticker BIIB
+2020-08-23 23:11:22;root;INFO;Started fill_stats_table
+2020-08-23 23:11:23;root;INFO;Processing ticker BK
+2020-08-23 23:11:23;root;INFO;Started fill_stats_table
+2020-08-23 23:11:23;root;INFO;Processing ticker BKNG
+2020-08-23 23:11:23;root;INFO;Started fill_stats_table
+2020-08-23 23:11:24;root;INFO;Processing ticker BKR
+2020-08-23 23:11:24;root;INFO;Started fill_stats_table
+2020-08-23 23:11:25;root;INFO;Processing ticker BLK
+2020-08-23 23:11:25;root;INFO;Started fill_stats_table
+2020-08-23 23:11:26;root;WARNING;BLK failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:26;root;INFO;Processing ticker BLL
+2020-08-23 23:11:26;root;INFO;Started fill_stats_table
+2020-08-23 23:11:26;root;INFO;Processing ticker BMY
+2020-08-23 23:11:26;root;INFO;Started fill_stats_table
+2020-08-23 23:11:27;root;INFO;Processing ticker BR
+2020-08-23 23:11:27;root;INFO;Started fill_stats_table
+2020-08-23 23:11:28;root;INFO;Processing ticker BRK.B
+2020-08-23 23:11:28;root;INFO;Started fill_stats_table
+2020-08-23 23:11:29;root;INFO;Processing ticker BSX
+2020-08-23 23:11:29;root;INFO;Started fill_stats_table
+2020-08-23 23:11:30;root;INFO;Processing ticker BWA
+2020-08-23 23:11:30;root;INFO;Started fill_stats_table
+2020-08-23 23:11:31;root;INFO;Processing ticker BXP
+2020-08-23 23:11:31;root;INFO;Started fill_stats_table
+2020-08-23 23:11:32;root;INFO;Processing ticker C
+2020-08-23 23:11:32;root;INFO;Started fill_stats_table
+2020-08-23 23:11:33;root;INFO;Processing ticker CAG
+2020-08-23 23:11:33;root;INFO;Started fill_stats_table
+2020-08-23 23:11:34;root;INFO;Processing ticker CAH
+2020-08-23 23:11:34;root;INFO;Started fill_stats_table
+2020-08-23 23:11:35;root;INFO;Processing ticker CAT
+2020-08-23 23:11:35;root;INFO;Started fill_stats_table
+2020-08-23 23:11:36;root;INFO;Processing ticker CB
+2020-08-23 23:11:36;root;INFO;Started fill_stats_table
+2020-08-23 23:11:36;root;WARNING;CB failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:36;root;INFO;Processing ticker CBOE
+2020-08-23 23:11:36;root;INFO;Started fill_stats_table
+2020-08-23 23:11:37;root;INFO;Processing ticker CBRE
+2020-08-23 23:11:37;root;INFO;Started fill_stats_table
+2020-08-23 23:11:38;root;WARNING;CBRE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:38;root;INFO;Processing ticker CCI
+2020-08-23 23:11:38;root;INFO;Started fill_stats_table
+2020-08-23 23:11:39;root;INFO;Processing ticker CCL
+2020-08-23 23:11:39;root;INFO;Started fill_stats_table
+2020-08-23 23:11:40;root;INFO;Processing ticker CDNS
+2020-08-23 23:11:40;root;INFO;Started fill_stats_table
+2020-08-23 23:11:41;root;INFO;Processing ticker CDW
+2020-08-23 23:11:41;root;INFO;Started fill_stats_table
+2020-08-23 23:11:41;root;WARNING;CDW failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:41;root;INFO;Processing ticker CE
+2020-08-23 23:11:41;root;INFO;Started fill_stats_table
+2020-08-23 23:11:42;root;INFO;Processing ticker CERN
+2020-08-23 23:11:42;root;INFO;Started fill_stats_table
+2020-08-23 23:11:43;root;INFO;Processing ticker CF
+2020-08-23 23:11:43;root;INFO;Started fill_stats_table
+2020-08-23 23:11:44;root;INFO;Processing ticker CFG
+2020-08-23 23:11:44;root;INFO;Started fill_stats_table
+2020-08-23 23:11:45;root;INFO;Processing ticker CHD
+2020-08-23 23:11:45;root;INFO;Started fill_stats_table
+2020-08-23 23:11:46;root;INFO;Processing ticker CHRW
+2020-08-23 23:11:46;root;INFO;Started fill_stats_table
+2020-08-23 23:11:47;root;INFO;Processing ticker CHTR
+2020-08-23 23:11:47;root;INFO;Started fill_stats_table
+2020-08-23 23:11:48;root;INFO;Processing ticker CI
+2020-08-23 23:11:48;root;INFO;Started fill_stats_table
+2020-08-23 23:11:49;root;INFO;Processing ticker CINF
+2020-08-23 23:11:49;root;INFO;Started fill_stats_table
+2020-08-23 23:11:49;root;INFO;Processing ticker CL
+2020-08-23 23:11:49;root;INFO;Started fill_stats_table
+2020-08-23 23:11:50;root;INFO;Processing ticker CLX
+2020-08-23 23:11:50;root;INFO;Started fill_stats_table
+2020-08-23 23:11:51;root;INFO;Processing ticker CMA
+2020-08-23 23:11:51;root;INFO;Started fill_stats_table
+2020-08-23 23:11:52;root;WARNING;CMA failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:52;root;INFO;Processing ticker CMCSA
+2020-08-23 23:11:52;root;INFO;Started fill_stats_table
+2020-08-23 23:11:53;root;INFO;Processing ticker CME
+2020-08-23 23:11:53;root;INFO;Started fill_stats_table
+2020-08-23 23:11:54;root;INFO;Processing ticker CMG
+2020-08-23 23:11:54;root;INFO;Started fill_stats_table
+2020-08-23 23:11:55;root;INFO;Processing ticker CMI
+2020-08-23 23:11:55;root;INFO;Started fill_stats_table
+2020-08-23 23:11:56;root;INFO;Processing ticker CMS
+2020-08-23 23:11:56;root;INFO;Started fill_stats_table
+2020-08-23 23:11:57;root;INFO;Processing ticker CNC
+2020-08-23 23:11:57;root;INFO;Started fill_stats_table
+2020-08-23 23:11:58;root;WARNING;CNC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:11:58;root;INFO;Processing ticker CNP
+2020-08-23 23:11:58;root;INFO;Started fill_stats_table
+2020-08-23 23:11:59;root;INFO;Processing ticker COF
+2020-08-23 23:11:59;root;INFO;Started fill_stats_table
+2020-08-23 23:12:00;root;INFO;Processing ticker COG
+2020-08-23 23:12:00;root;INFO;Started fill_stats_table
+2020-08-23 23:12:00;root;INFO;Processing ticker COO
+2020-08-23 23:12:00;root;INFO;Started fill_stats_table
+2020-08-23 23:12:01;root;INFO;Processing ticker COP
+2020-08-23 23:12:01;root;INFO;Started fill_stats_table
+2020-08-23 23:12:02;root;INFO;Processing ticker COST
+2020-08-23 23:12:02;root;INFO;Started fill_stats_table
+2020-08-23 23:12:03;root;INFO;Processing ticker COTY
+2020-08-23 23:12:03;root;INFO;Started fill_stats_table
+2020-08-23 23:12:04;root;INFO;Processing ticker CPB
+2020-08-23 23:12:04;root;INFO;Started fill_stats_table
+2020-08-23 23:12:05;root;INFO;Processing ticker CPRI
+2020-08-23 23:12:05;root;INFO;Started fill_stats_table
+2020-08-23 23:12:06;root;INFO;Processing ticker CPRT
+2020-08-23 23:12:06;root;INFO;Started fill_stats_table
+2020-08-23 23:12:07;root;INFO;Processing ticker CRM
+2020-08-23 23:12:07;root;INFO;Started fill_stats_table
+2020-08-23 23:12:08;root;ERROR;(1054, "Unknown column 'nan' in 'field list'")
+2020-08-23 23:12:08;root;INFO;Processing ticker CSCO
+2020-08-23 23:12:08;root;INFO;Started fill_stats_table
+2020-08-23 23:12:09;root;WARNING;CSCO failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:09;root;INFO;Processing ticker CSX
+2020-08-23 23:12:09;root;INFO;Started fill_stats_table
+2020-08-23 23:12:10;root;INFO;Processing ticker CTAS
+2020-08-23 23:12:10;root;INFO;Started fill_stats_table
+2020-08-23 23:12:11;root;INFO;Processing ticker CTL
+2020-08-23 23:12:11;root;INFO;Started fill_stats_table
+2020-08-23 23:12:11;root;INFO;Processing ticker CTSH
+2020-08-23 23:12:11;root;INFO;Started fill_stats_table
+2020-08-23 23:12:12;root;INFO;Processing ticker CTVA
+2020-08-23 23:12:12;root;INFO;Started fill_stats_table
+2020-08-23 23:12:13;root;INFO;Processing ticker CTXS
+2020-08-23 23:12:13;root;INFO;Started fill_stats_table
+2020-08-23 23:12:14;root;INFO;Processing ticker CVS
+2020-08-23 23:12:14;root;INFO;Started fill_stats_table
+2020-08-23 23:12:15;root;WARNING;CVS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:15;root;INFO;Processing ticker CVX
+2020-08-23 23:12:15;root;INFO;Started fill_stats_table
+2020-08-23 23:12:16;root;INFO;Processing ticker CXO
+2020-08-23 23:12:16;root;INFO;Started fill_stats_table
+2020-08-23 23:12:17;root;INFO;Processing ticker D
+2020-08-23 23:12:17;root;INFO;Started fill_stats_table
+2020-08-23 23:12:18;root;INFO;Processing ticker DAL
+2020-08-23 23:12:18;root;INFO;Started fill_stats_table
+2020-08-23 23:12:19;root;INFO;Processing ticker DD
+2020-08-23 23:12:19;root;INFO;Started fill_stats_table
+2020-08-23 23:12:20;root;INFO;Processing ticker DE
+2020-08-23 23:12:20;root;INFO;Started fill_stats_table
+2020-08-23 23:12:20;root;INFO;Processing ticker DFS
+2020-08-23 23:12:20;root;INFO;Started fill_stats_table
+2020-08-23 23:12:21;root;INFO;Processing ticker DG
+2020-08-23 23:12:21;root;INFO;Started fill_stats_table
+2020-08-23 23:12:22;root;WARNING;DG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:22;root;INFO;Processing ticker DGX
+2020-08-23 23:12:22;root;INFO;Started fill_stats_table
+2020-08-23 23:12:23;root;WARNING;DGX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:23;root;INFO;Processing ticker DHI
+2020-08-23 23:12:23;root;INFO;Started fill_stats_table
+2020-08-23 23:12:25;root;INFO;Processing ticker DHR
+2020-08-23 23:12:25;root;INFO;Started fill_stats_table
+2020-08-23 23:12:26;root;INFO;Processing ticker DIS
+2020-08-23 23:12:26;root;INFO;Started fill_stats_table
+2020-08-23 23:12:26;root;INFO;Processing ticker DISCA
+2020-08-23 23:12:26;root;INFO;Started fill_stats_table
+2020-08-23 23:12:27;root;INFO;Processing ticker DISCK
+2020-08-23 23:12:27;root;INFO;Started fill_stats_table
+2020-08-23 23:12:28;root;INFO;Processing ticker DISH
+2020-08-23 23:12:28;root;INFO;Started fill_stats_table
+2020-08-23 23:12:29;root;INFO;Processing ticker DLR
+2020-08-23 23:12:29;root;INFO;Started fill_stats_table
+2020-08-23 23:12:30;root;WARNING;DLR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:30;root;INFO;Processing ticker DLTR
+2020-08-23 23:12:30;root;INFO;Started fill_stats_table
+2020-08-23 23:12:31;root;INFO;Processing ticker DOV
+2020-08-23 23:12:31;root;INFO;Started fill_stats_table
+2020-08-23 23:12:32;root;INFO;Processing ticker DOW
+2020-08-23 23:12:32;root;INFO;Started fill_stats_table
+2020-08-23 23:12:33;root;INFO;Processing ticker DRE
+2020-08-23 23:12:33;root;INFO;Started fill_stats_table
+2020-08-23 23:12:34;root;INFO;Processing ticker DRI
+2020-08-23 23:12:34;root;INFO;Started fill_stats_table
+2020-08-23 23:12:35;root;INFO;Processing ticker DTE
+2020-08-23 23:12:35;root;INFO;Started fill_stats_table
+2020-08-23 23:12:36;root;WARNING;DTE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:36;root;INFO;Processing ticker DUK
+2020-08-23 23:12:36;root;INFO;Started fill_stats_table
+2020-08-23 23:12:36;root;INFO;Processing ticker DVA
+2020-08-23 23:12:36;root;INFO;Started fill_stats_table
+2020-08-23 23:12:37;root;INFO;Processing ticker DVN
+2020-08-23 23:12:37;root;INFO;Started fill_stats_table
+2020-08-23 23:12:38;root;INFO;Processing ticker DXC
+2020-08-23 23:12:38;root;INFO;Started fill_stats_table
+2020-08-23 23:12:39;root;INFO;Processing ticker EA
+2020-08-23 23:12:39;root;INFO;Started fill_stats_table
+2020-08-23 23:12:40;root;INFO;Processing ticker EBAY
+2020-08-23 23:12:40;root;INFO;Started fill_stats_table
+2020-08-23 23:12:41;root;INFO;Processing ticker ECL
+2020-08-23 23:12:41;root;INFO;Started fill_stats_table
+2020-08-23 23:12:42;root;INFO;Processing ticker ED
+2020-08-23 23:12:42;root;INFO;Started fill_stats_table
+2020-08-23 23:12:43;root;INFO;Processing ticker EFX
+2020-08-23 23:12:43;root;INFO;Started fill_stats_table
+2020-08-23 23:12:44;root;INFO;Processing ticker EIX
+2020-08-23 23:12:44;root;INFO;Started fill_stats_table
+2020-08-23 23:12:44;root;INFO;Processing ticker EL
+2020-08-23 23:12:44;root;INFO;Started fill_stats_table
+2020-08-23 23:12:45;root;INFO;Processing ticker EMN
+2020-08-23 23:12:45;root;INFO;Started fill_stats_table
+2020-08-23 23:12:46;root;INFO;Processing ticker EMR
+2020-08-23 23:12:46;root;INFO;Started fill_stats_table
+2020-08-23 23:12:47;root;INFO;Processing ticker EOG
+2020-08-23 23:12:47;root;INFO;Started fill_stats_table
+2020-08-23 23:12:48;root;INFO;Processing ticker EQIX
+2020-08-23 23:12:48;root;INFO;Started fill_stats_table
+2020-08-23 23:12:49;root;WARNING;EQIX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:49;root;INFO;Processing ticker EQR
+2020-08-23 23:12:49;root;INFO;Started fill_stats_table
+2020-08-23 23:12:50;root;INFO;Processing ticker ES
+2020-08-23 23:12:50;root;INFO;Started fill_stats_table
+2020-08-23 23:12:51;root;INFO;Processing ticker ESS
+2020-08-23 23:12:51;root;INFO;Started fill_stats_table
+2020-08-23 23:12:52;root;INFO;Processing ticker ETFC
+2020-08-23 23:12:52;root;INFO;Started fill_stats_table
+2020-08-23 23:12:52;root;INFO;Processing ticker ETN
+2020-08-23 23:12:52;root;INFO;Started fill_stats_table
+2020-08-23 23:12:53;root;INFO;Processing ticker ETR
+2020-08-23 23:12:53;root;INFO;Started fill_stats_table
+2020-08-23 23:12:54;root;INFO;Processing ticker EVRG
+2020-08-23 23:12:54;root;INFO;Started fill_stats_table
+2020-08-23 23:12:55;root;WARNING;EVRG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:55;root;INFO;Processing ticker EW
+2020-08-23 23:12:55;root;INFO;Started fill_stats_table
+2020-08-23 23:12:56;root;INFO;Processing ticker EXC
+2020-08-23 23:12:56;root;INFO;Started fill_stats_table
+2020-08-23 23:12:57;root;INFO;Processing ticker EXPD
+2020-08-23 23:12:57;root;INFO;Started fill_stats_table
+2020-08-23 23:12:57;root;WARNING;EXPD failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:12:57;root;INFO;Processing ticker EXPE
+2020-08-23 23:12:57;root;INFO;Started fill_stats_table
+2020-08-23 23:12:58;root;INFO;Processing ticker EXR
+2020-08-23 23:12:58;root;INFO;Started fill_stats_table
+2020-08-23 23:12:59;root;INFO;Processing ticker F
+2020-08-23 23:12:59;root;INFO;Started fill_stats_table
+2020-08-23 23:13:00;root;INFO;Processing ticker FANG
+2020-08-23 23:13:00;root;INFO;Started fill_stats_table
+2020-08-23 23:13:01;root;INFO;Processing ticker FAST
+2020-08-23 23:13:01;root;INFO;Started fill_stats_table
+2020-08-23 23:13:02;root;INFO;Processing ticker FB
+2020-08-23 23:13:02;root;INFO;Started fill_stats_table
+2020-08-23 23:13:03;root;INFO;Processing ticker FBHS
+2020-08-23 23:13:03;root;INFO;Started fill_stats_table
+2020-08-23 23:13:04;root;INFO;Processing ticker FCX
+2020-08-23 23:13:04;root;INFO;Started fill_stats_table
+2020-08-23 23:13:04;root;WARNING;FCX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:04;root;INFO;Processing ticker FDX
+2020-08-23 23:13:04;root;INFO;Started fill_stats_table
+2020-08-23 23:13:05;root;INFO;Processing ticker FE
+2020-08-23 23:13:05;root;INFO;Started fill_stats_table
+2020-08-23 23:13:06;root;WARNING;FE failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:06;root;INFO;Processing ticker FFIV
+2020-08-23 23:13:06;root;INFO;Started fill_stats_table
+2020-08-23 23:13:07;root;INFO;Processing ticker FIS
+2020-08-23 23:13:07;root;INFO;Started fill_stats_table
+2020-08-23 23:13:08;root;INFO;Processing ticker FISV
+2020-08-23 23:13:08;root;INFO;Started fill_stats_table
+2020-08-23 23:13:08;root;INFO;Processing ticker FITB
+2020-08-23 23:13:08;root;INFO;Started fill_stats_table
+2020-08-23 23:13:09;root;INFO;Processing ticker FLIR
+2020-08-23 23:13:09;root;INFO;Started fill_stats_table
+2020-08-23 23:13:10;root;INFO;Processing ticker FLS
+2020-08-23 23:13:10;root;INFO;Started fill_stats_table
+2020-08-23 23:13:11;root;INFO;Processing ticker FLT
+2020-08-23 23:13:11;root;INFO;Started fill_stats_table
+2020-08-23 23:13:12;root;INFO;Processing ticker FMC
+2020-08-23 23:13:12;root;INFO;Started fill_stats_table
+2020-08-23 23:13:13;root;INFO;Processing ticker FOX
+2020-08-23 23:13:13;root;INFO;Started fill_stats_table
+2020-08-23 23:13:14;root;INFO;Processing ticker FOXA
+2020-08-23 23:13:14;root;INFO;Started fill_stats_table
+2020-08-23 23:13:14;root;INFO;Processing ticker FRC
+2020-08-23 23:13:14;root;INFO;Started fill_stats_table
+2020-08-23 23:13:15;root;INFO;Processing ticker FRT
+2020-08-23 23:13:15;root;INFO;Started fill_stats_table
+2020-08-23 23:13:16;root;INFO;Processing ticker FTI
+2020-08-23 23:13:16;root;INFO;Started fill_stats_table
+2020-08-23 23:13:17;root;INFO;Processing ticker FTNT
+2020-08-23 23:13:17;root;INFO;Started fill_stats_table
+2020-08-23 23:13:18;root;INFO;Processing ticker FTV
+2020-08-23 23:13:18;root;INFO;Started fill_stats_table
+2020-08-23 23:13:19;root;INFO;Processing ticker GD
+2020-08-23 23:13:19;root;INFO;Started fill_stats_table
+2020-08-23 23:13:20;root;WARNING;GD failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:20;root;INFO;Processing ticker GE
+2020-08-23 23:13:20;root;INFO;Started fill_stats_table
+2020-08-23 23:13:21;root;INFO;Processing ticker GILD
+2020-08-23 23:13:21;root;INFO;Started fill_stats_table
+2020-08-23 23:13:22;root;INFO;Processing ticker GIS
+2020-08-23 23:13:22;root;INFO;Started fill_stats_table
+2020-08-23 23:13:23;root;INFO;Processing ticker GL
+2020-08-23 23:13:23;root;INFO;Started fill_stats_table
+2020-08-23 23:13:23;root;INFO;Processing ticker GLW
+2020-08-23 23:13:23;root;INFO;Started fill_stats_table
+2020-08-23 23:13:24;root;INFO;Processing ticker GM
+2020-08-23 23:13:24;root;INFO;Started fill_stats_table
+2020-08-23 23:13:25;root;INFO;Processing ticker GOOG
+2020-08-23 23:13:25;root;INFO;Started fill_stats_table
+2020-08-23 23:13:26;root;INFO;Processing ticker GOOGL
+2020-08-23 23:13:26;root;INFO;Started fill_stats_table
+2020-08-23 23:13:27;root;WARNING;GOOGL failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:27;root;INFO;Processing ticker GPC
+2020-08-23 23:13:27;root;INFO;Started fill_stats_table
+2020-08-23 23:13:28;root;INFO;Processing ticker GPN
+2020-08-23 23:13:28;root;INFO;Started fill_stats_table
+2020-08-23 23:13:29;root;INFO;Processing ticker GPS
+2020-08-23 23:13:29;root;INFO;Started fill_stats_table
+2020-08-23 23:13:30;root;WARNING;GPS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:30;root;INFO;Processing ticker GRMN
+2020-08-23 23:13:30;root;INFO;Started fill_stats_table
+2020-08-23 23:13:30;root;INFO;Processing ticker GS
+2020-08-23 23:13:30;root;INFO;Started fill_stats_table
+2020-08-23 23:13:31;root;INFO;Processing ticker GWW
+2020-08-23 23:13:31;root;INFO;Started fill_stats_table
+2020-08-23 23:13:32;root;INFO;Processing ticker HAL
+2020-08-23 23:13:32;root;INFO;Started fill_stats_table
+2020-08-23 23:13:33;root;INFO;Processing ticker HAS
+2020-08-23 23:13:33;root;INFO;Started fill_stats_table
+2020-08-23 23:13:34;root;INFO;Processing ticker HBAN
+2020-08-23 23:13:34;root;INFO;Started fill_stats_table
+2020-08-23 23:13:35;root;INFO;Processing ticker HBI
+2020-08-23 23:13:35;root;INFO;Started fill_stats_table
+2020-08-23 23:13:36;root;INFO;Processing ticker HCA
+2020-08-23 23:13:36;root;INFO;Started fill_stats_table
+2020-08-23 23:13:37;root;INFO;Processing ticker HD
+2020-08-23 23:13:37;root;INFO;Started fill_stats_table
+2020-08-23 23:13:37;root;WARNING;HD failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:37;root;INFO;Processing ticker HES
+2020-08-23 23:13:37;root;INFO;Started fill_stats_table
+2020-08-23 23:13:38;root;INFO;Processing ticker HFC
+2020-08-23 23:13:38;root;INFO;Started fill_stats_table
+2020-08-23 23:13:39;root;INFO;Processing ticker HIG
+2020-08-23 23:13:39;root;INFO;Started fill_stats_table
+2020-08-23 23:13:40;root;INFO;Processing ticker HII
+2020-08-23 23:13:40;root;INFO;Started fill_stats_table
+2020-08-23 23:13:41;root;WARNING;HII failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:41;root;INFO;Processing ticker HLT
+2020-08-23 23:13:41;root;INFO;Started fill_stats_table
+2020-08-23 23:13:42;root;INFO;Processing ticker HOG
+2020-08-23 23:13:42;root;INFO;Started fill_stats_table
+2020-08-23 23:13:42;root;INFO;Processing ticker HOLX
+2020-08-23 23:13:42;root;INFO;Started fill_stats_table
+2020-08-23 23:13:43;root;INFO;Processing ticker HON
+2020-08-23 23:13:43;root;INFO;Started fill_stats_table
+2020-08-23 23:13:44;root;WARNING;HON failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:13:44;root;INFO;Processing ticker HP
+2020-08-23 23:13:44;root;INFO;Started fill_stats_table
+2020-08-23 23:13:45;root;INFO;Processing ticker HPE
+2020-08-23 23:13:45;root;INFO;Started fill_stats_table
+2020-08-23 23:13:46;root;INFO;Processing ticker HPQ
+2020-08-23 23:13:46;root;INFO;Started fill_stats_table
+2020-08-23 23:13:47;root;INFO;Processing ticker HRB
+2020-08-23 23:13:47;root;INFO;Started fill_stats_table
+2020-08-23 23:13:48;root;INFO;Processing ticker HRL
+2020-08-23 23:13:48;root;INFO;Started fill_stats_table
+2020-08-23 23:13:48;root;INFO;Processing ticker HSIC
+2020-08-23 23:13:48;root;INFO;Started fill_stats_table
+2020-08-23 23:13:49;root;INFO;Processing ticker HST
+2020-08-23 23:13:49;root;INFO;Started fill_stats_table
+2020-08-23 23:13:50;root;INFO;Processing ticker HSY
+2020-08-23 23:13:50;root;INFO;Started fill_stats_table
+2020-08-23 23:13:51;root;INFO;Processing ticker HUM
+2020-08-23 23:13:51;root;INFO;Started fill_stats_table
+2020-08-23 23:13:52;root;INFO;Processing ticker IBM
+2020-08-23 23:13:52;root;INFO;Started fill_stats_table
+2020-08-23 23:13:53;root;INFO;Processing ticker ICE
+2020-08-23 23:13:53;root;INFO;Started fill_stats_table
+2020-08-23 23:13:54;root;INFO;Processing ticker IDXX
+2020-08-23 23:13:54;root;INFO;Started fill_stats_table
+2020-08-23 23:13:54;root;INFO;Processing ticker IEX
+2020-08-23 23:13:54;root;INFO;Started fill_stats_table
+2020-08-23 23:13:55;root;INFO;Processing ticker IFF
+2020-08-23 23:13:55;root;INFO;Started fill_stats_table
+2020-08-23 23:13:56;root;INFO;Processing ticker ILMN
+2020-08-23 23:13:56;root;INFO;Started fill_stats_table
+2020-08-23 23:13:57;root;INFO;Processing ticker INCY
+2020-08-23 23:13:57;root;INFO;Started fill_stats_table
+2020-08-23 23:13:58;root;INFO;Processing ticker INFO
+2020-08-23 23:13:58;root;INFO;Started fill_stats_table
+2020-08-23 23:13:59;root;INFO;Processing ticker INTC
+2020-08-23 23:13:59;root;INFO;Started fill_stats_table
+2020-08-23 23:14:00;root;INFO;Processing ticker INTU
+2020-08-23 23:14:00;root;INFO;Started fill_stats_table
+2020-08-23 23:14:00;root;INFO;Processing ticker IP
+2020-08-23 23:14:00;root;INFO;Started fill_stats_table
+2020-08-23 23:14:01;root;INFO;Processing ticker IPG
+2020-08-23 23:14:01;root;INFO;Started fill_stats_table
+2020-08-23 23:14:02;root;INFO;Processing ticker IPGP
+2020-08-23 23:14:02;root;INFO;Started fill_stats_table
+2020-08-23 23:14:03;root;INFO;Processing ticker IQV
+2020-08-23 23:14:03;root;INFO;Started fill_stats_table
+2020-08-23 23:14:04;root;INFO;Processing ticker IR
+2020-08-23 23:14:04;root;INFO;Started fill_stats_table
+2020-08-23 23:14:05;root;INFO;Processing ticker IRM
+2020-08-23 23:14:05;root;INFO;Started fill_stats_table
+2020-08-23 23:14:06;root;INFO;Processing ticker ISRG
+2020-08-23 23:14:06;root;INFO;Started fill_stats_table
+2020-08-23 23:14:07;root;WARNING;ISRG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:07;root;INFO;Processing ticker IT
+2020-08-23 23:14:07;root;INFO;Started fill_stats_table
+2020-08-23 23:14:08;root;INFO;Processing ticker ITW
+2020-08-23 23:14:08;root;INFO;Started fill_stats_table
+2020-08-23 23:14:08;root;INFO;Processing ticker IVZ
+2020-08-23 23:14:08;root;INFO;Started fill_stats_table
+2020-08-23 23:14:09;root;INFO;Processing ticker J
+2020-08-23 23:14:09;root;INFO;Started fill_stats_table
+2020-08-23 23:14:10;root;INFO;Processing ticker JBHT
+2020-08-23 23:14:10;root;INFO;Started fill_stats_table
+2020-08-23 23:14:11;root;INFO;Processing ticker JCI
+2020-08-23 23:14:11;root;INFO;Started fill_stats_table
+2020-08-23 23:14:12;root;INFO;Processing ticker JKHY
+2020-08-23 23:14:12;root;INFO;Started fill_stats_table
+2020-08-23 23:14:13;root;WARNING;JKHY failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:13;root;INFO;Processing ticker JNJ
+2020-08-23 23:14:13;root;INFO;Started fill_stats_table
+2020-08-23 23:14:14;root;INFO;Processing ticker JNPR
+2020-08-23 23:14:14;root;INFO;Started fill_stats_table
+2020-08-23 23:14:15;root;INFO;Processing ticker JPM
+2020-08-23 23:14:15;root;INFO;Started fill_stats_table
+2020-08-23 23:14:15;root;INFO;Processing ticker JWN
+2020-08-23 23:14:15;root;INFO;Started fill_stats_table
+2020-08-23 23:14:16;root;INFO;Processing ticker K
+2020-08-23 23:14:16;root;INFO;Started fill_stats_table
+2020-08-23 23:14:17;root;INFO;Processing ticker KEY
+2020-08-23 23:14:17;root;INFO;Started fill_stats_table
+2020-08-23 23:14:18;root;INFO;Processing ticker KEYS
+2020-08-23 23:14:18;root;INFO;Started fill_stats_table
+2020-08-23 23:14:19;root;WARNING;KEYS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:19;root;INFO;Processing ticker KHC
+2020-08-23 23:14:19;root;INFO;Started fill_stats_table
+2020-08-23 23:14:20;root;INFO;Processing ticker KIM
+2020-08-23 23:14:20;root;INFO;Started fill_stats_table
+2020-08-23 23:14:21;root;INFO;Processing ticker KLAC
+2020-08-23 23:14:21;root;INFO;Started fill_stats_table
+2020-08-23 23:14:22;root;INFO;Processing ticker KMB
+2020-08-23 23:14:22;root;INFO;Started fill_stats_table
+2020-08-23 23:14:23;root;INFO;Processing ticker KMI
+2020-08-23 23:14:23;root;INFO;Started fill_stats_table
+2020-08-23 23:14:24;root;INFO;Processing ticker KMX
+2020-08-23 23:14:24;root;INFO;Started fill_stats_table
+2020-08-23 23:14:24;root;INFO;Processing ticker KO
+2020-08-23 23:14:24;root;INFO;Started fill_stats_table
+2020-08-23 23:14:25;root;INFO;Processing ticker KR
+2020-08-23 23:14:25;root;INFO;Started fill_stats_table
+2020-08-23 23:14:26;root;WARNING;KR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:26;root;INFO;Processing ticker KSS
+2020-08-23 23:14:26;root;INFO;Started fill_stats_table
+2020-08-23 23:14:27;root;INFO;Processing ticker KSU
+2020-08-23 23:14:27;root;INFO;Started fill_stats_table
+2020-08-23 23:14:28;root;INFO;Processing ticker L
+2020-08-23 23:14:28;root;INFO;Started fill_stats_table
+2020-08-23 23:14:29;root;INFO;Processing ticker LB
+2020-08-23 23:14:29;root;INFO;Started fill_stats_table
+2020-08-23 23:14:30;root;INFO;Processing ticker LDOS
+2020-08-23 23:14:30;root;INFO;Started fill_stats_table
+2020-08-23 23:14:31;root;INFO;Processing ticker LEG
+2020-08-23 23:14:31;root;INFO;Started fill_stats_table
+2020-08-23 23:14:32;root;INFO;Processing ticker LEN
+2020-08-23 23:14:32;root;INFO;Started fill_stats_table
+2020-08-23 23:14:32;root;INFO;Processing ticker LH
+2020-08-23 23:14:32;root;INFO;Started fill_stats_table
+2020-08-23 23:14:33;root;INFO;Processing ticker LHX
+2020-08-23 23:14:33;root;INFO;Started fill_stats_table
+2020-08-23 23:14:34;root;INFO;Processing ticker LIN
+2020-08-23 23:14:34;root;INFO;Started fill_stats_table
+2020-08-23 23:14:35;root;INFO;Processing ticker LKQ
+2020-08-23 23:14:35;root;INFO;Started fill_stats_table
+2020-08-23 23:14:36;root;WARNING;LKQ failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:36;root;INFO;Processing ticker LLY
+2020-08-23 23:14:36;root;INFO;Started fill_stats_table
+2020-08-23 23:14:37;root;INFO;Processing ticker LMT
+2020-08-23 23:14:37;root;INFO;Started fill_stats_table
+2020-08-23 23:14:38;root;INFO;Processing ticker LNC
+2020-08-23 23:14:38;root;INFO;Started fill_stats_table
+2020-08-23 23:14:38;root;INFO;Processing ticker LNT
+2020-08-23 23:14:38;root;INFO;Started fill_stats_table
+2020-08-23 23:14:39;root;INFO;Processing ticker LOW
+2020-08-23 23:14:39;root;INFO;Started fill_stats_table
+2020-08-23 23:14:40;root;INFO;Processing ticker LRCX
+2020-08-23 23:14:40;root;INFO;Started fill_stats_table
+2020-08-23 23:14:41;root;INFO;Processing ticker LUV
+2020-08-23 23:14:41;root;INFO;Started fill_stats_table
+2020-08-23 23:14:42;root;WARNING;LUV failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:42;root;INFO;Processing ticker LVS
+2020-08-23 23:14:42;root;INFO;Started fill_stats_table
+2020-08-23 23:14:43;root;INFO;Processing ticker LW
+2020-08-23 23:14:43;root;INFO;Started fill_stats_table
+2020-08-23 23:14:44;root;INFO;Processing ticker LYB
+2020-08-23 23:14:44;root;INFO;Started fill_stats_table
+2020-08-23 23:14:45;root;INFO;Processing ticker LYV
+2020-08-23 23:14:45;root;INFO;Started fill_stats_table
+2020-08-23 23:14:46;root;INFO;Processing ticker M
+2020-08-23 23:14:46;root;INFO;Started fill_stats_table
+2020-08-23 23:14:46;root;INFO;Processing ticker MA
+2020-08-23 23:14:46;root;INFO;Started fill_stats_table
+2020-08-23 23:14:47;root;INFO;Processing ticker MAA
+2020-08-23 23:14:47;root;INFO;Started fill_stats_table
+2020-08-23 23:14:48;root;WARNING;MAA failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:14:48;root;INFO;Processing ticker MAR
+2020-08-23 23:14:48;root;INFO;Started fill_stats_table
+2020-08-23 23:14:49;root;INFO;Processing ticker MAS
+2020-08-23 23:14:49;root;INFO;Started fill_stats_table
+2020-08-23 23:14:50;root;INFO;Processing ticker MCD
+2020-08-23 23:14:50;root;INFO;Started fill_stats_table
+2020-08-23 23:14:51;root;INFO;Processing ticker MCHP
+2020-08-23 23:14:51;root;INFO;Started fill_stats_table
+2020-08-23 23:14:52;root;INFO;Processing ticker MCK
+2020-08-23 23:14:52;root;INFO;Started fill_stats_table
+2020-08-23 23:14:52;root;INFO;Processing ticker MCO
+2020-08-23 23:14:52;root;INFO;Started fill_stats_table
+2020-08-23 23:14:53;root;INFO;Processing ticker MDLZ
+2020-08-23 23:14:53;root;INFO;Started fill_stats_table
+2020-08-23 23:14:54;root;INFO;Processing ticker MDT
+2020-08-23 23:14:54;root;INFO;Started fill_stats_table
+2020-08-23 23:14:55;root;INFO;Processing ticker MET
+2020-08-23 23:14:55;root;INFO;Started fill_stats_table
+2020-08-23 23:14:56;root;INFO;Processing ticker MGM
+2020-08-23 23:14:56;root;INFO;Started fill_stats_table
+2020-08-23 23:14:57;root;INFO;Processing ticker MHK
+2020-08-23 23:14:57;root;INFO;Started fill_stats_table
+2020-08-23 23:14:58;root;INFO;Processing ticker MKC
+2020-08-23 23:14:58;root;INFO;Started fill_stats_table
+2020-08-23 23:14:59;root;INFO;Processing ticker MKTX
+2020-08-23 23:14:59;root;INFO;Started fill_stats_table
+2020-08-23 23:15:00;root;INFO;Processing ticker MLM
+2020-08-23 23:15:00;root;INFO;Started fill_stats_table
+2020-08-23 23:15:01;root;INFO;Processing ticker MMC
+2020-08-23 23:15:01;root;INFO;Started fill_stats_table
+2020-08-23 23:15:01;root;WARNING;MMC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:01;root;INFO;Processing ticker MMM
+2020-08-23 23:15:01;root;INFO;Started fill_stats_table
+2020-08-23 23:15:02;root;INFO;Processing ticker MNST
+2020-08-23 23:15:02;root;INFO;Started fill_stats_table
+2020-08-23 23:15:03;root;INFO;Processing ticker MO
+2020-08-23 23:15:03;root;INFO;Started fill_stats_table
+2020-08-23 23:15:04;root;INFO;Processing ticker MOS
+2020-08-23 23:15:04;root;INFO;Started fill_stats_table
+2020-08-23 23:15:05;root;INFO;Processing ticker MPC
+2020-08-23 23:15:05;root;INFO;Started fill_stats_table
+2020-08-23 23:15:06;root;INFO;Processing ticker MRK
+2020-08-23 23:15:06;root;INFO;Started fill_stats_table
+2020-08-23 23:15:07;root;INFO;Processing ticker MRO
+2020-08-23 23:15:07;root;INFO;Started fill_stats_table
+2020-08-23 23:15:08;root;INFO;Processing ticker MS
+2020-08-23 23:15:08;root;INFO;Started fill_stats_table
+2020-08-23 23:15:09;root;INFO;Processing ticker MSCI
+2020-08-23 23:15:09;root;INFO;Started fill_stats_table
+2020-08-23 23:15:09;root;INFO;Processing ticker MSFT
+2020-08-23 23:15:09;root;INFO;Started fill_stats_table
+2020-08-23 23:15:10;root;INFO;Processing ticker MSI
+2020-08-23 23:15:10;root;INFO;Started fill_stats_table
+2020-08-23 23:15:11;root;INFO;Processing ticker MTB
+2020-08-23 23:15:11;root;INFO;Started fill_stats_table
+2020-08-23 23:15:12;root;INFO;Processing ticker MTD
+2020-08-23 23:15:12;root;INFO;Started fill_stats_table
+2020-08-23 23:15:13;root;INFO;Processing ticker MU
+2020-08-23 23:15:13;root;INFO;Started fill_stats_table
+2020-08-23 23:15:14;root;ERROR;(1054, "Unknown column 'nan' in 'field list'")
+2020-08-23 23:15:14;root;INFO;Processing ticker MXIM
+2020-08-23 23:15:14;root;INFO;Started fill_stats_table
+2020-08-23 23:15:15;root;INFO;Processing ticker MYL
+2020-08-23 23:15:15;root;INFO;Started fill_stats_table
+2020-08-23 23:15:16;root;INFO;Processing ticker NBL
+2020-08-23 23:15:16;root;INFO;Started fill_stats_table
+2020-08-23 23:15:16;root;INFO;Processing ticker NCLH
+2020-08-23 23:15:16;root;INFO;Started fill_stats_table
+2020-08-23 23:15:17;root;INFO;Processing ticker NDAQ
+2020-08-23 23:15:17;root;INFO;Started fill_stats_table
+2020-08-23 23:15:18;root;INFO;Processing ticker NEE
+2020-08-23 23:15:18;root;INFO;Started fill_stats_table
+2020-08-23 23:15:19;root;INFO;Processing ticker NEM
+2020-08-23 23:15:19;root;INFO;Started fill_stats_table
+2020-08-23 23:15:20;root;INFO;Processing ticker NFLX
+2020-08-23 23:15:20;root;INFO;Started fill_stats_table
+2020-08-23 23:15:21;root;WARNING;NFLX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:21;root;INFO;Processing ticker NI
+2020-08-23 23:15:21;root;INFO;Started fill_stats_table
+2020-08-23 23:15:22;root;INFO;Processing ticker NKE
+2020-08-23 23:15:22;root;INFO;Started fill_stats_table
+2020-08-23 23:15:22;root;INFO;Processing ticker NLOK
+2020-08-23 23:15:22;root;INFO;Started fill_stats_table
+2020-08-23 23:15:23;root;INFO;Processing ticker NLSN
+2020-08-23 23:15:23;root;INFO;Started fill_stats_table
+2020-08-23 23:15:24;root;INFO;Processing ticker NOC
+2020-08-23 23:15:24;root;INFO;Started fill_stats_table
+2020-08-23 23:15:25;root;WARNING;NOC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:25;root;INFO;Processing ticker NOV
+2020-08-23 23:15:25;root;INFO;Started fill_stats_table
+2020-08-23 23:15:26;root;INFO;Processing ticker NOW
+2020-08-23 23:15:26;root;INFO;Started fill_stats_table
+2020-08-23 23:15:27;root;INFO;Processing ticker NRG
+2020-08-23 23:15:27;root;INFO;Started fill_stats_table
+2020-08-23 23:15:28;root;INFO;Processing ticker NSC
+2020-08-23 23:15:28;root;INFO;Started fill_stats_table
+2020-08-23 23:15:29;root;INFO;Processing ticker NTAP
+2020-08-23 23:15:29;root;INFO;Started fill_stats_table
+2020-08-23 23:15:30;root;INFO;Processing ticker NTRS
+2020-08-23 23:15:30;root;INFO;Started fill_stats_table
+2020-08-23 23:15:30;root;INFO;Processing ticker NUE
+2020-08-23 23:15:30;root;INFO;Started fill_stats_table
+2020-08-23 23:15:31;root;INFO;Processing ticker NVDA
+2020-08-23 23:15:31;root;INFO;Started fill_stats_table
+2020-08-23 23:15:32;root;INFO;Processing ticker NVR
+2020-08-23 23:15:32;root;INFO;Started fill_stats_table
+2020-08-23 23:15:33;root;WARNING;NVR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:33;root;INFO;Processing ticker NWL
+2020-08-23 23:15:33;root;INFO;Started fill_stats_table
+2020-08-23 23:15:34;root;INFO;Processing ticker NWS
+2020-08-23 23:15:34;root;INFO;Started fill_stats_table
+2020-08-23 23:15:35;root;INFO;Processing ticker NWSA
+2020-08-23 23:15:35;root;INFO;Started fill_stats_table
+2020-08-23 23:15:36;root;INFO;Processing ticker O
+2020-08-23 23:15:36;root;INFO;Started fill_stats_table
+2020-08-23 23:15:36;root;INFO;Processing ticker ODFL
+2020-08-23 23:15:36;root;INFO;Started fill_stats_table
+2020-08-23 23:15:37;root;INFO;Processing ticker OKE
+2020-08-23 23:15:37;root;INFO;Started fill_stats_table
+2020-08-23 23:15:38;root;INFO;Processing ticker OMC
+2020-08-23 23:15:38;root;INFO;Started fill_stats_table
+2020-08-23 23:15:39;root;WARNING;OMC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:39;root;INFO;Processing ticker ORCL
+2020-08-23 23:15:39;root;INFO;Started fill_stats_table
+2020-08-23 23:15:40;root;INFO;Processing ticker ORLY
+2020-08-23 23:15:40;root;INFO;Started fill_stats_table
+2020-08-23 23:15:41;root;INFO;Processing ticker OXY
+2020-08-23 23:15:41;root;INFO;Started fill_stats_table
+2020-08-23 23:15:42;root;INFO;Processing ticker PAYX
+2020-08-23 23:15:42;root;INFO;Started fill_stats_table
+2020-08-23 23:15:43;root;INFO;Processing ticker PBCT
+2020-08-23 23:15:43;root;INFO;Started fill_stats_table
+2020-08-23 23:15:44;root;INFO;Processing ticker PCAR
+2020-08-23 23:15:44;root;INFO;Started fill_stats_table
+2020-08-23 23:15:45;root;INFO;Processing ticker PEAK
+2020-08-23 23:15:45;root;INFO;Started fill_stats_table
+2020-08-23 23:15:46;root;INFO;Processing ticker PEG
+2020-08-23 23:15:46;root;INFO;Started fill_stats_table
+2020-08-23 23:15:46;root;INFO;Processing ticker PEP
+2020-08-23 23:15:46;root;INFO;Started fill_stats_table
+2020-08-23 23:15:47;root;INFO;Processing ticker PFE
+2020-08-23 23:15:47;root;INFO;Started fill_stats_table
+2020-08-23 23:15:48;root;INFO;Processing ticker PFG
+2020-08-23 23:15:48;root;INFO;Started fill_stats_table
+2020-08-23 23:15:49;root;INFO;Processing ticker PG
+2020-08-23 23:15:49;root;INFO;Started fill_stats_table
+2020-08-23 23:15:50;root;WARNING;PG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:15:50;root;INFO;Processing ticker PGR
+2020-08-23 23:15:50;root;INFO;Started fill_stats_table
+2020-08-23 23:15:51;root;INFO;Processing ticker PH
+2020-08-23 23:15:51;root;INFO;Started fill_stats_table
+2020-08-23 23:15:52;root;INFO;Processing ticker PHM
+2020-08-23 23:15:52;root;INFO;Started fill_stats_table
+2020-08-23 23:15:53;root;INFO;Processing ticker PKG
+2020-08-23 23:15:53;root;INFO;Started fill_stats_table
+2020-08-23 23:15:54;root;INFO;Processing ticker PKI
+2020-08-23 23:15:54;root;INFO;Started fill_stats_table
+2020-08-23 23:15:54;root;INFO;Processing ticker PLD
+2020-08-23 23:15:54;root;INFO;Started fill_stats_table
+2020-08-23 23:15:55;root;INFO;Processing ticker PM
+2020-08-23 23:15:55;root;INFO;Started fill_stats_table
+2020-08-23 23:15:56;root;INFO;Processing ticker PNC
+2020-08-23 23:15:56;root;INFO;Started fill_stats_table
+2020-08-23 23:15:57;root;INFO;Processing ticker PNR
+2020-08-23 23:15:57;root;INFO;Started fill_stats_table
+2020-08-23 23:15:58;root;INFO;Processing ticker PNW
+2020-08-23 23:15:58;root;INFO;Started fill_stats_table
+2020-08-23 23:15:59;root;INFO;Processing ticker PPG
+2020-08-23 23:15:59;root;INFO;Started fill_stats_table
+2020-08-23 23:16:00;root;WARNING;PPG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:00;root;INFO;Processing ticker PPL
+2020-08-23 23:16:00;root;INFO;Started fill_stats_table
+2020-08-23 23:16:01;root;WARNING;PPL failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:01;root;INFO;Processing ticker PRGO
+2020-08-23 23:16:01;root;INFO;Started fill_stats_table
+2020-08-23 23:16:01;root;INFO;Processing ticker PRU
+2020-08-23 23:16:01;root;INFO;Started fill_stats_table
+2020-08-23 23:16:02;root;INFO;Processing ticker PSA
+2020-08-23 23:16:02;root;INFO;Started fill_stats_table
+2020-08-23 23:16:03;root;INFO;Processing ticker PSX
+2020-08-23 23:16:03;root;INFO;Started fill_stats_table
+2020-08-23 23:16:04;root;INFO;Processing ticker PVH
+2020-08-23 23:16:04;root;INFO;Started fill_stats_table
+2020-08-23 23:16:05;root;INFO;Processing ticker PWR
+2020-08-23 23:16:05;root;INFO;Started fill_stats_table
+2020-08-23 23:16:06;root;INFO;Processing ticker PXD
+2020-08-23 23:16:06;root;INFO;Started fill_stats_table
+2020-08-23 23:16:07;root;INFO;Processing ticker PYPL
+2020-08-23 23:16:07;root;INFO;Started fill_stats_table
+2020-08-23 23:16:08;root;INFO;Processing ticker QCOM
+2020-08-23 23:16:08;root;INFO;Started fill_stats_table
+2020-08-23 23:16:09;root;INFO;Processing ticker QRVO
+2020-08-23 23:16:09;root;INFO;Started fill_stats_table
+2020-08-23 23:16:10;root;INFO;Processing ticker RCL
+2020-08-23 23:16:10;root;INFO;Started fill_stats_table
+2020-08-23 23:16:11;root;INFO;Processing ticker RE
+2020-08-23 23:16:11;root;INFO;Started fill_stats_table
+2020-08-23 23:16:12;root;INFO;Processing ticker REG
+2020-08-23 23:16:12;root;INFO;Started fill_stats_table
+2020-08-23 23:16:12;root;INFO;Processing ticker REGN
+2020-08-23 23:16:12;root;INFO;Started fill_stats_table
+2020-08-23 23:16:13;root;INFO;Processing ticker RF
+2020-08-23 23:16:13;root;INFO;Started fill_stats_table
+2020-08-23 23:16:14;root;INFO;Processing ticker RHI
+2020-08-23 23:16:14;root;INFO;Started fill_stats_table
+2020-08-23 23:16:15;root;INFO;Processing ticker RJF
+2020-08-23 23:16:15;root;INFO;Started fill_stats_table
+2020-08-23 23:16:16;root;INFO;Processing ticker RL
+2020-08-23 23:16:16;root;INFO;Started fill_stats_table
+2020-08-23 23:16:17;root;INFO;Processing ticker RMD
+2020-08-23 23:16:17;root;INFO;Started fill_stats_table
+2020-08-23 23:16:18;root;INFO;Processing ticker ROK
+2020-08-23 23:16:18;root;INFO;Started fill_stats_table
+2020-08-23 23:16:19;root;INFO;Processing ticker ROL
+2020-08-23 23:16:19;root;INFO;Started fill_stats_table
+2020-08-23 23:16:20;root;INFO;Processing ticker ROP
+2020-08-23 23:16:20;root;INFO;Started fill_stats_table
+2020-08-23 23:16:21;root;INFO;Processing ticker ROST
+2020-08-23 23:16:21;root;INFO;Started fill_stats_table
+2020-08-23 23:16:21;root;INFO;Processing ticker RSG
+2020-08-23 23:16:21;root;INFO;Started fill_stats_table
+2020-08-23 23:16:22;root;WARNING;RSG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:22;root;INFO;Processing ticker RTN
+2020-08-23 23:16:22;root;INFO;Started fill_stats_table
+2020-08-23 23:16:23;root;INFO;Processing ticker SBAC
+2020-08-23 23:16:23;root;INFO;Started fill_stats_table
+2020-08-23 23:16:24;root;WARNING;SBAC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:24;root;INFO;Processing ticker SBUX
+2020-08-23 23:16:24;root;INFO;Started fill_stats_table
+2020-08-23 23:16:25;root;INFO;Processing ticker SCHW
+2020-08-23 23:16:25;root;INFO;Started fill_stats_table
+2020-08-23 23:16:26;root;INFO;Processing ticker SEE
+2020-08-23 23:16:26;root;INFO;Started fill_stats_table
+2020-08-23 23:16:26;root;INFO;Processing ticker SHW
+2020-08-23 23:16:26;root;INFO;Started fill_stats_table
+2020-08-23 23:16:27;root;INFO;Processing ticker SIVB
+2020-08-23 23:16:27;root;INFO;Started fill_stats_table
+2020-08-23 23:16:28;root;WARNING;SIVB failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:28;root;INFO;Processing ticker SJM
+2020-08-23 23:16:28;root;INFO;Started fill_stats_table
+2020-08-23 23:16:29;root;INFO;Processing ticker SLB
+2020-08-23 23:16:29;root;INFO;Started fill_stats_table
+2020-08-23 23:16:30;root;INFO;Processing ticker SLG
+2020-08-23 23:16:30;root;INFO;Started fill_stats_table
+2020-08-23 23:16:31;root;INFO;Processing ticker SNA
+2020-08-23 23:16:31;root;INFO;Started fill_stats_table
+2020-08-23 23:16:31;root;INFO;Processing ticker SNPS
+2020-08-23 23:16:31;root;INFO;Started fill_stats_table
+2020-08-23 23:16:32;root;INFO;Processing ticker SO
+2020-08-23 23:16:32;root;INFO;Started fill_stats_table
+2020-08-23 23:16:33;root;INFO;Processing ticker SPG
+2020-08-23 23:16:33;root;INFO;Started fill_stats_table
+2020-08-23 23:16:34;root;WARNING;SPG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:34;root;INFO;Processing ticker SPGI
+2020-08-23 23:16:34;root;INFO;Started fill_stats_table
+2020-08-23 23:16:35;root;INFO;Processing ticker SRE
+2020-08-23 23:16:35;root;INFO;Started fill_stats_table
+2020-08-23 23:16:36;root;INFO;Processing ticker STE
+2020-08-23 23:16:36;root;INFO;Started fill_stats_table
+2020-08-23 23:16:36;root;INFO;Processing ticker STT
+2020-08-23 23:16:36;root;INFO;Started fill_stats_table
+2020-08-23 23:16:37;root;INFO;Processing ticker STX
+2020-08-23 23:16:37;root;INFO;Started fill_stats_table
+2020-08-23 23:16:38;root;INFO;Processing ticker STZ
+2020-08-23 23:16:38;root;INFO;Started fill_stats_table
+2020-08-23 23:16:39;root;INFO;Processing ticker SWK
+2020-08-23 23:16:39;root;INFO;Started fill_stats_table
+2020-08-23 23:16:40;root;INFO;Processing ticker SWKS
+2020-08-23 23:16:40;root;INFO;Started fill_stats_table
+2020-08-23 23:16:41;root;INFO;Processing ticker SYF
+2020-08-23 23:16:41;root;INFO;Started fill_stats_table
+2020-08-23 23:16:42;root;WARNING;SYF failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:42;root;INFO;Processing ticker SYK
+2020-08-23 23:16:42;root;INFO;Started fill_stats_table
+2020-08-23 23:16:43;root;INFO;Processing ticker SYY
+2020-08-23 23:16:43;root;INFO;Started fill_stats_table
+2020-08-23 23:16:44;root;INFO;Processing ticker T
+2020-08-23 23:16:44;root;INFO;Started fill_stats_table
+2020-08-23 23:16:45;root;INFO;Processing ticker TAP
+2020-08-23 23:16:45;root;INFO;Started fill_stats_table
+2020-08-23 23:16:45;root;INFO;Processing ticker TDG
+2020-08-23 23:16:45;root;INFO;Started fill_stats_table
+2020-08-23 23:16:46;root;WARNING;TDG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:16:46;root;INFO;Processing ticker TEL
+2020-08-23 23:16:46;root;INFO;Started fill_stats_table
+2020-08-23 23:16:47;root;INFO;Processing ticker TFC
+2020-08-23 23:16:47;root;INFO;Started fill_stats_table
+2020-08-23 23:16:48;root;INFO;Processing ticker TFX
+2020-08-23 23:16:48;root;INFO;Started fill_stats_table
+2020-08-23 23:16:49;root;INFO;Processing ticker TGT
+2020-08-23 23:16:49;root;INFO;Started fill_stats_table
+2020-08-23 23:16:50;root;INFO;Processing ticker TIF
+2020-08-23 23:16:50;root;INFO;Started fill_stats_table
+2020-08-23 23:16:50;root;INFO;Processing ticker TJX
+2020-08-23 23:16:50;root;INFO;Started fill_stats_table
+2020-08-23 23:16:51;root;INFO;Processing ticker TMO
+2020-08-23 23:16:51;root;INFO;Started fill_stats_table
+2020-08-23 23:16:52;root;INFO;Processing ticker TMUS
+2020-08-23 23:16:52;root;INFO;Started fill_stats_table
+2020-08-23 23:16:53;root;INFO;Processing ticker TPR
+2020-08-23 23:16:53;root;INFO;Started fill_stats_table
+2020-08-23 23:16:54;root;INFO;Processing ticker TROW
+2020-08-23 23:16:54;root;INFO;Started fill_stats_table
+2020-08-23 23:16:55;root;INFO;Processing ticker TRV
+2020-08-23 23:16:55;root;INFO;Started fill_stats_table
+2020-08-23 23:16:56;root;INFO;Processing ticker TSCO
+2020-08-23 23:16:56;root;INFO;Started fill_stats_table
+2020-08-23 23:16:57;root;INFO;Processing ticker TSN
+2020-08-23 23:16:57;root;INFO;Started fill_stats_table
+2020-08-23 23:16:58;root;INFO;Processing ticker TTWO
+2020-08-23 23:16:58;root;INFO;Started fill_stats_table
+2020-08-23 23:16:59;root;INFO;Processing ticker TWTR
+2020-08-23 23:16:59;root;INFO;Started fill_stats_table
+2020-08-23 23:16:59;root;INFO;Processing ticker TXN
+2020-08-23 23:16:59;root;INFO;Started fill_stats_table
+2020-08-23 23:17:00;root;INFO;Processing ticker TXT
+2020-08-23 23:17:00;root;INFO;Started fill_stats_table
+2020-08-23 23:17:01;root;WARNING;TXT failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:01;root;INFO;Processing ticker UA
+2020-08-23 23:17:01;root;INFO;Started fill_stats_table
+2020-08-23 23:17:02;root;INFO;Processing ticker UAA
+2020-08-23 23:17:02;root;INFO;Started fill_stats_table
+2020-08-23 23:17:03;root;INFO;Processing ticker UAL
+2020-08-23 23:17:03;root;INFO;Started fill_stats_table
+2020-08-23 23:17:03;root;INFO;Processing ticker UDR
+2020-08-23 23:17:03;root;INFO;Started fill_stats_table
+2020-08-23 23:17:04;root;WARNING;UDR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:04;root;INFO;Processing ticker UHS
+2020-08-23 23:17:04;root;INFO;Started fill_stats_table
+2020-08-23 23:17:05;root;INFO;Processing ticker ULTA
+2020-08-23 23:17:05;root;INFO;Started fill_stats_table
+2020-08-23 23:17:06;root;INFO;Processing ticker UNH
+2020-08-23 23:17:06;root;INFO;Started fill_stats_table
+2020-08-23 23:17:07;root;WARNING;UNH failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:07;root;INFO;Processing ticker UNM
+2020-08-23 23:17:07;root;INFO;Started fill_stats_table
+2020-08-23 23:17:08;root;INFO;Processing ticker UNP
+2020-08-23 23:17:08;root;INFO;Started fill_stats_table
+2020-08-23 23:17:08;root;INFO;Processing ticker UPS
+2020-08-23 23:17:08;root;INFO;Started fill_stats_table
+2020-08-23 23:17:09;root;INFO;Processing ticker URI
+2020-08-23 23:17:09;root;INFO;Started fill_stats_table
+2020-08-23 23:17:10;root;INFO;Processing ticker USB
+2020-08-23 23:17:10;root;INFO;Started fill_stats_table
+2020-08-23 23:17:11;root;INFO;Processing ticker UTX
+2020-08-23 23:17:11;root;INFO;Started fill_stats_table
+2020-08-23 23:17:12;root;INFO;Processing ticker V
+2020-08-23 23:17:12;root;INFO;Started fill_stats_table
+2020-08-23 23:17:13;root;INFO;Processing ticker VAR
+2020-08-23 23:17:13;root;INFO;Started fill_stats_table
+2020-08-23 23:17:14;root;INFO;Processing ticker VFC
+2020-08-23 23:17:14;root;INFO;Started fill_stats_table
+2020-08-23 23:17:14;root;INFO;Processing ticker VIAC
+2020-08-23 23:17:14;root;INFO;Started fill_stats_table
+2020-08-23 23:17:15;root;WARNING;VIAC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:15;root;INFO;Processing ticker VLO
+2020-08-23 23:17:15;root;INFO;Started fill_stats_table
+2020-08-23 23:17:16;root;INFO;Processing ticker VMC
+2020-08-23 23:17:16;root;INFO;Started fill_stats_table
+2020-08-23 23:17:17;root;INFO;Processing ticker VNO
+2020-08-23 23:17:17;root;INFO;Started fill_stats_table
+2020-08-23 23:17:18;root;INFO;Processing ticker VRSK
+2020-08-23 23:17:18;root;INFO;Started fill_stats_table
+2020-08-23 23:17:19;root;INFO;Processing ticker VRSN
+2020-08-23 23:17:19;root;INFO;Started fill_stats_table
+2020-08-23 23:17:20;root;INFO;Processing ticker VRTX
+2020-08-23 23:17:20;root;INFO;Started fill_stats_table
+2020-08-23 23:17:21;root;INFO;Processing ticker VTR
+2020-08-23 23:17:21;root;INFO;Started fill_stats_table
+2020-08-23 23:17:22;root;INFO;Processing ticker VZ
+2020-08-23 23:17:22;root;INFO;Started fill_stats_table
+2020-08-23 23:17:22;root;WARNING;VZ failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:22;root;INFO;Processing ticker WAB
+2020-08-23 23:17:22;root;INFO;Started fill_stats_table
+2020-08-23 23:17:23;root;INFO;Processing ticker WAT
+2020-08-23 23:17:23;root;INFO;Started fill_stats_table
+2020-08-23 23:17:24;root;INFO;Processing ticker WBA
+2020-08-23 23:17:24;root;INFO;Started fill_stats_table
+2020-08-23 23:17:25;root;INFO;Processing ticker WCG
+2020-08-23 23:17:25;root;INFO;Started fill_stats_table
+2020-08-23 23:17:26;root;WARNING;WCG failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:26;root;INFO;Processing ticker WDC
+2020-08-23 23:17:26;root;INFO;Started fill_stats_table
+2020-08-23 23:17:27;root;INFO;Processing ticker WEC
+2020-08-23 23:17:27;root;INFO;Started fill_stats_table
+2020-08-23 23:17:27;root;WARNING;WEC failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:27;root;INFO;Processing ticker WELL
+2020-08-23 23:17:27;root;INFO;Started fill_stats_table
+2020-08-23 23:17:28;root;INFO;Processing ticker WFC
+2020-08-23 23:17:28;root;INFO;Started fill_stats_table
+2020-08-23 23:17:30;root;INFO;Processing ticker WHR
+2020-08-23 23:17:30;root;INFO;Started fill_stats_table
+2020-08-23 23:17:31;root;INFO;Processing ticker WLTW
+2020-08-23 23:17:31;root;INFO;Started fill_stats_table
+2020-08-23 23:17:32;root;WARNING;WLTW failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:32;root;INFO;Processing ticker WM
+2020-08-23 23:17:32;root;INFO;Started fill_stats_table
+2020-08-23 23:17:33;root;WARNING;WM failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:33;root;INFO;Processing ticker WMB
+2020-08-23 23:17:33;root;INFO;Started fill_stats_table
+2020-08-23 23:17:33;root;WARNING;WMB failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:33;root;INFO;Processing ticker WMT
+2020-08-23 23:17:33;root;INFO;Started fill_stats_table
+2020-08-23 23:17:34;root;INFO;Processing ticker WRB
+2020-08-23 23:17:34;root;INFO;Started fill_stats_table
+2020-08-23 23:17:35;root;WARNING;WRB failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:35;root;INFO;Processing ticker WRK
+2020-08-23 23:17:35;root;INFO;Started fill_stats_table
+2020-08-23 23:17:36;root;INFO;Processing ticker WU
+2020-08-23 23:17:36;root;INFO;Started fill_stats_table
+2020-08-23 23:17:37;root;WARNING;WU failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:37;root;INFO;Processing ticker WY
+2020-08-23 23:17:37;root;INFO;Started fill_stats_table
+2020-08-23 23:17:38;root;INFO;Processing ticker WYNN
+2020-08-23 23:17:38;root;INFO;Started fill_stats_table
+2020-08-23 23:17:38;root;WARNING;WYNN failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:38;root;INFO;Processing ticker XEC
+2020-08-23 23:17:38;root;INFO;Started fill_stats_table
+2020-08-23 23:17:39;root;INFO;Processing ticker XEL
+2020-08-23 23:17:39;root;INFO;Started fill_stats_table
+2020-08-23 23:17:40;root;INFO;Processing ticker XLNX
+2020-08-23 23:17:40;root;INFO;Started fill_stats_table
+2020-08-23 23:17:41;root;INFO;Processing ticker XOM
+2020-08-23 23:17:41;root;INFO;Started fill_stats_table
+2020-08-23 23:17:42;root;INFO;Processing ticker XRAY
+2020-08-23 23:17:42;root;INFO;Started fill_stats_table
+2020-08-23 23:17:43;root;INFO;Processing ticker XRX
+2020-08-23 23:17:43;root;INFO;Started fill_stats_table
+2020-08-23 23:17:44;root;WARNING;XRX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:44;root;INFO;Processing ticker XYL
+2020-08-23 23:17:44;root;INFO;Started fill_stats_table
+2020-08-23 23:17:44;root;INFO;Processing ticker YUM
+2020-08-23 23:17:44;root;INFO;Started fill_stats_table
+2020-08-23 23:17:45;root;INFO;Processing ticker ZBH
+2020-08-23 23:17:45;root;INFO;Started fill_stats_table
+2020-08-23 23:17:46;root;INFO;Processing ticker ZBRA
+2020-08-23 23:17:46;root;INFO;Started fill_stats_table
+2020-08-23 23:17:47;root;INFO;Processing ticker ZION
+2020-08-23 23:17:47;root;INFO;Started fill_stats_table
+2020-08-23 23:17:48;root;INFO;Processing ticker ZTS
+2020-08-23 23:17:48;root;INFO;Started fill_stats_table
+2020-08-23 23:17:49;root;INFO;Processing ticker TEST
+2020-08-23 23:17:49;root;INFO;Started fill_stats_table
+2020-08-23 23:17:50;root;INFO;Processing ticker NFLX
+2020-08-23 23:17:50;root;INFO;Started fill_stats_table
+2020-08-23 23:17:50;root;WARNING;NFLX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:50;root;INFO;Processing ticker HEIO.AS
+2020-08-23 23:17:50;root;INFO;Started fill_stats_table
+2020-08-23 23:17:51;root;INFO;Processing ticker NKE
+2020-08-23 23:17:51;root;INFO;Started fill_stats_table
+2020-08-23 23:17:52;root;INFO;Processing ticker UNA.AS
+2020-08-23 23:17:52;root;INFO;Started fill_stats_table
+2020-08-23 23:17:53;root;WARNING;UNA.AS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:17:53;root;INFO;Processing ticker NBEV
+2020-08-23 23:17:53;root;INFO;Started fill_stats_table
+2020-08-23 23:17:54;root;INFO;Processing ticker ABMD
+2020-08-23 23:17:54;root;INFO;Started fill_stats_table
+2020-08-23 23:17:55;root;INFO;Processing ticker MYL
+2020-08-23 23:17:55;root;INFO;Started fill_stats_table
+2020-08-23 23:17:56;root;INFO;Processing ticker HBI
+2020-08-23 23:17:56;root;INFO;Started fill_stats_table
+2020-08-23 23:17:57;root;INFO;Processing ticker FANG
+2020-08-23 23:17:57;root;INFO;Started fill_stats_table
+2020-08-23 23:17:58;root;INFO;Processing ticker MDB
+2020-08-23 23:17:58;root;INFO;Started fill_stats_table
+2020-08-23 23:17:59;root;INFO;Processing ticker NEWR
+2020-08-23 23:17:59;root;INFO;Started fill_stats_table
+2020-08-23 23:18:00;root;INFO;Processing ticker AYX
+2020-08-23 23:18:00;root;INFO;Started fill_stats_table
+2020-08-23 23:18:01;root;WARNING;AYX failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:01;root;INFO;Processing ticker SPLK
+2020-08-23 23:18:01;root;INFO;Started fill_stats_table
+2020-08-23 23:18:01;root;INFO;Processing ticker ESTC
+2020-08-23 23:18:01;root;INFO;Started fill_stats_table
+2020-08-23 23:18:02;root;INFO;Processing ticker CLDR
+2020-08-23 23:18:02;root;INFO;Started fill_stats_table
+2020-08-23 23:18:03;root;WARNING;CLDR failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:03;root;INFO;Processing ticker TLND
+2020-08-23 23:18:03;root;INFO;Started fill_stats_table
+2020-08-23 23:18:04;root;INFO;Processing ticker 600000.SS
+2020-08-23 23:18:04;root;INFO;Started fill_stats_table
+2020-08-23 23:18:05;root;INFO;Processing ticker 600016.SS
+2020-08-23 23:18:05;root;INFO;Started fill_stats_table
+2020-08-23 23:18:06;root;INFO;Processing ticker 600028.SS
+2020-08-23 23:18:06;root;INFO;Started fill_stats_table
+2020-08-23 23:18:07;root;INFO;Processing ticker 600029.SS
+2020-08-23 23:18:07;root;INFO;Started fill_stats_table
+2020-08-23 23:18:08;root;INFO;Processing ticker 600030.SS
+2020-08-23 23:18:08;root;INFO;Started fill_stats_table
+2020-08-23 23:18:09;root;INFO;Processing ticker 600036.SS
+2020-08-23 23:18:09;root;INFO;Started fill_stats_table
+2020-08-23 23:18:10;root;INFO;Processing ticker 600048.SS
+2020-08-23 23:18:10;root;INFO;Started fill_stats_table
+2020-08-23 23:18:11;root;INFO;Processing ticker 600050.SS
+2020-08-23 23:18:11;root;INFO;Started fill_stats_table
+2020-08-23 23:18:12;root;WARNING;600050.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:12;root;INFO;Processing ticker 600100.SS
+2020-08-23 23:18:12;root;INFO;Started fill_stats_table
+2020-08-23 23:18:13;root;INFO;Processing ticker 600104.SS
+2020-08-23 23:18:13;root;INFO;Started fill_stats_table
+2020-08-23 23:18:14;root;INFO;Processing ticker 600111.SS
+2020-08-23 23:18:14;root;INFO;Started fill_stats_table
+2020-08-23 23:18:15;root;INFO;Processing ticker 600340.SS
+2020-08-23 23:18:15;root;INFO;Started fill_stats_table
+2020-08-23 23:18:16;root;INFO;Processing ticker 600485.SS
+2020-08-23 23:18:16;root;INFO;Started fill_stats_table
+2020-08-23 23:18:16;root;INFO;Processing ticker 600518.SS
+2020-08-23 23:18:16;root;INFO;Started fill_stats_table
+2020-08-23 23:18:17;root;INFO;Processing ticker 600519.SS
+2020-08-23 23:18:17;root;INFO;Started fill_stats_table
+2020-08-23 23:18:18;root;INFO;Processing ticker 600547.SS
+2020-08-23 23:18:18;root;INFO;Started fill_stats_table
+2020-08-23 23:18:19;root;INFO;Processing ticker 600606.SS
+2020-08-23 23:18:19;root;INFO;Started fill_stats_table
+2020-08-23 23:18:20;root;INFO;Processing ticker 600837.SS
+2020-08-23 23:18:20;root;INFO;Started fill_stats_table
+2020-08-23 23:18:21;root;INFO;Processing ticker 600887.SS
+2020-08-23 23:18:21;root;INFO;Started fill_stats_table
+2020-08-23 23:18:22;root;INFO;Processing ticker 600919.SS
+2020-08-23 23:18:22;root;INFO;Started fill_stats_table
+2020-08-23 23:18:23;root;INFO;Processing ticker 600958.SS
+2020-08-23 23:18:23;root;INFO;Started fill_stats_table
+2020-08-23 23:18:24;root;WARNING;600958.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:24;root;INFO;Processing ticker 600999.SS
+2020-08-23 23:18:24;root;INFO;Started fill_stats_table
+2020-08-23 23:18:24;root;INFO;Processing ticker 601006.SS
+2020-08-23 23:18:24;root;INFO;Started fill_stats_table
+2020-08-23 23:18:25;root;INFO;Processing ticker 601088.SS
+2020-08-23 23:18:25;root;INFO;Started fill_stats_table
+2020-08-23 23:18:26;root;INFO;Processing ticker 601166.SS
+2020-08-23 23:18:26;root;INFO;Started fill_stats_table
+2020-08-23 23:18:27;root;INFO;Processing ticker 601169.SS
+2020-08-23 23:18:27;root;INFO;Started fill_stats_table
+2020-08-23 23:18:28;root;INFO;Processing ticker 601186.SS
+2020-08-23 23:18:28;root;INFO;Started fill_stats_table
+2020-08-23 23:18:29;root;INFO;Processing ticker 601198.SS
+2020-08-23 23:18:29;root;INFO;Started fill_stats_table
+2020-08-23 23:18:30;root;INFO;Processing ticker 601211.SS
+2020-08-23 23:18:30;root;INFO;Started fill_stats_table
+2020-08-23 23:18:31;root;WARNING;601211.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:31;root;INFO;Processing ticker 601229.SS
+2020-08-23 23:18:31;root;INFO;Started fill_stats_table
+2020-08-23 23:18:31;root;INFO;Processing ticker 601288.SS
+2020-08-23 23:18:31;root;INFO;Started fill_stats_table
+2020-08-23 23:18:32;root;INFO;Processing ticker 601318.SS
+2020-08-23 23:18:32;root;INFO;Started fill_stats_table
+2020-08-23 23:18:33;root;WARNING;601318.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:33;root;INFO;Processing ticker 601328.SS
+2020-08-23 23:18:33;root;INFO;Started fill_stats_table
+2020-08-23 23:18:34;root;INFO;Processing ticker 601336.SS
+2020-08-23 23:18:34;root;INFO;Started fill_stats_table
+2020-08-23 23:18:35;root;INFO;Processing ticker 601390.SS
+2020-08-23 23:18:35;root;INFO;Started fill_stats_table
+2020-08-23 23:18:36;root;INFO;Processing ticker 601398.SS
+2020-08-23 23:18:36;root;INFO;Started fill_stats_table
+2020-08-23 23:18:37;root;INFO;Processing ticker 601601.SS
+2020-08-23 23:18:37;root;INFO;Started fill_stats_table
+2020-08-23 23:18:38;root;INFO;Processing ticker 601628.SS
+2020-08-23 23:18:38;root;INFO;Started fill_stats_table
+2020-08-23 23:18:39;root;INFO;Processing ticker 601668.SS
+2020-08-23 23:18:39;root;INFO;Started fill_stats_table
+2020-08-23 23:18:39;root;WARNING;601668.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:39;root;INFO;Processing ticker 601688.SS
+2020-08-23 23:18:39;root;INFO;Started fill_stats_table
+2020-08-23 23:18:40;root;WARNING;601688.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:40;root;INFO;Processing ticker 601766.SS
+2020-08-23 23:18:40;root;INFO;Started fill_stats_table
+2020-08-23 23:18:41;root;INFO;Processing ticker 601788.SS
+2020-08-23 23:18:41;root;INFO;Started fill_stats_table
+2020-08-23 23:18:42;root;INFO;Processing ticker 601800.SS
+2020-08-23 23:18:42;root;INFO;Started fill_stats_table
+2020-08-23 23:18:43;root;INFO;Processing ticker 601818.SS
+2020-08-23 23:18:43;root;INFO;Started fill_stats_table
+2020-08-23 23:18:44;root;INFO;Processing ticker 601857.SS
+2020-08-23 23:18:44;root;INFO;Started fill_stats_table
+2020-08-23 23:18:45;root;INFO;Processing ticker 601881.SS
+2020-08-23 23:18:45;root;INFO;Started fill_stats_table
+2020-08-23 23:18:45;root;INFO;Processing ticker 601901.SS
+2020-08-23 23:18:45;root;INFO;Started fill_stats_table
+2020-08-23 23:18:46;root;INFO;Processing ticker 601985.SS
+2020-08-23 23:18:46;root;INFO;Started fill_stats_table
+2020-08-23 23:18:47;root;INFO;Processing ticker 601988.SS
+2020-08-23 23:18:47;root;INFO;Started fill_stats_table
+2020-08-23 23:18:48;root;INFO;Processing ticker 601989.SS
+2020-08-23 23:18:48;root;INFO;Started fill_stats_table
+2020-08-23 23:18:49;root;INFO;Processing ticker 601360.SS
+2020-08-23 23:18:49;root;INFO;Started fill_stats_table
+2020-08-23 23:18:50;root;INFO;Processing ticker 603580.SS
+2020-08-23 23:18:50;root;INFO;Started fill_stats_table
+2020-08-23 23:18:51;root;WARNING;603580.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:18:51;root;INFO;Processing ticker 603089.SS
+2020-08-23 23:18:51;root;INFO;Started fill_stats_table
+2020-08-23 23:18:52;root;INFO;Processing ticker 600391.SS
+2020-08-23 23:18:52;root;INFO;Started fill_stats_table
+2020-08-23 23:18:53;root;INFO;Processing ticker 600469.SS
+2020-08-23 23:18:53;root;INFO;Started fill_stats_table
+2020-08-23 23:18:54;root;INFO;Processing ticker 600677.SS
+2020-08-23 23:18:54;root;INFO;Started fill_stats_table
+2020-08-23 23:18:55;root;INFO;Processing ticker 600501.SS
+2020-08-23 23:18:55;root;INFO;Started fill_stats_table
+2020-08-23 23:18:55;root;INFO;Processing ticker 601288.SS
+2020-08-23 23:18:55;root;INFO;Started fill_stats_table
+2020-08-23 23:18:56;root;INFO;Processing ticker 601111.SS
+2020-08-23 23:18:56;root;INFO;Started fill_stats_table
+2020-08-23 23:18:57;root;INFO;Processing ticker 600068.SS
+2020-08-23 23:18:57;root;INFO;Started fill_stats_table
+2020-08-23 23:18:58;root;INFO;Processing ticker 600297.SS
+2020-08-23 23:18:58;root;INFO;Started fill_stats_table
+2020-08-23 23:18:59;root;INFO;Processing ticker 601118.SS
+2020-08-23 23:18:59;root;INFO;Started fill_stats_table
+2020-08-23 23:19:00;root;INFO;Processing ticker 600730.SS
+2020-08-23 23:19:00;root;INFO;Started fill_stats_table
+2020-08-23 23:19:01;root;INFO;Processing ticker 601888.SS
+2020-08-23 23:19:01;root;INFO;Started fill_stats_table
+2020-08-23 23:19:02;root;INFO;Processing ticker 600176.SS
+2020-08-23 23:19:02;root;INFO;Started fill_stats_table
+2020-08-23 23:19:03;root;INFO;Processing ticker 603505.SS
+2020-08-23 23:19:03;root;INFO;Started fill_stats_table
+2020-08-23 23:19:04;root;WARNING;603505.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:04;root;INFO;Processing ticker 601628.SS
+2020-08-23 23:19:04;root;INFO;Started fill_stats_table
+2020-08-23 23:19:04;root;INFO;Processing ticker 603967.SS
+2020-08-23 23:19:04;root;INFO;Started fill_stats_table
+2020-08-23 23:19:06;root;INFO;Processing ticker 600056.SS
+2020-08-23 23:19:06;root;INFO;Started fill_stats_table
+2020-08-23 23:19:06;root;INFO;Processing ticker 600036.SS
+2020-08-23 23:19:06;root;INFO;Started fill_stats_table
+2020-08-23 23:19:07;root;INFO;Processing ticker 601872.SS
+2020-08-23 23:19:07;root;INFO;Started fill_stats_table
+2020-08-23 23:19:08;root;INFO;Processing ticker 600999.SS
+2020-08-23 23:19:08;root;INFO;Started fill_stats_table
+2020-08-23 23:19:09;root;INFO;Processing ticker 600016.SS
+2020-08-23 23:19:09;root;INFO;Started fill_stats_table
+2020-08-23 23:19:10;root;INFO;Processing ticker 603993.SS
+2020-08-23 23:19:10;root;INFO;Started fill_stats_table
+2020-08-23 23:19:10;root;WARNING;603993.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:10;root;INFO;Processing ticker 601117.SS
+2020-08-23 23:19:10;root;INFO;Started fill_stats_table
+2020-08-23 23:19:11;root;INFO;Processing ticker 600438.SS
+2020-08-23 23:19:11;root;INFO;Started fill_stats_table
+2020-08-23 23:19:12;root;INFO;Processing ticker 600780.SS
+2020-08-23 23:19:12;root;INFO;Started fill_stats_table
+2020-08-23 23:19:13;root;INFO;Processing ticker 603608.SS
+2020-08-23 23:19:13;root;INFO;Started fill_stats_table
+2020-08-23 23:19:14;root;WARNING;603608.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:14;root;INFO;Processing ticker 600763.SS
+2020-08-23 23:19:14;root;INFO;Started fill_stats_table
+2020-08-23 23:19:15;root;WARNING;600763.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:15;root;INFO;Processing ticker 600771.SS
+2020-08-23 23:19:15;root;INFO;Started fill_stats_table
+2020-08-23 23:19:16;root;INFO;Processing ticker 601163.SS
+2020-08-23 23:19:16;root;INFO;Started fill_stats_table
+2020-08-23 23:19:16;root;WARNING;601163.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:16;root;INFO;Processing ticker 600552.SS
+2020-08-23 23:19:16;root;INFO;Started fill_stats_table
+2020-08-23 23:19:17;root;WARNING;600552.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:17;root;INFO;Processing ticker 600100.SS
+2020-08-23 23:19:17;root;INFO;Started fill_stats_table
+2020-08-23 23:19:18;root;INFO;Processing ticker 600600.SS
+2020-08-23 23:19:18;root;INFO;Started fill_stats_table
+2020-08-23 23:19:19;root;INFO;Processing ticker 603721.SS
+2020-08-23 23:19:19;root;INFO;Started fill_stats_table
+2020-08-23 23:19:20;root;WARNING;603721.SS failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:20;root;INFO;Processing ticker 603600.SS
+2020-08-23 23:19:20;root;INFO;Started fill_stats_table
+2020-08-23 23:19:21;root;INFO;Processing ticker 601231.SS
+2020-08-23 23:19:21;root;INFO;Started fill_stats_table
+2020-08-23 23:19:22;root;INFO;Processing ticker 600300.SS
+2020-08-23 23:19:22;root;INFO;Started fill_stats_table
+2020-08-23 23:19:22;root;INFO;Processing ticker 600152.SS
+2020-08-23 23:19:22;root;INFO;Started fill_stats_table
+2020-08-23 23:19:23;root;INFO;Processing ticker 603226.SS
+2020-08-23 23:19:23;root;INFO;Started fill_stats_table
+2020-08-23 23:19:24;root;INFO;Processing ticker 600859.SS
+2020-08-23 23:19:24;root;INFO;Started fill_stats_table
+2020-08-23 23:19:25;root;INFO;Processing ticker 600309.SS
+2020-08-23 23:19:25;root;INFO;Started fill_stats_table
+2020-08-23 23:19:26;root;INFO;Processing ticker 600371.SS
+2020-08-23 23:19:26;root;INFO;Started fill_stats_table
+2020-08-23 23:19:27;root;INFO;Processing ticker SNE
+2020-08-23 23:19:27;root;INFO;Started fill_stats_table
+2020-08-23 23:19:28;root;INFO;Processing ticker UBER
+2020-08-23 23:19:28;root;INFO;Started fill_stats_table
+2020-08-23 23:19:29;root;INFO;Processing ticker ASML.AS
+2020-08-23 23:19:29;root;INFO;Started fill_stats_table
+2020-08-23 23:19:29;root;INFO;Processing ticker AF.PA
+2020-08-23 23:19:29;root;INFO;Started fill_stats_table
+2020-08-23 23:19:30;root;INFO;Processing ticker RYAAY
+2020-08-23 23:19:30;root;INFO;Started fill_stats_table
+2020-08-23 23:19:31;root;WARNING;RYAAY failed loading stats due to known error.  Might indicate mistake in stock ticker.
+2020-08-23 23:19:31;root;INFO;Processing ticker CEA
+2020-08-23 23:19:31;root;INFO;Started fill_stats_table
+2020-08-23 23:19:32;root;INFO;Processing ticker ZNH
+2020-08-23 23:19:32;root;INFO;Started fill_stats_table
+2020-08-23 23:19:33;root;INFO;Processing ticker NSRGY
+2020-08-23 23:19:33;root;INFO;Started fill_stats_table

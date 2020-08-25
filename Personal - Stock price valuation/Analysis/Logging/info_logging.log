@@ -1,0 +1,1316 @@
+2020-03-01 17:51:26;root;INFO;Starting: ABN.AS
+2020-03-01 17:51:26;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:51:26;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:51:26;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:51:27;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:51:27;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:51:28;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:51:28;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:51:28;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:51:28;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:51:28;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:51:28;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:51:28;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:51:28;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:51:28;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:51:28;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:52:04;root;INFO;Starting: ABN.AS
+2020-03-01 17:52:04;root;INFO;Starting: ABN.AS
+2020-03-01 17:52:04;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:04;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:04;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:04;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:04;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:52:04;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:52:05;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:52:05;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:52:05;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:52:05;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:52:06;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:06;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:06;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:06;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:06;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:52:06;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:52:06;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:06;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:06;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:06;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:07;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:52:07;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:52:07;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:52:07;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:52:07;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:52:07;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:52:07;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:52:07;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:52:07;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:52:07;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:52:23;root;INFO;Starting: ABN.AS
+2020-03-01 17:52:23;root;INFO;Starting: ABN.AS
+2020-03-01 17:52:23;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:23;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:23;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:23;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:23;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:52:23;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:52:24;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:52:24;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:52:24;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:52:24;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:52:25;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:25;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:25;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:25;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:25;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:52:25;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:52:25;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:25;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:52:25;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:25;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:52:25;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:52:25;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:52:25;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:52:25;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:52:25;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:52:25;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:52:25;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:52:25;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:52:25;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:52:25;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:53:29;root;INFO;Starting: ABN.AS
+2020-03-01 17:53:29;root;INFO;Starting: ABN.AS
+2020-03-01 17:53:29;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:29;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:29;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:29;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:29;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:53:29;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:53:31;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:53:31;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:53:31;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:53:31;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:53:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:32;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:53:32;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:53:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:32;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:53:32;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:53:32;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:53:32;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:53:32;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:53:32;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:53:32;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:53:32;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:53:32;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:53:32;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:53:57;root;INFO;Starting: ABN.AS
+2020-03-01 17:53:57;root;INFO;Starting: ABN.AS
+2020-03-01 17:53:57;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:57;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:57;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:57;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:57;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:53:57;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:53:58;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:53:58;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:53:58;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:53:58;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:53:59;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:59;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:59;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:59;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:59;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:53:59;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:53:59;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:59;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:53:59;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:59;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:53:59;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:53:59;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:53:59;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:53:59;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:53:59;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:53:59;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:53:59;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:53:59;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:53:59;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:53:59;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:54:15;root;INFO;Starting: ABN.AS
+2020-03-01 17:54:15;root;INFO;Starting: ABN.AS
+2020-03-01 17:54:15;root;INFO;Starting: ABN.AS
+2020-03-01 17:54:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:15;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:54:15;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:54:15;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 17:54:16;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:54:16;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:54:16;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 17:54:16;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:54:16;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:54:16;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:17;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:54:17;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:54:17;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 17:54:18;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:54:18;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:54:18;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 17:54:18;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:54:18;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:54:18;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'yearly_growth_amount: 0', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 17:54:18;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:54:18;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:54:18;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 17:54:18;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:54:18;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:54:18;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 17:54:18;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:54:18;root;INFO;stock ABN.AS is undervalued
+2020-03-01 17:54:18;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:05:28;root;INFO;Starting: ABN.AS
+2020-03-01 18:05:28;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:05:28;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:05:28;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:05:29;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:05:29;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:05:30;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:05:30;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:05:30;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:05:30;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:05:30;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:05:31;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:05:31;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'annual dividend: 1.2', 'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:05:31;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:05:31;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:05:31;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:08:51;root;INFO;Starting: ABN.AS
+2020-03-01 18:08:51;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:08:51;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:08:51;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:08:52;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:08:52;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:08:53;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:08:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:08:53;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:08:53;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:08:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:08:54;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:08:54;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'annual dividend: 1.2', 'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:08:54;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:08:54;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:08:54;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:09:11;root;INFO;Starting: ABN.AS
+2020-03-01 18:09:11;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:09:11;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:09:11;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:09:12;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:09:12;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:09:14;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:09:14;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:09:14;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:09:14;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:09:14;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:09:14;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:09:14;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'annual dividend: 1.2', 'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:09:14;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:09:14;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:09:14;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:10:55;root;INFO;Starting: ABN.AS
+2020-03-01 18:10:55;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:10:55;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:10:55;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:10:56;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:10:56;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:10:57;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:10:57;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:10:57;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:10:57;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:10:57;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:10:58;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:10:58;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'risk_free_rate: 0.011', 'annual dividend: 1.2', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:10:58;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:10:58;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:10:58;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:11:15;root;INFO;Starting: ABN.AS
+2020-03-01 18:11:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:11:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:11:15;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:11:16;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:11:16;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:11:17;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:11:18;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:11:18;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:11:18;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:11:18;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:11:18;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:11:18;root;INFO;Starting intrinsic value calculation with parameters: {'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'annual dividend: 1.2', 'yearly_growth_amount: 0', 'estimated_market_return: 0.072'}
+2020-03-01 18:11:18;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:11:18;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:11:18;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:31:30;root;INFO;Starting: ABN.AS
+2020-03-01 18:31:30;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:31:30;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:31:30;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:31:31;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:31:31;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:31:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:31:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:31:32;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:31:32;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:31:32;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:31:33;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:31:33;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'annual dividend: 1.2', 'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:31:33;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:31:33;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:31:33;root;INFO;stock ABN.AS is undervalued
+2020-03-01 18:32:13;root;INFO;Starting: ABN.AS
+2020-03-01 18:32:13;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:32:13;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:32:13;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-01 18:32:14;root;INFO;R2 score for dividend model: 0.3370611183355009 
+2020-03-01 18:32:14;root;INFO;High payout ratio, assume not room for future raising of dividends ABN.AS
+2020-03-01 18:32:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:32:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:32:15;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-01 18:32:15;root;INFO;get_ticker_country done. get_ticker_country = Netherlands
+2020-03-01 18:32:15;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-01 18:32:16;root;INFO;get_beta done. beta = 0.035478136893516234
+2020-03-01 18:32:16;root;INFO;Starting intrinsic value calculation with parameters: {'yearly_growth_amount: 0', 'annual dividend: 1.2', 'risk_free_rate: 0.011', 'beta: 0.035478136893516234', 'estimated_market_return: 0.072'}
+2020-03-01 18:32:16;root;INFO;Intrinsic value is estimated to be: 88.53196828247152
+2020-03-01 18:32:16;root;INFO;Pay at most: 44.26598414123576  (0.5 MOS)
+2020-03-01 18:32:16;root;INFO;stock ABN.AS is undervalued
+2020-03-03 20:35:37;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 20:36:07;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 20:37:51;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:01:12;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:14:41;root;ERROR;Script aborted at getTickerData: ABN.A
+2020-03-03 21:15:13;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:18:57;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:19:11;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:20:02;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-03 21:20:29;root;INFO;ABN.AS - estimated price 3.8502017667415434, actual price 12.0, forward pe used: False
+2020-03-05 20:36:49;root;INFO;LHA.DE - estimated price 3.6199149929029706, actual price 11.5, forward pe used: False
+2020-03-05 20:37:23;root;INFO;LHA.DE - estimated price 3.6199149929029706, actual price 11.5, forward pe used: False
+2020-03-05 20:38:51;root;INFO;Starting: LHA.DE
+2020-03-05 20:38:51;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:38:51;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:38:51;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-05 20:38:52;root;INFO;R2 score for dividend model: 0.015222412326100445 
+2020-03-05 20:38:53;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:38:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:38:53;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-05 20:38:53;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:38:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:38:54;root;INFO;get_beta done. beta = 0.9802258975094185
+2020-03-05 20:38:54;root;INFO;Starting intrinsic value calculation with parameters: {'annual dividend: 0.8', 'estimated_market_return: 0.072', 'yearly_growth_amount: 0.007233082706766918', 'beta: 0.9802258975094185', 'risk_free_rate: 0.011'}
+2020-03-05 20:38:54;root;INFO;Intrinsic value is estimated to be: 14.418568949333109
+2020-03-05 20:38:54;root;INFO;Pay at most: 7.209284474666554  (0.5 MOS)
+2020-03-05 20:41:31;root;INFO;Starting: LHA.DE
+2020-03-05 20:41:31;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:41:31;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:41:31;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-05 20:41:32;root;INFO;R2 score for dividend model: 0.015222412326100445 
+2020-03-05 20:41:33;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:41:33;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:41:33;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-05 20:41:33;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:41:33;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:41:34;root;INFO;get_beta done. beta = 0.9802258975094185
+2020-03-05 20:41:34;root;INFO;Starting intrinsic value calculation with parameters: {'annual dividend: 0.8', 'estimated_market_return: 0.072', 'yearly_growth_amount: 0.007233082706766918', 'beta: 0.9802258975094185', 'risk_free_rate: 0.011'}
+2020-03-05 20:41:34;root;INFO;Intrinsic value is estimated to be: 14.418568949333109
+2020-03-05 20:41:34;root;INFO;Pay at most: 7.209284474666554  (0.5 MOS)
+2020-03-05 20:43:22;root;INFO;Starting: LHA.DE
+2020-03-05 20:43:22;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:22;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:22;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-05 20:43:23;root;INFO;R2 score for dividend model: 0.015222412326100445 
+2020-03-05 20:43:24;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:24;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:24;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-05 20:43:24;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:24;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:25;root;INFO;get_beta done. beta = 0.9802258975094185
+2020-03-05 20:43:25;root;INFO;Starting intrinsic value calculation with parameters: {'annual dividend: 0.8', 'estimated_market_return: 0.072', 'yearly_growth_amount: 0.007233082706766918', 'beta: 0.9802258975094185', 'risk_free_rate: 0.011'}
+2020-03-05 20:43:25;root;INFO;Intrinsic value is estimated to be: 14.418568949333109
+2020-03-05 20:43:25;root;INFO;Pay at most: 7.209284474666554  (0.5 MOS)
+2020-03-05 20:43:34;root;INFO;Starting: LHA.DE
+2020-03-05 20:43:34;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:34;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:34;root;INFO;risk_free_rate done. risk_free_rate = 0.011
+2020-03-05 20:43:35;root;INFO;R2 score for dividend model: 0.015222412326100445 
+2020-03-05 20:43:36;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:36;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:36;root;INFO;get_estimated_market_return done. estimated_market_return = 0.072
+2020-03-05 20:43:36;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-05 20:43:36;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-05 20:43:36;root;INFO;get_beta done. beta = 0.9802258975094185
+2020-03-05 20:43:36;root;INFO;Starting intrinsic value calculation with parameters: {'annual dividend: 0.8', 'estimated_market_return: 0.072', 'yearly_growth_amount: 0.007233082706766918', 'beta: 0.9802258975094185', 'risk_free_rate: 0.011'}
+2020-03-05 20:43:36;root;INFO;Intrinsic value is estimated to be: 14.418568949333109
+2020-03-05 20:43:36;root;INFO;Pay at most: 7.209284474666554  (0.5 MOS)
+2020-03-07 10:27:03;root;INFO;Initial cashflow not found for company KRs
+2020-03-07 10:27:18;root;INFO;Initial cashflow not found for company KRs
+2020-03-07 10:27:36;root;INFO;Initial cashflow not found for company KRs
+2020-03-07 10:32:16;root;INFO;Initial cashflow not found for company KRs
+2020-03-07 11:39:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 11:39:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 11:39:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 11:39:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 11:39:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 11:39:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:23:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:23:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:23:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:23:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:23:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:23:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:07;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:07;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:07;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:07;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:08;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 545000000', 'growth_rate: 0.051100000000000007', 'initial_cashflow: 3110000', 'stock_price: 32.04', 'discount_rate: 0.08464626815632044', 'outstanding_shares: 800590000', 'debt_level: 20770000000'}
+2020-03-07 12:24:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:14;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 545000000', 'growth_rate: 0.051100000000000007', 'initial_cashflow: 3110000', 'stock_price: 32.04', 'discount_rate: 0.08464626815632044', 'outstanding_shares: 800590000', 'debt_level: 20770000000'}
+2020-03-07 12:24:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:18;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:18;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:24:19;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:24:19;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 545000000', 'growth_rate: 0.051100000000000007', 'initial_cashflow: 3110000', 'stock_price: 32.04', 'discount_rate: 0.08464626815632044', 'outstanding_shares: 800590000', 'debt_level: 20770000000'}
+2020-03-07 12:26:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:26:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:26:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:26:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:26:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:26:36;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:26:36;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 12:26:36;root;INFO;Intrinsic value is estimated to be: None
+2020-03-07 12:27:12;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:12;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:12;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:12;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:12;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:12;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:12;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 12:27:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:27:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:27:57;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 12:29:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:18;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:18;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:18;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:18;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:18;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 12:29:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 12:29:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 12:29:45;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 13:34:43;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:34:43;root;INFO;Pay at most: 83.90046299830163  (0.3 MOS)
+2020-03-07 13:35:27;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:35:27;root;INFO;Pay at most: 83.90046299830163  (0.3 MOS)
+2020-03-07 13:35:41;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:35:41;root;INFO;Pay at most: 139.8341049971694  (0.5 MOS)
+2020-03-07 13:36:05;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:36:05;root;INFO;Pay at most: 139.8341049971694  (0.5 MOS)
+2020-03-07 13:36:05;root;INFO;stock KR is undervalued
+2020-03-07 13:36:36;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:36:36;root;INFO;Pay at most: 139.8341049971694  (0.5 MOS)
+2020-03-07 13:36:36;root;INFO;stock KR is undervalued
+2020-03-07 13:37:16;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:37:16;root;INFO;Pay at most: 83.90046299830163  (0.3 MOS)
+2020-03-07 13:37:16;root;INFO;stock KR is undervalued
+2020-03-07 13:38:07;root;INFO;Intrinsic value is estimated to be: 279.6682099943388
+2020-03-07 13:38:07;root;INFO;Pay at most: 83.90046299830163  (0.3 MOS)
+2020-03-07 13:38:07;root;INFO;stock KR is undervalued
+2020-03-07 13:38:51;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 13:38:51;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 13:38:51;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 13:38:51;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 13:38:51;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 13:38:51;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 13:38:52;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000', 'initial_cashflow: 3110000.0'}
+2020-03-07 13:38:52;root;INFO;Intrinsic value is estimated to be: -25.874345989303915
+2020-03-07 13:38:52;root;INFO;Pay at most: -12.937172994651958  (0.5 MOS)
+2020-03-07 14:24:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:24:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:24:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:24:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:24:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:24:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:24:58;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'initial_cashflow: 3110000000.0', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000'}
+2020-03-07 14:24:58;root;INFO;Intrinsic value is estimated to be: 43.07741093840753
+2020-03-07 14:24:58;root;INFO;Pay at most: 21.538705469203766  (0.5 MOS)
+2020-03-07 14:28:10;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:28:10;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:28:10;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:28:10;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:28:10;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 14:28:10;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 14:28:10;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.051100000000000007', 'initial_cashflow: 3110000000.0', 'stock_price: 32.04', 'debt_level: 20770000000.0', 'discount_rate: 0.08464626815632044', 'cash_level: 545000000.0', 'outstanding_shares: 800590000'}
+2020-03-07 14:28:11;root;INFO;Intrinsic value is estimated to be: 43.07741093840753
+2020-03-07 14:28:11;root;INFO;Pay at most: 21.538705469203766  (0.5 MOS)
+2020-03-07 14:29:50;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:32:41;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:40:02;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:42:17;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:42:17;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:17;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:17;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:17;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:18;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 9620000000.0', 'outstanding_shares: 478190000', 'initial_cashflow: 2163000000.0', 'discount_rate: 0.0814937254363056', 'stock_price: 11.48', 'growth_rate: 0.02', 'cash_level: 3580000000.0'}
+2020-03-07 14:42:18;root;INFO;Intrinsic value is estimated to be: 51.56869244226206
+2020-03-07 14:42:18;root;INFO;Pay at most: 10.313738488452413  (0.2 MOS)
+2020-03-07 14:42:18;root;INFO;stock LHA.DE is undervalued
+2020-03-07 14:42:38;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:42:38;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:38;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:38;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:38;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:38;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:42:38;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:42:38;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 9620000000.0', 'outstanding_shares: 478190000', 'initial_cashflow: 2163000000.0', 'discount_rate: 0.0814937254363056', 'stock_price: 11.48', 'growth_rate: 0.0', 'cash_level: 3580000000.0'}
+2020-03-07 14:42:38;root;INFO;Intrinsic value is estimated to be: 44.306417996741125
+2020-03-07 14:42:38;root;INFO;Pay at most: 8.861283599348225  (0.2 MOS)
+2020-03-07 14:42:38;root;INFO;stock LHA.DE is undervalued
+2020-03-07 14:44:46;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:44:46;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:46;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:46;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:46;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:46;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:46;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:47;root;INFO;Starting intrinsic value calculation with parameters: {'discount_rate: 0.0814937254363056', 'outstanding_shares: 478190000', 'initial_cashflow: 2163000000.0', 'stock_price: 11.48', 'growth_rate: 0.0', 'debt_level: 9620000000.0', 'cash_level: 3580000000.0'}
+2020-03-07 14:44:47;root;INFO;Intrinsic value is estimated to be: 35.387441652030994
+2020-03-07 14:44:47;root;INFO;Pay at most: 7.077488330406199  (0.2 MOS)
+2020-03-07 14:44:47;root;INFO;stock LHA.DE is undervalued
+2020-03-07 14:44:53;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-07 14:44:53;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:53;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:53;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-07 14:44:53;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-07 14:44:54;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 9620000000.0', 'outstanding_shares: 478190000', 'initial_cashflow: 2163000000.0', 'discount_rate: 0.0814937254363056', 'stock_price: 11.48', 'growth_rate: 0.0', 'cash_level: 3580000000.0'}
+2020-03-07 14:44:54;root;INFO;Intrinsic value is estimated to be: 35.387441652030994
+2020-03-07 14:44:54;root;INFO;Pay at most: 7.077488330406199  (0.2 MOS)
+2020-03-07 14:44:54;root;INFO;stock LHA.DE is undervalued
+2020-03-07 15:18:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:18:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:18:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:18:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:18:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:18:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:18:42;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 14700000000.0', 'outstanding_shares: 184390000', 'discount_rate: 0.04394829729348265', 'growth_rate: 0.35', 'cash_level: 6270000000.0', 'initial_cashflow: -862000000.0', 'stock_price: 703.48'}
+2020-03-07 15:18:42;root;INFO;Intrinsic value is estimated to be: -1190.9658997368242
+2020-03-07 15:18:42;root;INFO;Pay at most: -238.19317994736485  (0.2 MOS)
+2020-03-07 15:33:39;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:33:39;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:33:39;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:33:39;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:33:39;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:33:39;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:33:39;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 4380000000', 'initial_cashflow: 55256000000.0', 'debt_level: 116750000000.0', 'cash_level: 107160000000.0', 'discount_rate: 0.1331209200039113', 'stock_price: 289.03', 'growth_rate: 0.1211'}
+2020-03-07 15:33:39;root;INFO;Intrinsic value is estimated to be: 149.56757857114832
+2020-03-07 15:33:39;root;INFO;Pay at most: 29.913515714229664  (0.2 MOS)
+2020-03-07 15:34:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:34:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:34:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:34:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:34:13;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:34:13;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:34:14;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 7610000000', 'discount_rate: 0.12412296497063717', 'initial_cashflow: 39240000000.0', 'growth_rate: 0.146', 'stock_price: 161.57', 'debt_level: 87150000000.0', 'cash_level: 134229999999.0'}
+2020-03-07 15:34:14;root;INFO;Intrinsic value is estimated to be: 77.12327776548317
+2020-03-07 15:34:14;root;INFO;Pay at most: 15.424655553096635  (0.2 MOS)
+2020-03-07 15:59:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:59:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:59:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:59:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:59:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 15:59:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 15:59:35;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 7610000000', 'discount_rate: 0.12412296497063717', 'initial_cashflow: 39240000000.0', 'growth_rate: 0.146', 'stock_price: 161.57', 'debt_level: 87150000000.0', 'cash_level: 134229999999.0'}
+2020-03-07 15:59:35;root;INFO;Intrinsic value is estimated to be: 77.12327776548317
+2020-03-07 15:59:35;root;INFO;Pay at most: 15.424655553096635  (0.2 MOS)
+2020-03-07 16:00:27;root;INFO;Starting: N
+2020-03-07 16:00:28;root;INFO;Initial cashflow not found for company N
+2020-03-07 16:00:28;root;ERROR;Script aborted at get_ticker_data: N
+2020-03-07 16:00:28;root;INFO;Starting: F
+2020-03-07 16:00:30;root;ERROR;Error in get_yearly_growth_amount: could not convert string to float: '6,000.00'
+2020-03-07 16:00:30;root;INFO;Initial cashflow not found for company F
+2020-03-07 16:00:32;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 6.49', 'pe_ratio: 5.28', 'eps_ttm: 0.01'}
+2020-03-07 16:00:32;root;INFO;F - estimated price 0.026141664409947085, actual price 6.49, forward pe used: True
+2020-03-07 16:00:32;root;INFO;Starting: L
+2020-03-07 16:00:35;root;ERROR;Error in get_yearly_growth_amount: float() argument must be a string or a number, not 'DataFrame'
+2020-03-07 16:00:36;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:00:36;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:00:36;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:00:36;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:00:36;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:00:36;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:00:37;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 12230000000.0', 'discount_rate: 0.117799347506221', 'stock_price: 44.18', 'growth_rate: 0.14029999999999998', 'cash_level: 5020000000.0', 'initial_cashflow: 932000000.0', 'outstanding_shares: 287700000'}
+2020-03-07 16:00:37;root;INFO;Intrinsic value is estimated to be: 15.549296647552163
+2020-03-07 16:00:37;root;INFO;Pay at most: 3.109859329510433  (0.2 MOS)
+2020-03-07 16:00:38;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 44.18', 'eps_ttm: 3.07', 'pe_ratio: 15.23'}
+2020-03-07 16:00:38;root;INFO;L - estimated price 23.14928551738498, actual price 44.18, forward pe used: True
+2020-03-07 16:00:38;root;INFO;Starting: X
+2020-03-07 16:00:40;root;ERROR;Error in get_yearly_growth_amount: 'float' object has no attribute 'replace'
+2020-03-07 16:00:40;root;INFO;Initial cashflow not found for company X
+2020-03-07 16:00:40;root;ERROR;Script aborted at get_ticker_data: X
+2020-03-07 16:01:41;root;INFO;Starting: NFLX
+2020-03-07 16:01:43;root;ERROR;Error in get_yearly_growth_amount: 'float' object has no attribute 'replace'
+2020-03-07 16:01:44;root;INFO;Outstanding shares not found for company NFLX
+2020-03-07 16:01:45;root;INFO;Starting intrinsic value calculation with parameters: {'eps_ttm: 4.13', 'pe_ratio: 43.87', 'stock_price: 368.97'}
+2020-03-07 16:01:45;root;INFO;NFLX - estimated price 89.7050719120054, actual price 368.97, forward pe used: True
+2020-03-07 16:02:18;root;INFO;Outstanding shares not found for company NFLX
+2020-03-07 16:04:17;root;INFO;Starting: NFLX
+2020-03-07 16:04:19;root;ERROR;Error in get_yearly_growth_amount: 'float' object has no attribute 'replace'
+2020-03-07 16:04:20;root;INFO;Outstanding shares not found for company NFLX
+2020-03-07 16:04:21;root;INFO;Starting intrinsic value calculation with parameters: {'eps_ttm: 4.13', 'pe_ratio: 43.87', 'stock_price: 368.97'}
+2020-03-07 16:04:21;root;INFO;NFLX - estimated price 89.7050719120054, actual price 368.97, forward pe used: True
+2020-03-07 16:05:08;root;INFO;Outstanding shares not found for company NFLX
+2020-03-07 16:07:12;root;INFO;Starting: NFLX
+2020-03-07 16:07:14;root;ERROR;Error in get_yearly_growth_amount: 'float' object has no attribute 'replace'
+2020-03-07 16:07:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:07:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:07:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:07:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:07:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:07:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:07:16;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:07:16;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:07:16;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-07 16:07:17;root;INFO;Starting intrinsic value calculation with parameters: {'eps_ttm: 4.13', 'pe_ratio: 43.87', 'stock_price: 368.97'}
+2020-03-07 16:07:17;root;INFO;NFLX - estimated price 89.7050719120054, actual price 368.97, forward pe used: True
+2020-03-07 16:08:19;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:19;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:19;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:19;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:19;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:19;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:20;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:08:20;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:08:20;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-07 16:08:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:08:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:08:22;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:08:22;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:08:22;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-07 16:12:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:12:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:12:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:12:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:12:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:12:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:12:09;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:12:09;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:12:09;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-07 16:13:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:32;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:13:32;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:13:32;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-07 16:13:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-07 16:13:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-07 16:13:34;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 438810000', 'cash_level: 5020000000.0', 'discount_rate: 0.1525912244509594', 'growth_rate: 0.436', 'debt_level: 16370000000.0', 'stock_price: 368.97', 'initial_cashflow: 1211242000.0'}
+2020-03-07 16:13:34;root;INFO;Intrinsic value is estimated to be: 87.77346861150495
+2020-03-07 16:13:34;root;INFO;Pay at most: 17.554693722300993  (0.2 MOS)
+2020-03-09 19:37:06;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:06;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:06;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:06;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:06;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:06;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:07;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 1211242000.0', 'growth_rate: -0.15', 'cash_level: 5020000000.0', 'outstanding_shares: 438810000', 'discount_rate: 0.15262325178192282', 'stock_price: 344.58', 'debt_level: 16370000000.0'}
+2020-03-09 19:37:07;root;INFO;Intrinsic value is estimated to be: -17.849081223046213
+2020-03-09 19:37:07;root;INFO;Pay at most: -3.5698162446092425  (0.2 MOS)
+2020-03-09 19:37:29;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:29;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:29;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:29;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:29;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:29;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:30;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 1211242000.0', 'growth_rate: -0.15', 'discount_rate: 0.15262325178192282', 'cash_level: 5020000000.0', 'outstanding_shares: 438810000', 'stock_price: 344.08', 'debt_level: 16370000000.0'}
+2020-03-09 19:37:30;root;INFO;Intrinsic value is estimated to be: -17.849081223046213
+2020-03-09 19:37:30;root;INFO;Pay at most: -3.5698162446092425  (0.2 MOS)
+2020-03-09 19:37:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:44;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 1211242000.0', 'growth_rate: -0.15', 'cash_level: 5020000000.0', 'outstanding_shares: 438810000', 'stock_price: 343.82', 'discount_rate: 0.15262325178192282', 'debt_level: 16370000000.0'}
+2020-03-09 19:37:44;root;INFO;Intrinsic value is estimated to be: -17.849081223046213
+2020-03-09 19:37:44;root;INFO;Pay at most: -3.5698162446092425  (0.2 MOS)
+2020-03-09 19:37:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:37:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:37:56;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 1211242000.0', 'growth_rate: -0.15', 'cash_level: 5020000000.0', 'stock_price: 343.96', 'outstanding_shares: 438810000', 'discount_rate: 0.15262325178192282', 'debt_level: 16370000000.0'}
+2020-03-09 19:37:56;root;INFO;Intrinsic value is estimated to be: -17.849081223046213
+2020-03-09 19:37:56;root;INFO;Pay at most: -3.5698162446092425  (0.2 MOS)
+2020-03-09 19:38:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:38:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:38:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:38:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:38:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:38:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:38:06;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 1211242000.0', 'growth_rate: -0.15', 'cash_level: 5020000000.0', 'outstanding_shares: 438810000', 'stock_price: 344.17', 'discount_rate: 0.15262325178192282', 'debt_level: 16370000000.0'}
+2020-03-09 19:38:06;root;INFO;Intrinsic value is estimated to be: -17.849081223046213
+2020-03-09 19:38:06;root;INFO;Pay at most: -3.5698162446092425  (0.2 MOS)
+2020-03-09 19:39:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:01;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.15', 'outstanding_shares: 4380000000', 'debt_level: 116750000000.0', 'initial_cashflow: 55256000000.0', 'stock_price: 269.42', 'cash_level: 107160000000.0', 'discount_rate: 0.1330201555213024'}
+2020-03-09 19:39:01;root;INFO;Intrinsic value is estimated to be: 79.63956367693484
+2020-03-09 19:39:01;root;INFO;Pay at most: 15.927912735386968  (0.2 MOS)
+2020-03-09 19:39:07;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:07;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:07;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:07;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:07;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:07;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:08;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 152.53', 'growth_rate: -0.15', 'initial_cashflow: 39240000000.0', 'discount_rate: 0.12414536760338163', 'debt_level: 87150000000.0', 'outstanding_shares: 7610000000', 'cash_level: 134229999999.0'}
+2020-03-09 19:39:08;root;INFO;Intrinsic value is estimated to be: 36.127915851737306
+2020-03-09 19:39:08;root;INFO;Pay at most: 7.225583170347462  (0.2 MOS)
+2020-03-09 19:39:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:36;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 153.01', 'growth_rate: -0.15', 'initial_cashflow: 39240000000.0', 'discount_rate: 0.12414536760338163', 'debt_level: 87150000000.0', 'outstanding_shares: 7610000000', 'cash_level: 134229999999.0'}
+2020-03-09 19:39:36;root;INFO;Intrinsic value is estimated to be: 49.63747696067709
+2020-03-09 19:39:36;root;INFO;Pay at most: 9.92749539213542  (0.2 MOS)
+2020-03-09 19:39:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:56;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:39:56;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:39:56;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.15', 'outstanding_shares: 4380000000', 'debt_level: 116750000000.0', 'initial_cashflow: 55256000000.0', 'stock_price: 270.28', 'cash_level: 107160000000.0', 'discount_rate: 0.1330201555213024'}
+2020-03-09 19:39:56;root;INFO;Intrinsic value is estimated to be: 108.75800650562078
+2020-03-09 19:39:56;root;INFO;Pay at most: 21.751601301124158  (0.2 MOS)
+2020-03-09 19:40:02;root;INFO;Initial cashflow not found for company KRG
+2020-03-09 19:40:23;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:23;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:23;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:23;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:23;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:23;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:24;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 399000000.0', 'growth_rate: -0.15', 'outstanding_shares: 800590000', 'debt_level: 21180000000.0', 'discount_rate: 0.08436479822344814', 'stock_price: 30.86', 'initial_cashflow: 3110000000.0'}
+2020-03-09 19:40:24;root;INFO;Intrinsic value is estimated to be: 54.66994017128316
+2020-03-09 19:40:24;root;INFO;Pay at most: 10.933988034256632  (0.2 MOS)
+2020-03-09 19:40:24;root;INFO;stock KR is undervalued
+2020-03-09 19:40:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:34;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 399000000.0', 'growth_rate: -0.15', 'outstanding_shares: 800590000', 'debt_level: 21180000000.0', 'discount_rate: 0.08436479822344814', 'stock_price: 30.85', 'initial_cashflow: 3110000000.0'}
+2020-03-09 19:40:34;root;INFO;Intrinsic value is estimated to be: 34.35399620132496
+2020-03-09 19:40:34;root;INFO;Pay at most: 6.870799240264993  (0.2 MOS)
+2020-03-09 19:40:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 19:40:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 19:40:45;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 399000000.0', 'outstanding_shares: 800590000', 'debt_level: 21180000000.0', 'discount_rate: 0.08436479822344814', 'stock_price: 30.84', 'initial_cashflow: 3110000000.0'}
+2020-03-09 19:40:45;root;INFO;Intrinsic value is estimated to be: 41.528809942533314
+2020-03-09 19:40:45;root;INFO;Pay at most: 8.305761988506664  (0.2 MOS)
+2020-03-09 19:40:45;root;INFO;stock KR is undervalued
+2020-03-09 19:42:47;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-09 19:42:47;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:42:47;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:42:47;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:42:47;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:42:47;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:42:47;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:42:47;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 478190000', 'growth_rate: -0.2', 'cash_level: 3580000000.0', 'discount_rate: 0.08157626462067812', 'stock_price: 10.53', 'initial_cashflow: 2163000000.0', 'debt_level: 9620000000.0'}
+2020-03-09 19:42:47;root;INFO;Intrinsic value is estimated to be: 68.12913648725446
+2020-03-09 19:42:47;root;INFO;Pay at most: 13.625827297450892  (0.2 MOS)
+2020-03-09 19:42:47;root;INFO;stock LHA.DE is undervalued
+2020-03-09 19:43:03;root;INFO;growth_rate (five years) not found for company LHA.DE
+2020-03-09 19:43:03;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:43:03;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:43:03;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:43:03;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:43:03;root;INFO;get_ticker_country done. get_ticker_country = Germany
+2020-03-09 19:43:03;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 19:43:03;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 478190000', 'growth_rate: -0.2', 'cash_level: 3580000000.0', 'discount_rate: 0.08157626462067812', 'stock_price: 10.53', 'initial_cashflow: 2163000000.0', 'debt_level: 9620000000.0'}
+2020-03-09 19:43:03;root;INFO;Intrinsic value is estimated to be: 54.00364882532772
+2020-03-09 19:43:03;root;INFO;Pay at most: 10.800729765065546  (0.2 MOS)
+2020-03-09 19:43:03;root;INFO;stock LHA.DE is undervalued
+2020-03-09 20:09:40;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:09:40;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:09:40;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:09:40;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:09:40;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:09:40;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:09:40;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.2', 'cash_level: 4179999999.0', 'debt_level: 4139999999.0', 'stock_price: 307.6', 'outstanding_shares: 483270000', 'initial_cashflow: 2951458000.0', 'discount_rate: 0.12573223557454055'}
+2020-03-09 20:09:40;root;INFO;Intrinsic value is estimated to be: 45.854143593506755
+2020-03-09 20:09:40;root;INFO;Pay at most: 9.170828718701351  (0.2 MOS)
+2020-03-09 20:10:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:00;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 4179999999.0', 'stock_price: 307.92', 'debt_level: 4139999999.0', 'outstanding_shares: 483270000', 'initial_cashflow: 2951458000.0', 'discount_rate: 0.12573223557454055'}
+2020-03-09 20:10:00;root;INFO;Intrinsic value is estimated to be: 79.298783101699
+2020-03-09 20:10:00;root;INFO;Pay at most: 15.859756620339802  (0.2 MOS)
+2020-03-09 20:10:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:10:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:10:16;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 4350000000', 'growth_rate: -0.1', 'cash_level: 13120000000.0', 'discount_rate: 0.1291600346972125', 'stock_price: 51.32', 'debt_level: 29550000000.0', 'initial_cashflow: 21048000000.0'}
+2020-03-09 20:10:16;root;INFO;Intrinsic value is estimated to be: 60.11024189034306
+2020-03-09 20:10:16;root;INFO;Pay at most: 12.022048378068613  (0.2 MOS)
+2020-03-09 20:10:39;root;INFO;get_ticker_country done. get_ticker_country = Ireland
+2020-03-09 20:10:39;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 20:10:39;root;INFO;get_ticker_country done. get_ticker_country = Ireland
+2020-03-09 20:10:39;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 20:10:39;root;INFO;get_ticker_country done. get_ticker_country = Ireland
+2020-03-09 20:10:39;root;INFO;get_ticker_continent done. get_ticker_continent = EU
+2020-03-09 20:10:40;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'stock_price: 164.6', 'debt_level: 3380000000.0', 'cash_level: 5810000000.0', 'outstanding_shares: 635040000', 'initial_cashflow: 4779112000.0', 'discount_rate: 0.056922487721910345'}
+2020-03-09 20:10:40;root;INFO;Intrinsic value is estimated to be: 367.70263432246384
+2020-03-09 20:10:40;root;INFO;Pay at most: 73.54052686449278  (0.2 MOS)
+2020-03-09 20:10:40;root;INFO;stock ACN is undervalued
+2020-03-09 20:11:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:11:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:11:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:11:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:11:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 20:11:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 20:11:55;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 6530000000.0', 'growth_rate: -0.1', 'outstanding_shares: 887000000', 'initial_cashflow: 1110000000.0', 'stock_price: 151.9', 'discount_rate: 0.15251986155094055', 'debt_level: 6490000000.0'}
+2020-03-09 20:11:55;root;INFO;Intrinsic value is estimated to be: 6.2403396957512465
+2020-03-09 20:11:55;root;INFO;Pay at most: 1.2480679391502494  (0.2 MOS)
+2020-03-09 20:12:16;root;INFO;Initial cashflow not found for company ASML
+2020-03-09 20:12:55;root;INFO;Initial cashflow not found for company SNE
+2020-03-09 20:13:35;root;INFO;Initial cashflow not found for company ASML.AS
+2020-03-09 20:16:19;root;INFO;Initial cashflow not found for company UBER
+2020-03-09 20:20:02;root;INFO;Initial cashflow not found for company UBER
+2020-03-09 22:32:33;root;INFO;Initial cashflow not found for company ASML.AS
+2020-03-09 22:33:13;root;INFO;Initial cashflow not found for company ASML
+2020-03-09 22:37:40;root;INFO;get_ticker_country done. get_ticker_country = Japan
+2020-03-09 22:37:40;root;INFO;get_ticker_continent done. get_ticker_continent = AS
+2020-03-09 22:37:40;root;INFO;get_ticker_country done. get_ticker_country = Japan
+2020-03-09 22:37:40;root;INFO;get_ticker_continent done. get_ticker_continent = AS
+2020-03-09 22:37:40;root;INFO;get_ticker_country done. get_ticker_country = Japan
+2020-03-09 22:37:40;root;INFO;get_ticker_continent done. get_ticker_continent = AS
+2020-03-09 22:37:40;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.15', 'cash_level: 0', 'discount_rate: 0.04380781936654832', 'debt_level: 0', 'outstanding_shares: 1230000000', 'stock_price: 58.53', 'initial_cashflow: 916271000000.0'}
+2020-03-09 22:37:40;root;INFO;Intrinsic value is estimated to be: 53306.361083563264
+2020-03-09 22:37:40;root;INFO;Pay at most: 10661.272216712654  (0.2 MOS)
+2020-03-09 22:37:40;root;INFO;stock SNE is undervalued
+2020-03-09 22:50:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:50:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:50:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:50:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:50:42;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:50:42;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:50:42;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.15', 'stock_price: 1800.61', 'discount_rate: 0.14729471110804432', 'cash_level: 55020000000.0', 'initial_cashflow: 10073000000.0', 'outstanding_shares: 498000000', 'debt_level: 77540000000.0'}
+2020-03-09 22:50:42;root;INFO;Intrinsic value is estimated to be: 50.80675515973618
+2020-03-09 22:50:42;root;INFO;Pay at most: 10.161351031947236  (0.2 MOS)
+2020-03-09 22:52:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:52:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:52:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:52:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:52:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-09 22:52:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-09 22:52:34;root;INFO;Starting intrinsic value calculation with parameters: {'discount_rate: 0.14729471110804432', 'stock_price: 1800.61', 'cash_level: 55020000000.0', 'initial_cashflow: 10073000000.0', 'growth_rate: -0.05', 'outstanding_shares: 498000000', 'debt_level: 77540000000.0'}
+2020-03-09 22:52:34;root;INFO;Intrinsic value is estimated to be: 100.28508357866635
+2020-03-09 22:52:34;root;INFO;Pay at most: 20.05701671573327  (0.2 MOS)
+2020-03-09 22:52:50;root;INFO;Initial cashflow not found for company SNY
+2020-03-10 22:36:11;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:36:11;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:36:11;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:36:11;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:36:11;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:36:11;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:36:12;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:36:12;root;INFO;Intrinsic value is estimated to be: -113880.50728861197
+2020-03-10 22:36:12;root;INFO;Pay at most: -22776.101457722398  (0.2 MOS)
+2020-03-10 22:38:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:38:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:38:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:38:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:38:57;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:38:57;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:38:58;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:38:58;root;INFO;Intrinsic value is estimated to be: -113880.50728861197
+2020-03-10 22:38:58;root;INFO;Pay at most: -22776.101457722398  (0.2 MOS)
+2020-03-10 22:39:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:39:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:39:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:39:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:39:33;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:39:33;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:39:33;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:39:33;root;INFO;Intrinsic value is estimated to be: -113880.50728861197
+2020-03-10 22:39:33;root;INFO;Pay at most: -22776.101457722398  (0.2 MOS)
+2020-03-10 22:40:01;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:01;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:01;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:01;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:01;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:01;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:02;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:40:02;root;INFO;Intrinsic value is estimated to be: -113880.50728861197
+2020-03-10 22:40:02;root;INFO;Pay at most: -22776.101457722398  (0.2 MOS)
+2020-03-10 22:40:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:43;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:40:43;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:40:44;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:40:44;root;INFO;Intrinsic value is estimated to be: 1692.498112894475
+2020-03-10 22:40:44;root;INFO;Pay at most: 338.499622578895  (0.2 MOS)
+2020-03-10 22:40:44;root;INFO;stock FB is undervalued
+2020-03-10 22:42:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:42:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:42:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:42:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:42:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:42:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:42:31;root;INFO;Starting intrinsic value calculation with parameters: {'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0', 'growth_rate: 0.132'}
+2020-03-10 22:42:31;root;INFO;Intrinsic value is estimated to be: -103707.8684091938
+2020-03-10 22:42:31;root;INFO;Pay at most: -20741.573681838763  (0.2 MOS)
+2020-03-10 22:43:07;root;INFO;Starting intrinsic value calculation with parameters: {'pe_ratio: 16.59', 'eps_ttm: 6.43', 'stock_price: 178.19'}
+2020-03-10 22:43:07;root;INFO;FB - estimated price 52.81492550695781, actual price 178.19, forward pe used: True
+2020-03-10 22:43:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:43:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:43:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:43:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:43:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:43:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:43:35;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:43:35;root;INFO;Intrinsic value is estimated to be: 1692.498112894475
+2020-03-10 22:43:35;root;INFO;Pay at most: 338.499622578895  (0.2 MOS)
+2020-03-10 22:43:35;root;INFO;stock FB is undervalued
+2020-03-10 22:44:09;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:09;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:09;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:09;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:09;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:09;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:09;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:44:09;root;INFO;Intrinsic value is estimated to be: 1196.934181690004
+2020-03-10 22:44:09;root;INFO;Pay at most: 239.3868363380008  (0.2 MOS)
+2020-03-10 22:44:09;root;INFO;stock FB is undervalued
+2020-03-10 22:44:47;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:47;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:47;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:47;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:47;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-10 22:44:47;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-10 22:44:48;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: -0.1', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0', 'stock_price: 178.19', 'outstanding_shares: 2410000000', 'discount_rate: 0.01986028005825814', 'debt_level: 11070000000.0'}
+2020-03-10 22:44:48;root;INFO;Intrinsic value is estimated to be: 260.48349886713225
+2020-03-10 22:44:48;root;INFO;Pay at most: 52.09669977342645  (0.2 MOS)
+2020-03-10 22:44:48;root;INFO;stock FB is undervalued
+2020-03-10 22:50:26;root;INFO;Initial cashflow not found for company DIS
+2020-03-14 11:43:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:43:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:43:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:43:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:43:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:43:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:43:38;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'initial_cashflow: 10073000000.0', 'outstanding_shares: 498000000', 'growth_rate: -0.05', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 11:43:38;root;INFO;Intrinsic value is estimated to be: 105.12475538712583
+2020-03-14 11:43:38;root;INFO;Pay at most: 21.024951077425168  (0.2 MOS)
+2020-03-14 11:56:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:56:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:56:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:56:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:56:21;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:56:21;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:56:21;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'outstanding_shares: 498000000', 'growth_rate: -0.05', 'initial_cashflow: 11588000000.0', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 11:56:21;root;INFO;Intrinsic value is estimated to be: 144.35375999822875
+2020-03-14 11:56:21;root;INFO;Pay at most: 28.87075199964575  (0.2 MOS)
+2020-03-14 11:57:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:57:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:57:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:57:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:57:46;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 11:57:46;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 11:57:46;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'outstanding_shares: 498000000', 'growth_rate: -0.05', 'initial_cashflow: 11588000000.0', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 11:57:46;root;INFO;Intrinsic value is estimated to be: 473.92780612453475
+2020-03-14 11:57:46;root;INFO;Pay at most: 94.78556122490696  (0.2 MOS)
+2020-03-14 12:07:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:15;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'outstanding_shares: 498000000', 'initial_cashflow: 11588000000.0', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'growth_rate: 0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 12:07:15;root;INFO;Intrinsic value is estimated to be: 988.9314684067199
+2020-03-14 12:07:15;root;INFO;Pay at most: 197.78629368134398  (0.2 MOS)
+2020-03-14 12:07:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:07:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:07:29;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'outstanding_shares: 498000000', 'initial_cashflow: 11588000000.0', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'growth_rate: 0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 12:07:29;root;INFO;Intrinsic value is estimated to be: 1523.656749888667
+2020-03-14 12:07:29;root;INFO;Pay at most: 304.73134997773343  (0.2 MOS)
+2020-03-14 12:13:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:13:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:13:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:13:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:13:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 12:13:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 12:13:38;root;INFO;Starting intrinsic value calculation with parameters: {'stock_price: 1785.0', 'outstanding_shares: 498000000', 'initial_cashflow: 11588000000.0', 'debt_level: 77540000000.0', 'cash_level: 55020000000.0', 'growth_rate: 0', 'discount_rate: 0.1454284329183282'}
+2020-03-14 12:13:38;root;INFO;Intrinsic value is estimated to be: 422.2831307543277
+2020-03-14 12:13:38;root;INFO;Pay at most: 84.45662615086555  (0.2 MOS)
+2020-03-14 12:30:25;root;INFO;Initial cashflow not found for company RYAAY
+2020-03-14 13:34:29;root;INFO;Initial cashflow not found for company FCB
+2020-03-14 13:34:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 13:34:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 13:34:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 13:34:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 13:34:38;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-14 13:34:38;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-14 13:34:39;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 11070000000.0', 'stock_price: 170.28', 'outstanding_shares: 2410000000', 'discount_rate: 0.03570341401075745', 'growth_rate: 0', 'cash_level: 54860000000.0', 'initial_cashflow: 18485000000.0'}
+2020-03-14 13:34:39;root;INFO;Intrinsic value is estimated to be: 672.3130778837857
+2020-03-14 13:34:39;root;INFO;Pay at most: 134.46261557675714  (0.2 MOS)
+2020-03-14 13:34:39;root;INFO;stock FB is undervalued
+2020-03-17 12:48:43;root;INFO;Initial cashflow not found for company GOOG
+2020-03-17 16:41:10;root;INFO;Initial cashflow not found for company GOOGL
+2020-03-17 17:02:46;root;INFO;Starting main.
+2020-03-17 17:02:46;root;INFO;Load company table: False
+2020-03-17 17:02:46;root;INFO;Load daily stats: False
+2020-03-17 17:02:46;root;INFO;Load stock time series data: False
+2020-03-17 17:02:46;root;INFO;Balance sheets, etc (yearly/ quarterly data): True
+2020-03-17 17:02:46;root;INFO;Analysts data: False
+2020-03-17 17:02:47;root;INFO;Processing ticker GOOG
+2020-03-17 17:02:47;root;INFO;Started fill_income_statement_table
+2020-03-17 17:02:49;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:02:49;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:02:57;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:02:57;root;INFO;Started fill_cashflow_table
+2020-03-17 17:03:05;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:03:05;root;INFO;Processing ticker GOOGL
+2020-03-17 17:03:05;root;INFO;Started fill_income_statement_table
+2020-03-17 17:03:13;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:03:13;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:03:22;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:03:22;root;INFO;Started fill_cashflow_table
+2020-03-17 17:03:29;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:04:59;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-17 17:04:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-17 17:04:59;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-17 17:04:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-17 17:04:59;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-03-17 17:04:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-03-17 17:04:59;root;INFO;Starting intrinsic value calculation with parameters: {'discount_rate: 0.1318893728600608', 'stock_price: 1105.49', 'growth_rate: 0', 'cash_level: 119680000000.0', 'initial_cashflow: 34343000000.0', 'outstanding_shares: 299830000', 'debt_level: 15970000000.0'}
+2020-03-17 17:04:59;root;INFO;Intrinsic value is estimated to be: 1268.9885764559401
+2020-03-17 17:04:59;root;INFO;Pay at most: 253.79771529118804  (0.2 MOS)
+2020-03-17 17:07:06;root;INFO;Starting main.
+2020-03-17 17:07:06;root;INFO;Load company table: False
+2020-03-17 17:07:06;root;INFO;Load daily stats: False
+2020-03-17 17:07:06;root;INFO;Load stock time series data: False
+2020-03-17 17:07:06;root;INFO;Balance sheets, etc (yearly/ quarterly data): True
+2020-03-17 17:07:06;root;INFO;Analysts data: False
+2020-03-17 17:07:06;root;INFO;Processing ticker GOOG
+2020-03-17 17:07:06;root;INFO;Started fill_income_statement_table
+2020-03-17 17:07:08;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:07:08;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:07:16;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:07:16;root;INFO;Started fill_cashflow_table
+2020-03-17 17:07:24;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:07:24;root;INFO;Processing ticker GOOGL
+2020-03-17 17:07:24;root;INFO;Started fill_income_statement_table
+2020-03-17 17:07:32;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:07:32;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:07:40;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:07:40;root;INFO;Started fill_cashflow_table
+2020-03-17 17:07:48;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:07:51;root;INFO;Starting main.
+2020-03-17 17:07:51;root;INFO;Load company table: False
+2020-03-17 17:07:51;root;INFO;Load daily stats: False
+2020-03-17 17:07:51;root;INFO;Load stock time series data: False
+2020-03-17 17:07:51;root;INFO;Balance sheets, etc (yearly/ quarterly data): True
+2020-03-17 17:07:51;root;INFO;Analysts data: False
+2020-03-17 17:07:52;root;INFO;Processing ticker GOOG
+2020-03-17 17:07:52;root;INFO;Started fill_income_statement_table
+2020-03-17 17:07:56;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:07:56;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:08:04;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:08:04;root;INFO;Started fill_cashflow_table
+2020-03-17 17:08:12;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOG
+2020-03-17 17:08:12;root;INFO;Processing ticker GOOGL
+2020-03-17 17:08:12;root;INFO;Started fill_income_statement_table
+2020-03-17 17:08:20;root;ERROR;Error in fill_income_statement_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:08:20;root;INFO;Started fill_balance_sheet_table
+2020-03-17 17:08:28;root;ERROR;Error in fill_balance_sheet_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-03-17 17:08:28;root;INFO;Started fill_cashflow_table
+2020-03-17 17:08:36;root;ERROR;Error in fill_cashflow_table: 'NoneType' object is not iterable at tickerGOOGL
+2020-04-04 15:51:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:00;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:00;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:01;root;INFO;Starting intrinsic value calculation with parameters: {'initial_cashflow: 11588000000.0', 'discount_rate: 0.12709929196349473', 'cash_level: 55020000000.0', 'growth_rate: 0.3007', 'debt_level: 77540000000.0', 'outstanding_shares: 498000000', 'stock_price: 1906.59'}
+2020-04-04 15:51:01;root;INFO;Intrinsic value is estimated to be: 626.6154441994386
+2020-04-04 15:51:01;root;INFO;Pay at most: 125.32308883988772  (0.2 MOS)
+2020-04-04 15:51:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:08;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:51:08;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:51:09;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'discount_rate: 0.12387634447938532', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-04 15:51:09;root;INFO;Intrinsic value is estimated to be: 114.85681412385932
+2020-04-04 15:51:09;root;INFO;Pay at most: 22.971362824771866  (0.2 MOS)
+2020-04-04 15:52:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:52:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:52:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:52:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:52:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:52:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:52:05;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'discount_rate: 0.12387634447938532', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-04 15:52:05;root;INFO;Intrinsic value is estimated to be: 114.85681412385932
+2020-04-04 15:52:05;root;INFO;Pay at most: 57.42840706192966  (0.5 MOS)
+2020-04-04 15:53:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:37;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:37;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:37;root;INFO;Starting intrinsic value calculation with parameters: {'growth_rate: 0.0571', 'initial_cashflow: 3110000000.0', 'discount_rate: 0.06822907880229903', 'debt_level: 21180000000.0', 'outstanding_shares: 788000000', 'cash_level: 399000000.0', 'stock_price: 32.29'}
+2020-04-04 15:53:37;root;INFO;Intrinsic value is estimated to be: 70.44499783345758
+2020-04-04 15:53:37;root;INFO;Pay at most: 35.22249891672879  (0.5 MOS)
+2020-04-04 15:53:37;root;INFO;stock KR is undervalued
+2020-04-04 15:53:54;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:54;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:54;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:54;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:54;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 15:53:54;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 15:53:54;root;INFO;Starting intrinsic value calculation with parameters: {'debt_level: 9290000000.0', 'discount_rate: 0.1379622330496995', 'stock_price: 237.03', 'initial_cashflow: 8118000000.0', 'growth_rate: 0.17809999999999998', 'cash_level: 7680000000.0', 'outstanding_shares: 997450000'}
+2020-04-04 15:53:54;root;INFO;Intrinsic value is estimated to be: 131.40961722842536
+2020-04-04 15:53:54;root;INFO;Pay at most: 65.70480861421268  (0.5 MOS)
+2020-04-04 15:54:00;root;INFO;Initial cashflow not found for company SQ
+2020-04-04 20:43:49;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 20:43:49;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 20:43:49;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 20:43:49;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 20:43:49;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-04 20:43:49;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-04 20:43:50;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'discount_rate: 0.12387634447938532', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-04 20:43:50;root;INFO;Intrinsic value is estimated to be: 114.85681412385932
+2020-04-04 20:43:50;root;INFO;Pay at most: 57.42840706192966  (0.5 MOS)
+2020-04-05 10:36:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:36:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:36:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:36:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:36:05;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:36:05;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:36:06;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:36:06;root;INFO;Intrinsic value is estimated to be: -3589.472649460858
+2020-04-05 10:36:06;root;INFO;Pay at most: -1794.736324730429  (0.5 MOS)
+2020-04-05 10:43:22;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:43:22;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:43:22;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:43:22;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:43:22;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:43:22;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:43:22;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:43:22;root;INFO;Intrinsic value is estimated to be: -3589.472649460858
+2020-04-05 10:43:22;root;INFO;Pay at most: -1794.736324730429  (0.5 MOS)
+2020-04-05 10:44:02;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:02;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:02;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:02;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:02;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:02;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:03;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:44:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:44:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:44:31;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:44:31;root;INFO;Intrinsic value is estimated to be: 150270.86137615592
+2020-04-05 10:44:31;root;INFO;Pay at most: 75135.43068807796  (0.5 MOS)
+2020-04-05 10:44:31;root;INFO;stock FB is undervalued
+2020-04-05 10:45:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:45:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:45:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:45:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:45:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:45:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:45:17;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:45:17;root;INFO;Intrinsic value is estimated to be: 1606.5776947615668
+2020-04-05 10:45:17;root;INFO;Pay at most: 803.2888473807834  (0.5 MOS)
+2020-04-05 10:45:17;root;INFO;stock FB is undervalued
+2020-04-05 10:46:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:04;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:04;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:05;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:46:05;root;INFO;Intrinsic value is estimated to be: 15121.512574888233
+2020-04-05 10:46:05;root;INFO;Pay at most: 7560.756287444116  (0.5 MOS)
+2020-04-05 10:46:05;root;INFO;stock FB is undervalued
+2020-04-05 10:46:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:34;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:46:34;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:46:35;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'discount_rate: 0.015935299034540308', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:46:35;root;INFO;Intrinsic value is estimated to be: 1047.2660839504442
+2020-04-05 10:46:35;root;INFO;Pay at most: 523.6330419752221  (0.5 MOS)
+2020-04-05 10:46:35;root;INFO;stock FB is undervalued
+2020-04-05 10:47:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:47:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:47:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:47:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:47:15;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 10:47:15;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 10:47:15;root;INFO;Starting intrinsic value calculation with parameters: {'discount_rate: 0.08', 'outstanding_shares: 2410000000', 'debt_level: 11070000000.0', 'growth_rate: 0.132', 'initial_cashflow: 18485000000.0', 'cash_level: 54860000000.0', 'stock_price: 154.18'}
+2020-04-05 10:47:15;root;INFO;Intrinsic value is estimated to be: 183.24044473288976
+2020-04-05 10:47:15;root;INFO;Pay at most: 91.62022236644488  (0.5 MOS)
+2020-04-05 13:46:58;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:46:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:46:59;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:46:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:46:59;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:46:59;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:46:59;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'discount_rate: 0.12387634447938532', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 13:46:59;root;INFO;Intrinsic value is estimated to be: 114.85681412385932
+2020-04-05 13:46:59;root;INFO;Pay at most: 57.42840706192966  (0.5 MOS)
+2020-04-05 13:50:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:50:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:50:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:50:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:50:28;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:50:28;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:50:29;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'discount_rate: 0.0404', 'growth_rate: 0.1517'}
+2020-04-05 13:50:29;root;INFO;Intrinsic value is estimated to be: 699.5936480680982
+2020-04-05 13:50:29;root;INFO;Pay at most: 349.7968240340491  (0.5 MOS)
+2020-04-05 13:50:29;root;INFO;stock V is undervalued
+2020-04-05 13:55:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:55:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:55:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:55:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:55:55;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:55:55;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:55:56;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'discount_rate: 0.12387634447938532', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 13:55:56;root;INFO;Intrinsic value is estimated to be: 114.85681412385932
+2020-04-05 13:55:56;root;INFO;Pay at most: 57.42840706192966  (0.5 MOS)
+2020-04-05 13:58:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:58:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:58:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:58:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:58:14;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:58:14;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:58:15;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'discount_rate: 0.0502', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 13:58:15;root;INFO;Intrinsic value is estimated to be: 462.23501985499144
+2020-04-05 13:58:15;root;INFO;Pay at most: 231.11750992749572  (0.5 MOS)
+2020-04-05 13:58:15;root;INFO;stock V is undervalued
+2020-04-05 13:59:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:35;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:35;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:36;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'discount_rate: 0.0502', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 13:59:36;root;INFO;Intrinsic value is estimated to be: 384.50168718701696
+2020-04-05 13:59:36;root;INFO;Pay at most: 192.25084359350848  (0.5 MOS)
+2020-04-05 13:59:36;root;INFO;stock V is undervalued
+2020-04-05 13:59:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:44;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 13:59:44;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 13:59:45;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'discount_rate: 0.0502', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 13:59:45;root;INFO;Intrinsic value is estimated to be: 349.61652977782563
+2020-04-05 13:59:45;root;INFO;Pay at most: 174.80826488891282  (0.5 MOS)
+2020-04-05 13:59:45;root;INFO;stock V is undervalued
+2020-04-05 14:00:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:16;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:16;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:17;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'discount_rate: 0.0502', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 14:00:17;root;INFO;Intrinsic value is estimated to be: 349.61652977782563
+2020-04-05 14:00:17;root;INFO;Pay at most: 174.80826488891282  (0.5 MOS)
+2020-04-05 14:00:17;root;INFO;stock V is undervalued
+2020-04-05 14:00:31;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:31;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:32;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:32;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:32;root;INFO;get_ticker_country done. get_ticker_country = United States
+2020-04-05 14:00:32;root;INFO;get_ticker_continent done. get_ticker_continent = NA
+2020-04-05 14:00:32;root;INFO;Starting intrinsic value calculation with parameters: {'outstanding_shares: 1710000000', 'stock_price: 151.85', 'discount_rate: 0.0502', 'initial_cashflow: 12080000000.0', 'debt_level: 17260000000.0', 'cash_level: 12670000000.0', 'growth_rate: 0.1517'}
+2020-04-05 14:00:32;root;INFO;Intrinsic value is estimated to be: 317.16454356560973
+2020-04-05 14:00:32;root;INFO;Pay at most: 158.58227178280487  (0.5 MOS)
+2020-04-05 14:00:32;root;INFO;stock V is undervalued

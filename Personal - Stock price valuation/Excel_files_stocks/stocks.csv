@@ -1,0 +1,11 @@
+ticker,index_ticker,comment
+TEST,None,Test name to see if script can deal with mistakes in ticker
+NFLX,None,test stock
+HEIO.AS,None,Candidate for portfolio Jan 2020
+NKE,None,Bought Jan 2020 based on brand value and historical performance
+UNA.AS,None,Bought Jan 2020 based on low beta and seemed decently priced
+NBEV,None,"Candidate for portfolio, very low priced beverage company"
+ABMD,None,"Abiomed Inc, stock to watch, see excel 'info'."
+MYL,None,"Mylan NV, stock to watch, see excel 'info'."
+HBI,None,"Hanesbrand, stock to watch, see excel 'info'."
+FANG,None,"Diamondback energy, stock to watch, see excel 'info'."
