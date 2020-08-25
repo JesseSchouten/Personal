@@ -23,4 +23,4 @@ Three methods are proposed:
   
 ## Result snapshot
 ![](https://github.com/JesseSchouten/Personal/tree/master/Personal%20-%20Stock%20price%20valuation/Image/DCF_analysis_advanced_result.PNG)
-
+**Figure 1** -- Result
