@@ -24,3 +24,5 @@ Three methods are proposed:
 ## Result snapshot
 ![](Image/DCF_analysis_advanced_result.PNG)
 
+Conclusion: stock ticker V (Visa) is undervalued under a 50% margin of safety, stock ticker FB (Facebook) is overvalued under a 50% margin of safety.
+
