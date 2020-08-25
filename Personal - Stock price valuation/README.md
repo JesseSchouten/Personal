@@ -14,9 +14,13 @@ by taking the present value of future cashflows of a company. Many of the great 
  
 ## Methodology
 Three methods are proposed:
-1. DCF_analysis_basic 
+1. DCF_analysis_basic.py
   * Source: https://www.youtube.com/watch?v=nX2DcXOrtuo&t=22s (Town, P. (2007). Rule# 1: The Simple Strategy for Successful Investing in Only 15 Minutes a Week!. Currency.)
-2. DCF_analysis_advanced
+2. DCF_analysis_advanced.py
   * Source: https://www.liberatedstocktrader.com/how-to-calculate-the-intrinsic-value-of-a-stock/
-3. DDM_analysis
+3. DDM_analysis.py
   * Source: https://www.investopedia.com/terms/d/ddm.asp#:~:text=The%20dividend%20discount%20model%20(DDM,back%20to%20their%20present%20value.
+  
+## Result snapshot
+![Test Image 1](https://github.com/JesseSchouten/Personal/tree/master/Personal%20-%20Stock%20price%20valuation/Image/DCF_analysis_advanced_result.PNG)
+
