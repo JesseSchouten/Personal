@@ -22,5 +22,5 @@ Three methods are proposed:
    * Source: https://www.investopedia.com/terms/d/ddm.asp#:~:text=The%20dividend%20discount%20model%20(DDM,back%20to%20their%20present%20value.
   
 ## Result snapshot
-![](https://github.com/JesseSchouten/Personal/tree/master/Personal%20-%20Stock%20price%20valuation/Image/DCF_analysis_advanced_result.PNG)
-**Figure 1** -- Result
+![](Image/DCF_analysis_advanced_result.PNG)
+
