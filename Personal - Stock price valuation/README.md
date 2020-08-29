@@ -10,7 +10,7 @@ by taking the present value of future cashflows of a company. Many of the great 
 2. Data collection
    * Python
 3. Data storage
-   * Python
+   * MySQL
  
 ## Methodology
 Three methods are proposed:
