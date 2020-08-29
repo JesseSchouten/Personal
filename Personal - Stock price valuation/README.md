@@ -1,9 +1,9 @@
-# Description
+# Description1
 This folder consists of a personal project to estimate the intrinsic value of a stock, to be compared with the current stock price of today.
 Several Discounted Cashflow (DCF) methods are proposed. The core idea behind such an analysis, is to estimate the current value of a stock
 by taking the present value of future cashflows of a company. Many of the great investors acknowledge importance of DC (or similar valuation techniques)
 , including Warren Buffet, Benjamin Graham and Peter Lynch. Search the web for more info.
-
+   
 ## Tools used:
 1. Methodology
    * Python
