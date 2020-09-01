@@ -11,7 +11,10 @@ The series provides some of the basics of using Docker containers in app develop
 
 ## Result snapshot
    * part_1: 
+   
    ![](Images/part_1.PNG)
+   
    * part_2:	
+   
    ![](Images/part_2.PNG)
 
