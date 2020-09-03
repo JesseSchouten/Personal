@@ -1,6 +1,6 @@
 FROM python:3
 
-WORKDIR C:\Users\Jesse\Documents\GitHub\Personal\Personal - Simple classifier\Docker
+WORKDIR C:\Users\Jesse\Documents\GitHub\Personal\Personal - Tutorials\Docker
 
 COPY . .
 
