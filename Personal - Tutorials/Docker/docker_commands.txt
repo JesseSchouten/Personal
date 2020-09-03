@@ -10,3 +10,4 @@ docker run -p 80:80 -v /src:/var/www/html/ hello-world
 
 alternative to docker build, docker run: docker_compose.yml file
 Lets us define all services and configurations in a single file, one command spins up all containers we need.
+docker-compose up
