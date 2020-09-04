@@ -1,0 +1,4 @@
+Note 1:
+Regular packages like Numpy run on the CPU, whilst Pytorch allows for processing on GPU, which is much faster. This is typically usefull for Deep Learning applications.
+
+Note 2:
