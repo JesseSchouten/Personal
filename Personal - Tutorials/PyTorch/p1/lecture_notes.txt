@@ -3,3 +3,7 @@ Regular packages like Numpy run on the CPU, whilst Pytorch allows for processing
 (CPU is usefull for several large calculations, while GPU is usefull for a large number of small calculations, such as calculating weights in a Neural Network.)
 
 Note 2:
+CUDA is a paralell computing platform and API model created by Nvidia. It allows developers to use CUDA-enabled GPU for general 
+processing, especially usefull for machine learning algorithms. It requires a NVIDIA GPU and a special stream processor driver.
+For startin Pytorch, this is not particularly usefull, but it becomes important for larger projects, as it enables the usage
+of particularly powerfull applications, significantly increasing algorithm speed.
