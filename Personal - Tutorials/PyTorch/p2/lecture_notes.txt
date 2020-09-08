@@ -1,0 +1,9 @@
+Note 1:
+datasets.utils.data.DataLoader(data,batch_size=10,shuffle=True), batch_size typically usefull for very large datasets,
+in which Neural nets are most usefull. Also, using batches prevents overfitting. Shuffle helps generalizing the neural network,
+thus preventing overfitting as well. 
+
+Note 2:
+For NN you generally want your datasets to be as balanced as possible. If 60% is 3's, the NN will probably learn the 
+quickest way to get good scores, is to always predict 3's. Getting out of this behavior might not be possible.
+
