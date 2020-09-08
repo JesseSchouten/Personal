@@ -2,9 +2,9 @@ version: '3'
 
 services:
   code_service:
-    build: ./p1
+    build: ./p2
     ports: 
        - 5000:5000
     volumes:
-       - .:/p1
+       - .:/p2
 
