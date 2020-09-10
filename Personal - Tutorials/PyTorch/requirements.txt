@@ -1,5 +1,6 @@
 Flask==0.12
 flask-restful==0.3.5
+numpy==1.19.0
 --find-links https://download.pytorch.org/whl/torch_stable.html
 torch==1.4.0+cpu
 --find-links https://download.pytorch.org/whl/torch_stable.html

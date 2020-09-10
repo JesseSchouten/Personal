@@ -7,3 +7,4 @@ CUDA is a paralell computing platform and API model created by Nvidia. It allows
 processing, especially usefull for machine learning algorithms. It requires a NVIDIA GPU and a special stream processor driver.
 For startin Pytorch, this is not particularly usefull, but it becomes important for larger projects, as it enables the usage
 of particularly powerfull applications, significantly increasing algorithm speed.
+

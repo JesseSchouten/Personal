@@ -1,1 +1,0 @@
-docker run -it --rm --name my-running-script -v "$PWD":/usr/src/app -w /usr/src/app python:3.7 python p1/tutorial_1.py
