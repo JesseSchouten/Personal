@@ -18,7 +18,7 @@ on the machine, tutorials are widely available on the web.
 	*step 1: Open the terminal.
 	*step 2: Navigate to the directory including the Dockerfile and docker-compose.ylm, probably ./Pytorch
 	*step 3: docker build . -t custom_notebook
-	*step 4: docker run -p 8888:8888 -t .:custom_notebook .
+	*step 4: docker run -p 8888:8888 -t .:custom_notebook . [OR: docker-compose up]
 	*step 5: paste the url to your browser of choice, I picked chrome.
 	*step 6: import the jupyter notebook of choice.
 Congratulations, you can now rerun the cells using the docker container!
