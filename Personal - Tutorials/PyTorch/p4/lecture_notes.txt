@@ -1,0 +1,9 @@
+note 1:
+Difference between loss and optimizer is that the loss expresses the inaccuracies in the predictions vs. reality 
+(in multiclass, if we see a 5 as hand-written digit, we want the algorithm to be as close to 100% confident as possible that the prediction is a 5).
+The optimizer optimizes the loss over time (also referred to as the number of iterations).
+
+note 2:
+learning_rate is just the step size that we take in the loss landscape, large values might skip over optima
+while small values will be very slow or get stuck in local optima. What is generally done in complicated tasks,
+is taking a decaying learning rate: start of large, end small.
