@@ -4,6 +4,11 @@ RUN apt-get update && apt-get -y update
 
 RUN apt-get install -y build-essential python3.6 python3-pip python3-dev
 
+ENV TZ=Europe/Amsterdam
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+RUN apt-get install -yq libgtk2.0-dev
+RUN apt-get install -y libgl1-mesa-dev
+
 RUN mkdir src
 WORKDIR src/
 COPY . .
@@ -11,6 +16,8 @@ COPY . .
 RUN pip3 install -r requirements.txt
 RUN pip3 install matplotlib
 RUN pip3 install jupyter
+RUN pip3 install opencv-python
+RUN pip3 install tqdm
 
 WORKDIR /src/notebooks
 

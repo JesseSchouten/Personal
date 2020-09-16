@@ -7,5 +7,6 @@ services:
        - 8888:8888
     volumes:
        - ./:/app
+    container_name: custom_notebook
 
 

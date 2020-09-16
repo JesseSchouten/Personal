@@ -1,0 +1,12 @@
+Note 1:
+Conv nets are outperforming recurrent neural nets on sequential data recently.
+
+Note 2:
+Window is sometimes referred to as 'kernel'. 
+
+Note 3: 
+Conv nets first apply a convolution, after which pooling is done (often max. pooling). This essence is that an image
+is drastically simplified, as well as finding appropriate features. 
+
+Note 4:
+We won't work with colors, this doesn't really help for this problem. Color adds a channel in the convnet.
