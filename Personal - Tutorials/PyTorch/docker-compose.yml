@@ -7,6 +7,7 @@ services:
        - 8888:8888
     volumes:
        - ./:/app
+       - C:/Users/Jesse/Documents/GitHub/Personal:/src/notebooks
     container_name: custom_notebook
 
 

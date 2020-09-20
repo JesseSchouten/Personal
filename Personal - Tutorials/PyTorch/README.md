@@ -13,12 +13,12 @@ The series provides the basics of using Pytorch.
 ## Reproducing the results:
 Note: the tutorial was followed on a windows machine, thus the steps might not translate 
 1:1 to linux or MacOS. My apologies! Installment of docker is assumed. If this is not installed
-on the machine, tutorials are widely available on the web.
+on the machine, tutorials are widely available on the web; https://docs.docker.com/docker-for-windows/install/.  
 
 	* step 1: Open the terminal.
 	* step 2: Navigate to the directory including the Dockerfile and docker-compose.ylm, probably: cd ./Pytorch
 	* step 3: docker build . -t custom_notebook [Note: this may take a few minutes!]
-	* step 4: docker run -p 8888:8888 -t custom_notebook [OR: docker-compose up]
+	* step 4: docker run -p 8888:8888 -v C:/Users/Jesse/Documents/GitHub/Personal/"Personal - Tutorials"/PyTorch:/src/notebooks -t custom_notebook [Note: change C:/Users/Jesse/Documents/GitHub/Personal to your own relative directory!] 
 	* step 5: paste the url to your browser of choice, I picked chrome.
 	* step 6: import the jupyter notebook of choice.
 Congratulations, you can now rerun the cells using the docker container!
