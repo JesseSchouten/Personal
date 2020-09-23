@@ -7,14 +7,17 @@ The series provides the basics of using Pytorch.
 ## Tools used:
    * Python
    * PyTorch
+   * GitHub
+   * Docker
    
 ## Methodology
 
 ## Reproducing the results:
 Note: the tutorial was followed on a windows machine, thus the steps might not translate 
 1:1 to linux or MacOS. My apologies! Installment of docker is assumed. If this is not installed
-on the machine, tutorials are widely available on the web; https://docs.docker.com/docker-for-windows/install/.  
-
+on the machine, tutorials are widely available on the web; https://docs.docker.com/docker-for-windows/install/.
+  
+	* step 0: Change the directory in docker-compose.yml from C:/Users/Jesse/Documents/GitHub/Personal:/src/notebooks to [personal_directory]:/src/notebooks
 	* step 1: Open the terminal.
 	* step 2: Navigate to the directory including the Dockerfile and docker-compose.ylm, probably: cd ./Pytorch
 	* step 3: docker build . -t custom_notebook [Note: this may take a few minutes!]

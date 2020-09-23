@@ -8,6 +8,7 @@ services:
     volumes:
        - ./:/app
        - C:/Users/Jesse/Documents/GitHub/Personal:/src/notebooks
+       - C:/Users/Jesse/Documents/GitHub/data:/src/notebooks
     container_name: custom_notebook
 
 
