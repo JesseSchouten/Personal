@@ -33,7 +33,7 @@ on the machine, tutorials are widely available on the web; https://docs.docker.c
 Congratulations, you can now rerun the cells using the docker container!
 
 Note: If you want to train the model on the GPU in part 7, I will refer you to the video link. The model resulting from my training (on a GPU) 
-can be found in Pytorch/p7/model.pt.
+can be found in Pytorch/p7/model.pt. You can also use this if desired. In this case, skip the cell with the train() function!
 
 ## Result snapshot
 
