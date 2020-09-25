@@ -37,17 +37,15 @@ can be found in Pytorch/p7/model.pt. You can also use this if desired. In this c
 
 ## Result snapshot
 
-   * part_7: 
-   Running on the GPU.
+   * part_7: Running on the GPU.
    ![](Images/p7_running_on_gpu.PNG)
-   Model results in terms of score.
+   * part_7: Model results in terms of score.
    ![](Images/p7_model_results.PNG)
    
-   * part_8:	
-   Model results visualized.
+   * part_8: Model results visualized 1/3.
    ![](Images/train_and_validation_batch100_epochs5.PNG)
-   
+   * part_8: Model results visualized 2/3.
    ![](Images/train_and_validation_batch100_epochs20.PNG)
-   
+   * part_8: Model results visualized 3/3.
    ![](Images/train_and_validation_batch1000_epochs20.PNG)
 
