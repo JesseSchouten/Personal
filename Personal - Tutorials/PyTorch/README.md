@@ -32,9 +32,22 @@ on the machine, tutorials are widely available on the web; https://docs.docker.c
 	* step 6: import the jupyter notebook of choice.
 Congratulations, you can now rerun the cells using the docker container!
 
-Note: If you want to train the model on the GPU in part 7, I will refer you to the video link. The model resulting from my training (on a GPU) 
+Note: If you want to train the model on the GPU in part 7 and 8, I will refer you to the video link. The model resulting from my training (on a GPU) 
 can be found in Pytorch/p7/model.pt. You can also use this if desired. In this case, skip the cell with the train() function!
 
 ## Result snapshot
 
+   * part_7: 
+   
+   ![](Images/p7_model_results.PNG)
+   
+   ![](Images/p7_running_on_gpu.PNG)
+   
+   * part_8:	
+   
+   ![](Images/train_and_validation_batch100_epochs5.PNG)
+   
+   ![](Images/train_and_validation_batch100_epochs20.PNG)
+   
+   ![](Images/train_and_validation_batch1000_epochs20.PNG)
 
