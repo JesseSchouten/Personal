@@ -17,6 +17,7 @@ The series provides the basics of using Pytorch.
    * Docker
    
 ## Methodology
+Convolutional Neural networks, Image classification.
 
 ## Reproducing the results:
 Note: the tutorial was followed on a windows machine, thus the steps might not translate 
