@@ -38,13 +38,13 @@ can be found in Pytorch/p7/model.pt. You can also use this if desired. In this c
 ## Result snapshot
 
    * part_7: 
-   
+   Running on the GPU.
+   ![](Images/p7_running_on_gpu.PNG)
+   Model results in terms of score.
    ![](Images/p7_model_results.PNG)
    
-   ![](Images/p7_running_on_gpu.PNG)
-   
    * part_8:	
-   
+   Model results visualized.
    ![](Images/train_and_validation_batch100_epochs5.PNG)
    
    ![](Images/train_and_validation_batch100_epochs20.PNG)
