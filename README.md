@@ -1,5 +1,5 @@
 # Description
-This repository yields several projects, either personal or related to the master Business Analytics at the Vrije Universiteit Amsterdam.
+You can find several projects in this repository, either personal or related to the master Business Analytics at the Vrije Universiteit Amsterdam.
 
 ## Projects:
 ### Kaggle
