@@ -1,0 +1,1 @@
+console.log("Show message from calling external script.")
