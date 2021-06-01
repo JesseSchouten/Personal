@@ -34,3 +34,22 @@ console.log(data.filter(x=>x>4));
 console.log([1,2,3,[4,5,6,[7,8,9]]].flat()); // data == [ 1, 2, 3, 4, 5, 6, [ 7, 8, 9 ] ]
 
 console.log([1,2,3,[4,5,6,[7,8,9]]].flat(2)); // data == [ 1, 2, 3, 4, 5, 6, 7, 8, 9  ]
+
+const sumfunc = function fsum(x,y){
+    return x + y;
+}
+console.log(sumfunc(2,4));
+
+const sumfuncArrow = (x,y) => {
+    return x + y;
+};
+console.log(sumfuncArrow(2,4));
+
+let scope = "global scope"; // A global variable
+const checkscope = function () {
+    let scope = "local scope"; // A local variable
+        function f() { return scope; } // Return the value in scope here
+    return f;
+}
+let s = checkscope()(); // What does this return?
+console.log(s);
