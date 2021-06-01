@@ -1,0 +1,24 @@
+{
+  "name": "chapter_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.2_hello_world.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.5.0",
+    "csvtojson": "^2.0.10",
+    "es2020": "^1.1.9",
+    "esm": "^3.2.25",
+    "npm-run-all": "^4.1.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.14.2",
+    "babel-preset-es2020": "^1.0.2"
+  }
+}
