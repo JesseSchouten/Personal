@@ -7,7 +7,23 @@ Description
 
 ## Reminders:
 - SELECT * FROM INFORMATION_SCHEMA.COLUMNS;
-
+- To check foreign keys:
+[
+SELECT 
+f.name,
+   OBJECT_NAME(f.parent_object_id) TableName,
+   COL_NAME(fc.parent_object_id,fc.parent_column_id) ColName
+FROM 
+   sys.foreign_keys AS f
+INNER JOIN 
+   sys.foreign_key_columns AS fc 
+      ON f.OBJECT_ID = fc.constraint_object_id
+INNER JOIN 
+   sys.tables t 
+      ON t.OBJECT_ID = fc.referenced_object_id
+WHERE 
+   OBJECT_NAME (f.referenced_object_id) = '[TABLE_NAME]'
+]
 ## Chapter 1:
 ### Codd's rules:
 - All information in the relational database is represented in exactly one and only way.
@@ -50,13 +66,17 @@ Description
 - Natural key: connected to the database context.
 - Surrogate key: usually a database-generated value that has no connection to the row data but is simply used as a stand-in for natural key for complexity and performance reasons (GUID).
 
-### Chapter 11:
-- Nonclustered and clustered indices.
+## Chapter 11:
+### Intro
+- Most implemented indices use a Balanced-Tree (B-Tree) structure. Though, some are built using hash structures.
+- B-Tree is made up of structured index pages. Each page contains a pointer to the next page. The pages on the last level in the index are referred to as 'leaf pages', which contains the actual data being indexed, plus data for the row or pointers to the data. This allows the query processor to go directly to the data that is searching for by checking only a few pages.
+### Clustered and nonclustered indices
+- There exist two types of clustered indices: columnstore and rowstore.
 - If you add a clustered index which is not the primary key, an additional 4-byte value will be added (known as the uniqueifier) to each value. Try to pick columns where the values are unique, with as less columns as possible.
 - Clustered indices: max 1 per table. The chosen column will become part of every index of your table. A very common practice is to choose a surrogate key value, often the columns of the primary key constraint for a table, since the surrogate can be kept very small. This is a good decision because: it is typically a small key (often an integer: only 4 bytes or less with compression), but also because its a unique value.
 - Caution: using a GUID for a surrogate key is common, but be carefull. It's 16 bytes which is quite wide. But also it has no logical value when generated, and new values are therefore placed randomly in a list of GUID's and end up causing page splits. To make this acceptable you can use NEWSEQUENTIALID() (or make your own). In SQL server 2021 and later, the SEQUENCE object can be used to generate unique values instead of GUID's.
 - Typical reasons you use clustered indices for something other then surrogate key, include: data for which you need specific ranges typically, queries that needs to be accessed in order, queries returning large results, and queries identifying a relationship key.
 
-### Quotes
+## Quotes
 - Generally speaking it is always a good idea to declare exactly the data you need for any operation that you expect to reuse (hence avoid select *, which might change when columns are added, etc).
 - Both Primary key and Unique Key are used to uniquely define of a row in a table. Primary Key creates a clustered index of the column whereas a Unique creates an unclustered index of the column. 
