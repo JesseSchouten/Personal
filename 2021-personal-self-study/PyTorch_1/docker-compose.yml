@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  code_service:
+    build: .
+    ports: 
+       - 8888:8888
+    volumes:
+       - ./:/app
+       - C:/Users/Jesse/Documents/GitHub/Personal:/src/notebooks
+    container_name: custom_notebook
+
+

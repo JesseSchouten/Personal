@@ -1,0 +1,12 @@
+First install docker toolbox
+
+Run docker by clicking the Docker Quickstart Terminal
+
+Install docker image:
+docker run -it tensorflow/tensorflow:latest-devel bash
+
+Link local image file to docker container
+docker run -it -v $HOME/tf_files:/dave_grohl tensorflow/tensorflow:latest-devel 
+
+
+

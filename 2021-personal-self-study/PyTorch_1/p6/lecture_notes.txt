@@ -1,0 +1,3 @@
+Note 1:
+If you have multiple neural nets forming 1 big model, the optimizer (net.zero_grad() or optimizer.zero_grad())\
+depends on whether both networks have different optimizers. Which one to use is very situation dependent!

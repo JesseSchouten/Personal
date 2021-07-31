@@ -1,0 +1,16 @@
+#Note 1:
+Linode is the cheapest cloud-hoster at this moment. This will be used to rent a GPU server, at which
+the notebooks will be executed using the GPU of the server. This is way faster compared to using the CPU
+at your local pc, which is also possible.
+
+#Note 2:
+When we have multiple GPU's, we can distribute the workload of the NN across the multiple GPU's, 
+speeding up the process even more.
+
+#Note 3:
+You can't cross interact variables between CPU and GPU: when something is on the CPU, you can only access
+variables on the CPU, same holds for the GPU.
+
+#Note 4:
+You should temporarely create a GPU server in the same region as the VPS. This minimizes transfer time
+from 

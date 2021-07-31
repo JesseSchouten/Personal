@@ -1,0 +1,2 @@
+Flask==1.1.12
+flask-restful==0.3.5

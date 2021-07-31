@@ -1,0 +1,23 @@
+Build docker image from Dockerfile file:
+docker build -t [name] . 
+[comments: . for location of docker file]
+
+docker run -p 80:80 [name]
+
+Problem with line above is that a file will be copied when creating the image, when file is changed, the image needs to be recreated. 
+A solution is to link the file from the directory to the docker container.
+docker run -p 80:80 -v /src:/var/www/html/ hello-world
+
+alternative to docker build, docker run: docker_compose.yml file
+Lets us define all services and configurations in a single file, one command spins up all containers we need.
+docker-compose up
+
+CLEAR ALL DOCKER IMAGES FROM HARD DRIVE:
+docker system prune
+
+RUN JUPYTER NOTEBOOK THROUGH DOCKER CONTAINER:
+docker run --rm -p 8888:8888 [NOTEBOOK_IMAGE_ID]
+
+DATA SCIENCE JUPYTER NOTEBOOK:
+
+

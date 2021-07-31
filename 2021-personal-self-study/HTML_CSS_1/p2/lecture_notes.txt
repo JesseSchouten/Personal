@@ -1,0 +1,31 @@
+Note 1:
+3 methods for adding CSS:
+1 - Inline CSS, add directly to HTML file. DONT DO THIS.
+2 - Internal CSS, Using <style> tags within a document. Not best option: fattens up HTML file, is also not reusable.
+3 - External CSS, Linking external CSS file.
+
+Note 2:
+CSS selectors:
+a {background-color:yellow;}
+selector - declaration start - property - propert/value seperator - value - declaration separator - declaration end.
+
+Note 3:
+hexadecimals: color: #000000 is black, #ffffff is white.
+alternative - rgb(0,0,255) (red green blue)
+
+Note 4: 
+specialty fonds can be imported as a file. Web safe fonts are publicly available.
+
+Note 5:
+line-height: 1.6 em , 1.6 px
+
+Note 6:
+Classes are reusable, ids should be unique and not repeated!
+
+Note 7:
+margin: 5px 10px 5px 10px (top,bottom,right,left)
+
+#Note 8:
+Positioning in CSS:
+- Static, relative, absolute, fixed, initial, inherit.
+

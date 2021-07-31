@@ -1,0 +1,104 @@
+ticker,index_ticker,comment
+AAPL,IXIC,Apple Inc
+MSFT,IXIC,Microsoft Corp
+AMZN,IXIC,Amazon.com Inc
+FB,IXIC,Facebook Inc
+GOOG,IXIC,Alphabet Inc
+GOOGL,IXIC,Alphabet Inc
+INTC,IXIC,Intel Corp
+CSCO,IXIC,Cisco Systems Inc
+CMCSA,IXIC,Comcast Corp
+PEP,IXIC,PepsiCo Inc
+ADBE,IXIC,Adobe Inc
+NFLX,IXIC,Netflix Inc
+NVDA,IXIC,NVIDIA Corp
+COST,IXIC,Costco Wholesale Corp
+PYPL,IXIC,PayPal Holdings Inc
+AMGN,IXIC,Amgen Inc
+AVGO,IXIC,Broadcom Inc
+TXN,IXIC,Texas Instruments Inc
+CHTR,IXIC,Charter Communications Inc
+SBUX,IXIC,Starbucks Corp
+TSLA,IXIC,Tesla Inc
+QCOM,IXIC,QUALCOMM Inc
+FISV,IXIC,Fiserv Inc
+GILD,IXIC,Gilead Sciences Inc
+BKNG,IXIC,Booking Holdings Inc
+MDLZ,IXIC,Mondelez International Inc
+ADP,IXIC,Automatic Data Processing Inc
+INTU,IXIC,Intuit Inc
+TMUS,IXIC,T-Mobile US Inc
+ISRG,IXIC,Intuitive Surgical Inc
+MU,IXIC,Micron Technology Inc
+VRTX,IXIC,Vertex Pharmaceuticals Inc
+CSX,IXIC,CSX Corp
+AMD,IXIC,Advanced Micro Devices Inc
+AMAT,IXIC,Applied Materials Inc
+BIIB,IXIC,Biogen Inc
+WBA,IXIC,Walgreens Boots Alliance Inc
+EXC,IXIC,Exelon Corp
+ILMN,IXIC,Illumina Inc
+MAR,IXIC,Marriott International Inc/MD
+ATVI,IXIC,Activision Blizzard Inc
+ADSK,IXIC,Autodesk Inc
+LRCX,IXIC,Lam Research Corp
+ADI,IXIC,Analog Devices Inc
+ROST,IXIC,Ross Stores Inc
+REGN,IXIC,Regeneron Pharmaceuticals Inc
+NXPI,IXIC,NXP Semiconductors NV
+KHC,IXIC,Kraft Heinz Co/The
+XEL,IXIC,Xcel Energy Inc
+JD,IXIC,JD.com Inc ADR
+MNST,IXIC,Monster Beverage Corp
+BIDU,IXIC,Baidu Inc ADR
+CTSH,IXIC,Cognizant Technology Solutions Corp
+MELI,IXIC,MercadoLibre Inc
+EA,IXIC,Electronic Arts Inc
+ORLY,IXIC,O'Reilly Automotive Inc
+PAYX,IXIC,Paychex Inc
+SIRI,IXIC,Sirius XM Holdings Inc
+WDAY,IXIC,Workday Inc
+EBAY,IXIC,eBay Inc
+LULU,IXIC,Lululemon Athletica Inc
+CTAS,IXIC,Cintas Corp
+KLAC,IXIC,KLA Corp
+WLTW,IXIC,Willis Towers Watson PLC
+VRSK,IXIC,Verisk Analytics Inc
+PCAR,IXIC,PACCAR Inc
+MCHP,IXIC,Microchip Technology Inc
+XLNX,IXIC,Xilinx Inc
+VRSN,IXIC,VeriSign Inc
+CSGP,IXIC,CoStar Group Inc
+NTES,IXIC,NetEase Inc ADR
+IDXX,IXIC,IDEXX Laboratories Inc
+ALXN,IXIC,Alexion Pharmaceuticals Inc
+SPLK,IXIC,Splunk Inc
+CPRT,IXIC,Copart Inc
+ANSS,IXIC,ANSYS Inc
+CERN,IXIC,Cerner Corp
+SNPS,IXIC,Synopsys Inc
+ASML,IXIC,ASML Holding NV
+ALGN,IXIC,Align Technology Inc
+CDNS,IXIC,Cadence Design Systems Inc
+DLTR,IXIC,Dollar Tree Inc
+FAST,IXIC,Fastenal Co
+SWKS,IXIC,Skyworks Solutions Inc
+WDC,IXIC,Western Digital Corp
+CDW,IXIC,CDW Corp/DE
+UAL,IXIC,United Airlines Holdings Inc
+SGEN,IXIC,Seattle Genetics Inc
+CHKP,IXIC,Check Point Software Technologies Ltd
+TCOM,IXIC,Trip.com Group Ltd ADR
+MXIM,IXIC,Maxim Integrated Products Inc
+INCY,IXIC,Incyte Corp
+CTXS,IXIC,Citrix Systems Inc
+ULTA,IXIC,Ulta Beauty Inc
+BMRN,IXIC,BioMarin Pharmaceutical Inc
+EXPE,IXIC,Expedia Group Inc
+TTWO,IXIC,Take-Two Interactive Software Inc
+FOXA,IXIC,Fox Corp
+NTAP,IXIC,NetApp Inc
+AAL,IXIC,American Airlines Group Inc
+FOX,IXIC,Fox Corp
+LBTYK,IXIC,Liberty Global PLC
+LBTYA,IXIC,Liberty Global PLC

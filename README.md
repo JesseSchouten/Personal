@@ -3,10 +3,11 @@ You can find several projects in this repository, either personal or related to 
 
 ## Projects:
 ### Kaggle
-	* VU - Flight delay prediction
-	* VU - Personalize Expedia Hotel Searches
+	* 2018-VU-flight-delay-prediction
+	* 2019-VU-personalize-expedia-hotel
 ### Applications
-	* VU - Job Recommender System
+	* 2019-VU-job-recommender-system
 ### Miscellaneous
-	* Personal - Stock price valuation
+	* 2020-personal-stock-prize-valuation
+	* 2021-personal-self-study
  
