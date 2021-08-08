@@ -17,7 +17,7 @@ def main(tickers_list, output_file):
         print("start {}".format(ticker))
         stock = StockInfoRetriever()
         stock.run(ticker, False)
-        stock_info = stock.return_stock_info()
+        stock_info = stock.return_stock_info(ticker)
         df = df.append(stock_info, ignore_index=True)
     df.to_csv("output/" + output_file)
 

@@ -180,8 +180,9 @@ class StockInfoRetriever():
                 print(e)
             return
 
-    def return_stock_info(self):
+    def return_stock_info(self, ticker):
         return {
+            "ticker":ticker,
             "market_cap": self.market_cap,
             "industry": self.industry,
             "sector": self.sector,
@@ -223,4 +224,4 @@ class StockInfoRetriever():
         self.set_forward_eps(stock_info, debug)
 
         if debug:
-            print(self.return_stock_info())
+            print(self.return_stock_info(ticker))

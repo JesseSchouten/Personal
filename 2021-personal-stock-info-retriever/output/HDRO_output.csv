@@ -1,0 +1,26 @@
+,current_ratio,div_yield,enterprise_to_ebitda,enterprise_to_sales,eps,forward_eps,forward_pe,industry,market_cap,peg_ratio,quick_ratio,sector,ticker,trailing_pe
+0,1.204,0.026300002000000003,13.071,1.106,-5.32,144.04,6.52,Chemicals,1333720383488.0,,0.746,Basic Materials,4188.T,
+1,0.741,0.0149,17.802,5.8100000000000005,5.49,11.06,27.38,Specialty Chemicals,157454680064.0,3.21,0.557,Basic Materials,LIN,55.11
+2,26.569,,-26.166,-244.493,-1.52,-0.17,-154.06,Electrical Equipment & Parts,14884249600.0,2.62,25.009,Industrials,PLUG,
+3,0.875,0.019700000000000002,14.481,3.823,5.14,5.89,24.73,Chemicals,68745519104.0,,0.562,Basic Materials,AI.PA,28.34
+4,26.028,,-103.828,42.382,-0.21,-0.15,-103.05,Specialty Industrial Machinery,4599772672.0,-3731.67,25.332,Industrials,BLDP,
+5,2.9050000000000002,0.020800000000000003,18.927,7.145,8.49,10.79,26.86,Chemicals,65717997568.0,2.61,2.621,Basic Materials,APD,34.15
+6,10.656,,-75.934,36.864,0.91,-0.06,-280.17,Specialty Industrial Machinery,24490487808.0,,9.997,Industrials,NEL.OL,18.47
+7,11.334,,-13.479,164120.92,,,,Auto Manufacturers,4072052224.0,-0.7000000000000001,10.761,Consumer Cyclical,NKLA,
+8,1.583,,1429.853,6.704,-0.71,0.2,105.05,Electrical Equipment & Parts,3621913856.0,-12.2,0.8130000000000001,Industrials,BE,
+9,2.439,,-65.013,805.381,-6.7,-0.35000000000000003,-1193.14,Electronic Components,2299547904.0,,2.144,Technology,ITM.L,
+10,4.368,,-88.943,47.454,-0.38,-0.19,-32.39,Electrical Equipment & Parts,1984956800.0,-2.19,2.826,Industrials,FCEL,
+11,5.533,,-170.596,74.383,-6.1,-7.23,-140.25,Electrical Equipment & Parts,1930767616.0,,5.396,Industrials,CWR.L,
+12,2.578,,82.63,5.889,,,,Electrical Equipment & Parts,3186078777344.0,,1.877,Industrials,336260.KS,
+13,11.838,,-114.64,98.865,-2.24,-0.5700000000000001,-329.82,Electrical Equipment & Parts,9802771456.0,,10.729,Industrials,PCELL.ST,
+14,24.34,,-87.48,,-0.8,,,Electrical Equipment & Parts,436062400.0,,23.841,Industrials,AFC.L,
+15,3.598,,-18.059,8.848,-0.33,0.05,77.8,Specialty Industrial Machinery,595893568.0,-1.19,2.683,Industrials,XBC.TO,
+16,2.551,,247.516,7.374,-0.59,0.39,72.05,Specialty Industrial Machinery,406598560.0,,1.972,Industrials,F3C.DE,
+17,11.464,,-46.633,27.495,-0.34,,,Specialty Industrial Machinery,428846688.0,,11.303,Industrials,MCPHY.PA,
+18,,,,,,,,,,,,,ICL.F,
+19,17.767,,-15.63,882.887,,,,Electronic Components,308218016.0,,16.686,Technology,GNCLF,
+20,3.043,,-44.861,33.846,-1.32,,,Industrial Distribution,7159124992.0,,2.3,Industrials,HPUR.OL,
+21,,,,,,,,,,,,,AND,
+22,0.378,,-69.73,1033.769,-0.1,,,Utilities—Renewable,141188768.0,,0.362,Utilities,PHE.L,
+23,,,,,,,,Specialty Chemicals,5054999040.0,,,Basic Materials,ACH.OL,
+24,,,,,,,,,,,,,DYASF,
