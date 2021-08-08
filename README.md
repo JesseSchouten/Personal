@@ -10,4 +10,5 @@ You can find several projects in this repository, either personal or related to 
 ### Miscellaneous
 	* 2020-personal-stock-prize-valuation
 	* 2021-personal-self-study
+	* 2021-personal-stock-info-retriever
  
